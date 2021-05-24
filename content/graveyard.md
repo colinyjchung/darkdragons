@@ -13,7 +13,7 @@ Here, laid to rest, the careless many, the rash, the unwise... those who met the
 <hr/>
 
 * **Ser Ragnarok, Knight** (L1-OR). _2021-05-23(1d)_ 
-<br/>Crushed by dolmen stone. Left gambling debts of 500gp.
+<br/>Crushed by dolmen stone. Leaves gambling debts of 500gp.
 
 * **Surina Juno, Charlton** (L1-EC). _2021-05-23(1d)_
 <br/>Head bashed in by drune staff. Sold false jewels.
