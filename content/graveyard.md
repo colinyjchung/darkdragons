@@ -8,7 +8,7 @@ author = "Colin Y.J. Chung"
 
 ## Herein Lies the Fallen
 
-Here, laid to rest, the careless many, the rash, the unwise... those who met their maker upon a foolish... and most likely an entirely avoidable decision.
+Here, laid to rest, the careless many, the rash, the unwise... those who met their maker upon a foolish... and most likely? A wholly, entirely, _avoidable_ decision.
 
 <hr/>
 
