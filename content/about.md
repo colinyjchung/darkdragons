@@ -6,7 +6,7 @@ aliases = ["about-us","contact"]
 author = "Colin Y.J. Chung"
 +++
 
-Herein lie the deeds of OSR adventurers.
+This is a record of events
 
 
 
