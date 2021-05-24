@@ -8,7 +8,11 @@ author = "Colin Y.J. Chung"
 
 ## Herein Lies the Fallen
 
-* **Ser Ragnarok, Knight.** (L1/P:OR/21-05-23/1d). Crushed by dolmen stone. Left gambling debts of 800gp.
-* **Surina Juno, L1 Charlton.** (L1/P:EC/21-05-23/1d). Head bashed in by drune staff. Sold false jewels.
-* **Thork, L1 Zealot of Loki.** (L1/P:HA/21-05-23/1d). Charmed, and pummeled by same staff. Husband of Aranna.
-* **Thorn, L1 Hedge Wizard.** (L1/P:HA/21-05-23/1d). Torn apart by stone hounds. Fellow escaped convicts: Emma and Merric.
+Here are the careless many, the rash, the unwise... those met their maker upon a foolish, most likely avoidable, decision.
+
+* **Ser Ragnarok, Knight.** (_L1/OR/210523/1d_). Crushed by dolmen stone. Left gambling debts of 800gp.
+* **Surina Juno, Charlton.** (_L1/EC/210523/1d_). Head bashed in by drune staff. Sold false jewels.
+* **Thork, Zealot of Loki.** (_L1/HA/210523/1d_). Charmed, and pummeled by same staff. Husband of Aranna.
+* **Thorn, Hedge Wizard.** (_L1/HA/210523/1d_). Torn apart by stone hounds. Previously escaped prison with Emma and Merric.
+
+**Within the Parentheses**: Level / Player / Date of Death / Lifespan
