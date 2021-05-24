@@ -12,7 +12,7 @@ This website is a record of RPG sessions ran by Colin Chung. Player names are in
 
 My games are ran with a chimeric set of rules. 
 
-At its core, Ben Milton's [Knave](https://questingbeast.itch.io/knave) forms the engine (min(3d6) for ability modifiers, CON+10 item slots). The magic system was pilfered from [Dungeon Crawl Classics (DCC)](https://goodman-games.com/dungeon-crawl-classics-rpg/). Zero spell slots, cast as often as you like with risk of misfire, and tiered successes. And for everything else, a smattering of Gavin Norman's [Old-School Essentials (OSE)](https://necroticgnome.com/collections/old-school-essentials), OSR blogs/zines, [The Angry GM](https://theangrygm.com/) and a heavy dose of improv.
+At its core, Ben Milton's [Knave](https://questingbeast.itch.io/knave) forms the engine (min(3d6) for ability modifiers, CON+10 item slots). The magic system was pilfered from **Dungeon Crawl Classics** [(DCC)](https://goodman-games.com/dungeon-crawl-classics-rpg/). Zero spell slots, cast as often as you like with risk of misfire, and tiered successes. And for everything else, a smattering of Gavin Norman's **Old-School Essentials** [(OSE)](https://necroticgnome.com/collections/old-school-essentials), OSR blogs/zines, [The Angry GM](https://theangrygm.com/) and a heavy dose of improv.
 
 This is my second iteration as a DM. Between 2017-2019, as a first-time DM, I ran twenty-one sessions of D&D 5e for three different parties: Legendary Heroes of Fun & Awesomeness, Blood Hawks, and Brow & Co. I was quickly overburdened with rules bloat. Prepping modules felt like a chore. And 5e's lengthy stat blocks overwhelmed me. Today, the stat blocks in my notes are: 
 
