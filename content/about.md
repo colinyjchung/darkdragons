@@ -22,6 +22,12 @@ Everything else is made up based on context. In short, I hate accounting and I a
 
 I keep a record of dead characters in the [graveyard](https://dragonsinthedark.com/graveyard/). My players reading this should visit to pay their respects.
 
+## Why "Dragons in the Dark"?
+
+I blitzed through countless RPG rulesets in 2016 and if there's one that stuck out more than any other, it's **[Blades in the Dark](https://bladesinthedark.com/)**. I have read and reread this book at least five times. It is, to me, a triumph in game design, with fluid play structure and concepts that just make sense. It treats HP as "stress" (as it should!). It has clear faction play. And headquarters for your party with its own skill tree!
+
+Of course -- this is all theoretical mindplay, as I have yet to run it. But, but, but... At one point, I considered (and developed quite a bit) on a fantasy setting for Blades under the "Forged in the Dark" license, hence the name "Dragons in the Dark". I still might.
+
 ## About Colin
 
 I am a co-founder of [Plural Inc.](https://pluralcopy.com/), a marketing and consulting agency in the DR/DTC space. We are also a [publisher](https://pluralpress.com/) of online courses. Our first project is [Osmosis](https://www.osmosis.dev/), a weekly newsletter that shares the most useful insights from books on entrepreneurship, growth, and marketing.
