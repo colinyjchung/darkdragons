@@ -12,16 +12,16 @@ Here, laid to rest, the careless many, the rash, the unwise... those who met the
 
 <hr/>
 
-* **Ser Ragnarok, Knight.** _L1. OR. 2021-05-23(1d)_ 
+* **Ser Ragnarok, Knight.** (L1-OR) /_2021-05-23(1d)_ 
 <br/>Crushed by dolmen stone. Left gambling debts of 500gp.
 
-* **Surina Juno, Charlton.** _L1. EC. 2021-05-23(1d)_ 
+* **Surina Juno, Charlton.** (L1-EC) /_2021-05-23(1d)_
 <br/>Head bashed in by drune staff. Sold false jewels.
 
-* **Thork, Zealot of Loki.** _L1. HA. 2021-05-23(1d)_
+* **Thork, Zealot of Loki.** (L1-HA) /_2021-05-23(1d)_
 <br/>Charmed then beaten by drune. Husband of Aranna.
 
-* **Thorn, Hedge Wizard.** _L1. HA. 2021-05-23(1d)_
+* **Thorn, Hedge Wizard.** (L1-HA) /_2021-05-23(1d)_
 <br/>Torn apart by stone hounds. Escaped convict.
 
 
