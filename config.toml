@@ -39,7 +39,7 @@ copyright = "&copy; MMXXI, Colin Y.J. Chung"
 [params]
   description = "Dragons in the Dark"      # Your meta description of the site
   header_title = "Dragons in the Dark"                 # Your header title
-  header_subtitle = "The recorded events of a band of merry adventurers." # Your header subtitle
+  header_subtitle = "The misadventures of a band of merry adventurers." # Your header subtitle
   recent_posts = 20                           # Max amount of recent posts to show
   mainSections = ["posts", "post", "blog"]   # Main sections to include in recent posts
   [params.style]                             # CSS style overrides
