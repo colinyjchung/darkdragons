@@ -6,7 +6,7 @@ aliases = ["dead-bodies","graveyard"]
 author = "Colin Y.J. Chung" 
 +++
 
-##Herein Lies the Fallen
+## Herein Lies the Fallen
 
 * **Ser Ragnarok, Knight.** (L1) Crushed by dolmen stone. 20210523 (1d)
 * **Surina Juno, Charlton.** (L1) Head bashed in by drune staff. 20210523 (1d)
