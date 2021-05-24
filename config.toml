@@ -1,0 +1,41 @@
+baseURL = "/"
+title = "Dragons in the Dark"
+languageCode = "en-us"
+theme = "devise"
+relativeURLs = true
+enableEmoji = true
+googleAnalytics = ""
+enableRobotsTXT = true
+copyright = "&copy; MMXXI, Colin Y.J. Chung"
+
+# Main menu items
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    title = "About"
+    url = "/about/"
+    weight = -110
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    title = "Posts"
+    url = "/post/"
+    weight = -100
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    title = "Tags"
+    url = "/tags/"
+    weight = -90
+
+# Configuration Features
+[params]
+  description = "Dragons in the Dark"      # Your meta description of the site
+  header_title = "Dragons in the Dark"                 # Your header title
+  header_subtitle = "The recorded events of a band of merry adventurers." # Your header subtitle
+  recent_posts = 20                           # Max amount of recent posts to show
+  mainSections = ["posts", "post", "blog"]   # Main sections to include in recent posts
+  [params.style]                             # CSS style overrides
+    backgroundColor = "#f8f9fa"
+    fontColor = "#212529"
