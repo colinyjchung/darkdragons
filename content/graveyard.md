@@ -17,7 +17,7 @@ Here, laid to rest, the careless many, the rash, the unwise... those who met the
 <br/>Head bashed in by drune staff. Sold false jewels.
 
 * **Thork, Zealot of Loki.** (_L1 /HA /2021-05-23 /1d_)
-<br/>Charmed by drune, then pummeled by staff. Husband of Aranna.
+<br/>Charmed then beaten by drune. Husband of Aranna.
 
 * **Thorn, Hedge Wizard.** (_L1 /HA /2021-05-23 /1d_)
 <br/>Torn apart by stone hounds. Escaped convict.
