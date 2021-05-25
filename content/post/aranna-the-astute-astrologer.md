@@ -36,6 +36,7 @@ The wizard doesn't say much after that. No clues. Few answers. He leaves.
 I look at the players and ask the question all DMs have asked since 1974, "what do you do?"
 
 #### Spoilers Ahead for Gavin Norman's "Winter's Daughter" (OSE)
+_(If you play RPGS and don't want the above module to be spoiled, stop reading)_
 
 OK, here's the truth. I first asked these four kids what they would do in a situation where they were given a quest and didn't have enough information. They had smart answers. Shop for items. Ask around for information. Find out more about this burial mound. They shopped (bought a bow and a tent), but didn't do anything else. No investigation. No research. "People are boring, I don't want to talk to them," one of them said.
 
@@ -45,7 +46,7 @@ Immediately, one drune casts _magic missile_, while another _hold person_ (it fa
 
 The woman who was to be sacrificed is freaking out. It was her _desire_ to be given to Big Chook, the great beast of the Dolmenwood forest. In an act of malice/mercy(?), Aranna kills her. Six corpses now.
 
-### Straight. Just Go Straight. Straight Ahead.
+## Straight. Just Go Straight. Straight Ahead.
 
 Three strangers come running out of the deep forest. Two are manacled with chains trailing behind them. **Thorn** (_HA_) and **Emma Frog** (_EC_), both hedge wizards and **Merric** (_OR_), a knight. They appear to have just escaped imprisonment of some sort. They don't know what to make of the ghastly scene before them. Aranna tells them she murdered all six... y'know, for reasons. They believe her. And on very thin plot development, decide to join her on a quest to retrieve a ring from a dead knight.
 
@@ -53,7 +54,7 @@ They reach the burial mound. We are in dungeon crawl mode now. They get attacked
 
 Emma cannot wait longer and follows after Merric. Together they reach the tower and are greeted by a troll with a goblin on his back. The goblin has a guest list and Merric and Emma are not on it. He grants them entry on one condition. They must eat a mushroom from his pouch. Merric's skin turns purple. Emma shrinks to six inches tall. Merric puts Emma on his shoulder and they enter the strange tower.
 
-### Tangled in a Plot Twist
+## Tangled in a Plot Twist
 
 At the top of the tower is Princess Snowfall-at-Dusk, an elven maiden who has waited to be reunited with her betrothed, Sir Chyde for over 900 years. Sir Chyde, as you may have guessed, is the same knight these adventurers are supposed to grave-robbing. Merric bargains with the princess for a better deal than the nameless wizard. (The player's father is a loan officer, so...) The princess promises jewels and... a wish. A wish?! Like a wish for anything? Yes. A wish.
 
@@ -61,7 +62,7 @@ The players then proceed to spend a good twenty minutes discussing how they woul
 
 When Merric -- who has now renamed himself **Purple Nurple** (OR) in honor of his permanently purple skin -- and Emma Frog return to the Mortal Realm, they realize two days had passed. (Fairy time moves slower). Aranna and Thorn look hungry.
 
-### Return to the Mortal Realm
+## Return to the Mortal Realm
 
 More dungeon crawling. They come to a double-door with two thick chains linked to the collars of two giant stone hounds. Above the doors is a riddle. The players promptly forget the riddle. They remember the dogs though. And in one of the strangest things I've ever seen in a game of D&D... they do the touch-their-nose-and-say-not-I routine to volunteer someone to... trigger the _obviously_ trapped doors that will animate the stone dogs??!
 
@@ -71,7 +72,7 @@ They now have to figure out the riddle. No more _fighting through all their prob
 
 More dungeon crawling. They come upon a chapel. They're searching the room and rooting out secrets. More smart playing! It's so nice to see them not poking everything with sharp pointy sticks! Just as everyone's about to give up, Aranna figures to look behind a ragged tapestry and finds... **a secret door!** Behind, the priest's quarters, an old writing desk, and inside... the second half of the riddle! Aranna is beside herself and won't stop bragging and gloating. Surprisingly, the others are not annoyed.
 
-### Aranna, the Astute Astrology (and Alleged Annihilator of Six)
+## Aranna, the Astute Astrology (and Alleged Annihilator of Six)
 
 They open the double door, talk to the ghost of Sir Chyde, retrieve the ring, reunite the lovers and receive way too much jewels and their promised wish. They wished for... an extra ten HP each. :p
 
