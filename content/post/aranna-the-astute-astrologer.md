@@ -71,7 +71,7 @@ They now have to figure out the riddle. No more _fighting through all their prob
 
 More dungeon crawling. They come upon a chapel. They're searching the room and rooting out secrets. More smart playing! It's so nice to see them not poking everything with sharp pointy sticks! Just as everyone's about to give up, Aranna figures to look behind a ragged tapestry and finds... **a secret door!** Behind, the priest's quarters, an old writing desk, and inside... the second half of the riddle! Aranna is beside herself and won't stop bragging and gloating. Surprisingly, the others are not annoyed.
 
-## Aranna, the Astute Astrology (and Alleged Annihilator of Six)
+## Aranna, the Astute Astrologer (and Alleged Annihilator of Six)
 
 They open the double door, talk to the ghost of Sir Chyde, retrieve the ring, reunite the lovers and receive way too many jewels (worth 8,800gp) and their promised wish. They wished for... an extra ten HP each. :p
 
