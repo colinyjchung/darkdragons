@@ -22,7 +22,6 @@ tags = [
     "Gavin Norman",
 ]
 categories = [
-    "",
 ]
 +++
 
@@ -36,7 +35,7 @@ The wizard doesn't say much after that. No clues. Few answers. He leaves.
 
 I look at the players and ask the question all DMs have asked since 1974, "what do you do?"
 
-### Spoilers Ahead for Gavin Norman's "Winter's Daughter" (OSE)
+#### Spoilers Ahead for Gavin Norman's "Winter's Daughter" (OSE)
 
 OK, here's the truth. I first asked these four kids what they would do in a situation where they were given a quest and didn't have enough information. They had smart answers. Shop for items. Ask around for information. Find out more about this burial mound. They shopped (bought a bow and a tent), but didn't do anything else. No investigation. No research. "People are boring, I don't want to talk to them," one of them said.
 
@@ -58,34 +57,34 @@ Emma cannot wait longer and follows after Merric. Together they reach the tower 
 
 At the top of the tower is Princess Snowfall-at-Dusk, an elven maiden who has waited to be reunited with her betrothed, Sir Chyde for over 900 years. Sir Chyde, as you may have guessed, is the same knight these adventurers are supposed to grave-robbing. Merric bargains with the princess for a better deal than the nameless wizard. (The player's father is a loan officer, so...) The princess promises jewels and... a wish. A wish?! Like a wish for anything? Yes. A wish.
 
-The players then proceed to spend a good twenty minutes discussing how they would use this wish. I say no to all requests of wishing for more wishes. This isn't the Greendale fountain. After much snacking, playing with sticks (IRL) and more arguments about what they'll do with a prize they haven't won yet, the players sit back down.
+The players then proceed to spend a good twenty minutes discussing how they would use this wish. I say no to all requests of wishing for more wishes. This isn't the Greendale fountain. After much snacking, playing with sticks (IRL) and more arguments about what they'll do with a prize they haven't yet won, the players sit back down.
 
-When Merric, who has now renamed himself **Purple Nurple** (OR) in honor of his permanently purple skin, and Emma return to the Mortal Realm, they realize two days had passed. (Fairy time moves slower). Aranna and Thorn look hungry.
+When Merric -- who has now renamed himself **Purple Nurple** (OR) in honor of his permanently purple skin -- and Emma Frog return to the Mortal Realm, they realize two days had passed. (Fairy time moves slower). Aranna and Thorn look hungry.
 
 ### Return to the Mortal Realm
 
-More dungeon crawling. They come to a double-door with two thick chains linked to the collars of two giant stone hounds. Above the doors is a riddle. The players promptly forget the riddle. They remember the dogs though. And in one of the strangest things I've ever seen in a game of D&D... they do the touch-their-nose-and-say-not-I routine to volunteer someone to... touch the _obviously_ trapped doors that will animate the stone dogs??!
+More dungeon crawling. They come to a double-door with two thick chains linked to the collars of two giant stone hounds. Above the doors is a riddle. The players promptly forget the riddle. They remember the dogs though. And in one of the strangest things I've ever seen in a game of D&D... they do the touch-their-nose-and-say-not-I routine to volunteer someone to... trigger the _obviously_ trapped doors that will animate the stone dogs??!
 
-Thorn loses and is mangled, disemboweled and chewed to bits by the stone hounds. The survivors attempt more silly ideas like shooting an arrow (at a dog made of stone), they cast a spell of _hallucination_ (at, again, dogs made of stone), they comically attempt to pretend to be Sir Chyde (because magic stone dogs are easily fooled, right?). Eventually, I remind them about the riddle above the door. They all accuse me of not mentioning it. Liars. I did.
+Thorn loses and is, as you may have guessed, then mangled, disemboweled and chewed to bits by the stone hounds. The survivors attempt more silly ideas like shooting an arrow (at a magical dog made of stone), they cast a spell of _hallucination_ (at, again, magical dogs made of stone), they comically attempt to pretend to be Sir Chyde (because magic stone dogs are easily fooled, right?). Eventually, I remind them about the riddle above the door. They all accuse me of not mentioning it. Liars. I did.
 
 They now have to figure out the riddle. No more _fighting through all their problems_. I am pleased. Purple Nurple volunteers to travel back to Fae to inquire Princess Snowfall-at-Dusk (gawd, I love that name). She doesn't know. They find the skeletons of Sir Chyde dancing in the air. They don't know. Emma and Aranna find a mould-covered mural, and smartly wrap their hoods around their faces (like COVID masks) to clean it off. The first clue to the riddle!
 
-More dungeon crawling. They come upon a chapel. They're searching the room and rooting out secrets. More smart playing! It's so nice to see them not hitting everything with sharp pointy sticks! Just as everyone's about to give up, Aranna figures to look behind a ragged tapestry... **a secret door!** Behind, the priest's quarters, an old writing desk, and inside... the second half of the riddle! Aranna is beside herself and won't stop bragging and gloating. Surprisingly, the others are not annoyed.
+More dungeon crawling. They come upon a chapel. They're searching the room and rooting out secrets. More smart playing! It's so nice to see them not poking everything with sharp pointy sticks! Just as everyone's about to give up, Aranna figures to look behind a ragged tapestry and finds... **a secret door!** Behind, the priest's quarters, an old writing desk, and inside... the second half of the riddle! Aranna is beside herself and won't stop bragging and gloating. Surprisingly, the others are not annoyed.
 
 ### Aranna, the Astute Astrology (and Alleged Annihilator of Six)
 
-They open the double door, talk to the ghost of Sir Chyde, retrieve the ring, reunite the lovers and receive way too much jewels and their promised wish. They wished for an extra ten HP each. :p
+They open the double door, talk to the ghost of Sir Chyde, retrieve the ring, reunite the lovers and receive way too much jewels and their promised wish. They wished for... an extra ten HP each. :p
 
 _/end session_
 
-## Chekhov's Ticking Time Bombs
+#### Chekhov's Ticking Time Bombs
 
 * Thork may be dead, but his wife, Aranna isn't. Her inheritance? 800gp of debt to the cult of Loki.
 * The nameless wizard who hired the party to retrieve the soul ring never got his ring
-* Emma Frog and Purple Nurple are both fugitives from a neighboring region. What's their story?
+* Emma Frog, Purple Nurple, and the now deceased Thorn are fugitives from a neighboring region. What's their story?
 * Two drunes of the Dolmenwood cult of sorcerers were murdered in cold blood.
 
-## DM Notes to Myself
+#### DM Notes to Myself
 
 This being the first time I've properly ran a session in eighteen months, and the first true stress test of my cobbled together OSR ruleset, I forgot a few things. Most notably, dungeon time. This meant the players did not get to enjoy the joys of wandering monsters. I'll be implementing Angry's system for [random encounter](https://theangrygm.com/redesigning-random-encounters-1/) for all dungeon crawls.
 
