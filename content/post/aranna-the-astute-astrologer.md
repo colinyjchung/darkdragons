@@ -79,10 +79,11 @@ _/end session_
 
 #### Chekhov's Ticking Time Bombs
 
-* Thork may be dead, but his wife, Aranna isn't. Her inheritance? 800gp of debt to the cult of Loki.
+* Thork may be dead, but his wife Aranna isn't. Her inheritance? 800gp of debt to the cult of Loki.
 * The nameless wizard who hired the party to retrieve the soul ring never got his ring
 * Emma Frog, Purple Nurple, and the now deceased Thorn are fugitives from a neighboring region. What's their story?
 * Two drunes of the Dolmenwood cult of sorcerers were murdered in cold blood.
+* They're filthy rich with jewelry. Better find a way to hide or bank it... bandits abound.
 
 #### DM Notes to Myself
 
