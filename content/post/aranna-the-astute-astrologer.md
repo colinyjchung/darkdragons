@@ -73,7 +73,7 @@ More dungeon crawling. They come upon a chapel. They're searching the room and r
 
 ## Aranna, the Astute Astrology (and Alleged Annihilator of Six)
 
-They open the double door, talk to the ghost of Sir Chyde, retrieve the ring, reunite the lovers and receive way too much jewels and their promised wish. They wished for... an extra ten HP each. :p
+They open the double door, talk to the ghost of Sir Chyde, retrieve the ring, reunite the lovers and receive way too many jewels (worth 8,800gp) and their promised wish. They wished for... an extra ten HP each. :p
 
 _/end session_
 
