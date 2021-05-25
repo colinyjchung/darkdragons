@@ -87,6 +87,6 @@ _/end session_
 
 #### DM Notes to Myself
 
-This being the first time I've properly ran a session in eighteen months, and the first true stress test of my cobbled together OSR ruleset, I forgot a few things. Most notably, dungeon time. This meant the players did not get to enjoy the joys of wandering monsters. I'll be implementing Angry's system for [random encounter](https://theangrygm.com/redesigning-random-encounters-1/) for all dungeon crawls.
+This being the first time I've properly ran a session in eighteen months, and the first true stress test of my cobbled together OSR ruleset, I forgot a few things. Most notably, dungeon time. This meant the players did not get to enjoy the joys of wandering monsters. I'll be implementing Angry's system for [random encounters](https://theangrygm.com/redesigning-random-encounters-1/) for all dungeon crawls.
 
-I really wished I had remembered. The Wormtongues in Winter's Daughter make for a wonderful minion to drain the players's resources.
+I really wish I had remembered. The Wormtongues in Winter's Daughter make for a wonderful minion to drain the players's resources.
