@@ -36,7 +36,6 @@ The wizard doesn't say much after that. No clues. Few answers. He leaves.
 I look at the players and ask the question all DMs have asked since 1974, "what do you do?"
 
 #### Spoilers Ahead for Gavin Norman's "Winter's Daughter" (OSE)
-_(If you play RPGS and don't want the above module to be spoiled, stop reading)_
 
 OK, here's the truth. I first asked these four kids what they would do in a situation where they were given a quest and didn't have enough information. They had smart answers. Shop for items. Ask around for information. Find out more about this burial mound. They shopped (bought a bow and a tent), but didn't do anything else. No investigation. No research. "People are boring, I don't want to talk to them," one of them said.
 
