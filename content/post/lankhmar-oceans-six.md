@@ -47,7 +47,7 @@ Who to visit first though? After some mucking about, it’s clear their jewelry 
 
 Nylokk takes them down to his secret cellar where he has a hidden vault. They go through the terms of their contract for storing goods in Nylokk's safe, liquidate a few pieces of jewelry for cash, and name their beneficiaries should anything happen to them. They also set a password, sign the contract and it's magically sealed. Once that's done, Nylokk tells them to lean in as he's got a job for them.
 
-Igrik of the East is a merchant who's trying to climb the social ladder of Lankhmar. He has taken to collecting rare art to impress the nobility. In three night's time, he will hold a masque to showcase his latest acquisition. Igrik's vault, which is usually well-guarded, will have his security thinned out that night. It's the perfect time to rob the place. Nylokk hands a map he somehow got his hands on to the party. _Elaborate heist? Elaborate heist? Elaborate heist?_ 
+Igrik of the East is a merchant who's trying to climb the social ladder of Lankhmar. He has taken to collecting rare art to impress the nobility. In three night's time, he will hold a masque to showcase his latest acquisition. Igrik's vault, which is usually well-guarded, will have his security thinned out that night. It's the perfect time to rob the place. Nylokk shows them a map he _somehow-got-his-hands-on_. _Elaborate heist? Elaborate heist? Elaborate heist?_ 
 
 ## The Plan
 
