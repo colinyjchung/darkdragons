@@ -41,9 +41,9 @@ Two encounters in which the players didn’t murder the NPCs? And were rewarded?
 
 ## The City of Sevenscore Thousand Smokes
 
-They arrive at Lankhmar the next morning. Aranna has an old friend from her hometown who’s now a noted bladesmith, **Rivis Rightby**. Darrak has a very distant relative who’s now known as **Ogo the Blind**, a notorious fence. Ser Purple Nurple has a brother who’s now a poor tailor in the slums, but despite his impoverished state... has always offered to a place for Purple to lay low or stay for the night. And of course, Veleris owes **Nylokk** 100gp in gambling debt, and must own up to it... knowing he could be a good contact to have.
+They arrive at Lankhmar the next morning. Aranna has an old friend from her hometown who’s now a noted bladesmith, **Rivis Rightby**. Darrak has a very distant relative who’s now known as **Ogo the Blind**, a notorious fence. Ser Purple Nurple has a brother who’s now a poor tailor in the slums, but despite his impoverished state... has always offered a place for Purple to lay low or stay for the night. And of course, Veleris owes **Nylokk** 100gp in gambling debt, and must own up to it... knowing he could be a good contact to have.
 
-Who to visit first though? After some mucking around, it’s clear their jewelry is no good without turning it into liquid currency. So they visit Nylokk Gnuhk, proprietor of **The Wrymskull**, who moonlights as a fence, an ersatz banker to adventurers, and a source of other bits of villainy.
+Who to visit first though? After some mucking about, it’s clear their jewelry is no good without turning it into liquid currency. So they visit Nylokk Gnuhk, proprietor of **The Wrymskull**, who moonlights as a fence, an ersatz banker to adventurers, and a source of other bits of villainy.
 
 Nylokk takes them down to his secret cellar where he has a hidden vault. They go through the terms of their contract for storing goods in Nylokk's safe, liquidate a few pieces of jewelry for cash, and name their beneficiaries should anything happen to them. They also set a password, sign the contract and it's magically sealed. Once that's done, Nylokk tells them to lean in as he's got a job for them.
 
