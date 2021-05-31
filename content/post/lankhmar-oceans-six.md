@@ -67,7 +67,7 @@ They're all in.
 
 ## The Prize
 
-In the cellar, Veleris fumbles with the vault lock once, twice... and suddenly five guards are on them. They're from the Slayer Brothers gang, hired by Igrik for extra security. They're trying to prove themselves and fight to the death. Aranna and Darrak guard Veleris while he continues to work on the lock. Orlan, Purple Purple and Emma act as the front line. The guards are dispatched without much injury. Darrak kills one with a perfectly aimed shot to his right eye. There's much debate on whether or not to keep the eyeball. I convince Darrak's player to waste an item slot to keep this souvenir without breaking. The others tell him it's a dumb idea.
+In the cellar, Veleris fumbles with the vault lock once, twice... and suddenly five guards are on them. They're from the Slayer Brothers gang, hired by Igrik for extra security. They're trying to prove themselves and fight to the death. Aranna and Darrak guard Veleris while he continues to work on the lock. Orlan, Purple Nurple and Emma act as the front line. The guards are dispatched without much injury. Darrak kills one with a perfectly aimed shot to his right eye. There's much debate on whether or not to keep the eyeball. I convince Darrak's player to waste an item slot to keep this souvenir without breaking. The others tell him it's a dumb idea. Darrak listens to his team mates.
 
 Veleris unlocks the vault door, but hesitates on opening it. He hears growling and hissing. A new plan is needed. Aranna and Emma Frog stand at ready while Orlan swings the door open. They immediately see two desert jaguars. Emma casts _hallucination_ turning the entire room into a desert with foxes and rabbits for the jaguars to chase in a corner. (Orlan suggested pizza instead of wild animals. His idea gets shot down.) The jaguars are now distracted by lunch. Aranna fires and maims one. Purple Nurple rushes in to take care of the other.
 
@@ -101,6 +101,6 @@ _/end session_
 
 Angry's system for [random encounters](https://theangrygm.com/redesigning-random-encounters-1/) and as a timer worked exceedingly well. When a player fails at a check and wants to "try again", I simply add another d6 into the pool. It's a great physical reminder that lapsed time means lurking threats.
 
-Secondly, I was also quite pleased with my small modification of this module. It was not originally a planned heist. The module calls for the party to begin in the cellar _in medias res_. By having Nylokk sell them a map, this allowed the players to work together, plan, scheme and execute. This triggered a fountain of creativity and strategic thinking, which aligns with my goal of making RPGs more imagination-driven versus stare-at-character-sheet-and-kill-everything.
+Secondly, I was also quite pleased with my small modification of this module. It was not originally a planned heist. The module calls for the party to begin in the cellar _in medias res_. By having Nylokk sell them a map, this allowed the players to work together, plan, scheme and execute. This triggered a fountain of creativity and strategic thinking, which aligns with my goal of making my RPGs more OSR-imagination-driven versus stare-at-character-sheet-and-kill-everything.
 
 The group came up with and executed on a plan worthy of a heist movie. I couldn't ask for anything more. Great game, guys.
