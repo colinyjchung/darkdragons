@@ -25,9 +25,9 @@ categories = [
 ]
 +++
 
-Our merry band of adventurers are partying it up at the _Black Pig_ after scoring an embarrassment of wealth from Princess Snowfall-at-Dusk, when out of the corner of **Aranna's** (_AJ_) eye, she notices **Veleris** (_EB_), a former lover (and a pickpocket). She avoids eye contact. **Orlan** (_HA_), glances over and sees his ex-sergeant, **Darrak** (_AB_) sharing drinks with Veleris. Orlan, too, avoids eye contact. Finally, **Purple Nurple** (_OR_) sees Darrak as well, someone he and **Emma Frog** (_EC_) had shared a prison cell with. Purple Nurple, not knowing the preexisting social entanglements, calls Darrak over.
+Our merry band of adventurers are partying it up at the _Black Pig_ after scoring an embarrassment of wealth from Princess Snowfall-at-Dusk, when out of the corner of **Aranna's** (_AJ_) eye, she notices **Veleris** (_EB_), a former love-interest (and a pickpocket). She avoids eye contact. **Orlan** (_HA_), glances over and sees his ex-sergeant, **Darrak** (_AB_) sharing drinks with Veleris. Orlan, too, avoids eye contact. Finally, **Purple Nurple** (_OR_) sees Darrak as well, someone he and **Emma Frog** (_EC_) had shared a prison cell with. Purple Nurple, not knowing the preexisting social entanglements, calls Darrak over.
 
-A series of awkward exchanges are had between the six. Darrak is upset the other two broke out of prison without him. Veleris and Aranna don't say much to each other. Perhaps Aranna knows of his gambling debts. Perhaps she's upset at how things ended. But the party eventually reveal their good fortune and Veleris tells them of a contact in the city of Lankhmar... a fence who could help them store their new fortune. A tavern owner named Nylokk Gnuhk (_spell it backwards_...).
+A series of awkward exchanges are had between the six. Darrak is upset the other two broke out of prison without him. Veleris and Aranna don't say much to each other. Perhaps Aranna knows of his gambling debts. Perhaps she's upset at how things ended. But the party eventually reveal their good fortune and Veleris tells them of a contact in the city of Lankhmar... a fence who could help them store their new fortune. A tavern owner named **Nylokk Gnuhk** (_spell it backwards_...).
 
 It's agreed they will travel to the _City of the Black Toga, The City of Sevenscore Thousand Smokes_... the City of **Lankhmar**.
 
@@ -71,7 +71,7 @@ In the cellar, Veleris fumbles with the vault lock once, twice... and suddenly f
 
 Veleris unlocks the vault door, but hesitates on opening it. He hears growling and hissing. A new plan is needed. Aranna and Emma Frog stand at ready while Orlan swings the door open. They immediately see two desert jaguars. Emma casts _hallucination_ turning the entire room into a desert with foxes and rabbits for the jaguars to chase in a corner. (Orlan suggested pizza instead of wild animals. His idea gets shot down.) The jaguars are now distracted by lunch. Aranna fires and maims one. Purple Nurple rushes in to take care of the other.
 
-Once the illusion melts away, they realize there's yet another vault door. A vault inside a vault. Veleris is called up to do his thing again while everyone else waits. Fortunately, he picks the lock with a natural twenty. Unfortunately, it triggers a spell. The bronze door melts away and turns into a wall of fire (a firewall?). Emma Frog casts _magic bulwark_ in an attempt to nullify the spell. It doesn't work. Purple Nurple suggests throwing water on it. Aranna says it's magic fire, it won't help. (_DM note: It would've helped._) Emma Frog casts _magic bulwark_ again. The flame's intensity lessens by two thirds. Aranna takes the risk of running through and gets burnt a little. Emma casts _magic bulwark_ one last time. The fire vanishes. Aranna, singed and annoyed, scowls at Emma.
+Once the illusion melts away, they realize there's yet another vault door. _A vault inside a vault_! Veleris is called up to do his thing again while everyone else waits. Fortunately, he picks the lock with a natural twenty. Unfortunately, it triggers a spell. The bronze door melts away and turns into a wall of fire (_a firewall? hyuk hyuk._). Emma Frog casts _magic bulwark_ in an attempt to nullify the spell. It doesn't work. Purple Nurple suggests throwing water on it. Aranna says it's magic fire, it won't help. (_DM note: It would've helped._) Emma Frog casts _magic bulwark_ again. The flame's intensity lessens by two thirds. Aranna takes the risk of running through and gets burnt a little. Emma casts _magic bulwark_ one last time. The fire vanishes. Aranna, singed and annoyed, scowls at Emma.
 
 Surprisingly, no more guards appear.
 
@@ -88,9 +88,11 @@ _/end session_
 #### Chekhov's Ticking Time Bombs
 
 **NEW**
+
 * Igrik of the East will eventually figure out he's been robbed. And not just of capital, but incredibly valuable business documents.
 
 **OLD**
+
 * Thork may be dead, but his wife Aranna isn't. Her inheritance? 800gp of debt to the cult of Loki.
 * Emma Frog, Purple Nurple, and Darrak are fugitives from a neighboring region.
 * Two drunes of the Dolmenwood cult of sorcerers were murdered in cold blood.
@@ -101,4 +103,4 @@ Angry's system for [random encounters](https://theangrygm.com/redesigning-random
 
 Secondly, I was also quite pleased with my small modification of this module. It was not originally a planned heist. The module calls for the party to begin in the cellar _in medias res_. By having Nylokk sell them a map, this allowed the players to work together, plan, scheme and execute. This triggered a fountain of creativity and strategic thinking, which aligns with my goal of making RPGs more imagination-driven versus stare-at-character-sheet-and-kill-everything.
 
-The group came up with and executed on a plan worthy of a heist movie. I couldn't ask for anymore more.
+The group came up with and executed on a plan worthy of a heist movie. I couldn't ask for anything more. Great game, guys.
