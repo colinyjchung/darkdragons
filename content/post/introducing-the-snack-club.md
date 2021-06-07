@@ -110,7 +110,7 @@ The remaining three retrieve masks and place them on Orlan and Lane to prevent f
 
 Veleris, Lane and Emma go up to the fourth floor. Veleris has no problem opening the door using the key they found in Igrik's vault.
 
-## The Seven Deadly Sins
+## The Seven Deadly Vizards
 
 Inside, they see their prize. The seven Gilded Masks of Djil. Lane's PC keeps forgetting how the masks were originally used and insists they put them on to kiss the Spider Kings. It's funny. Or not. Maybe it's because none of our kids go to church and have no idea what "absolving sins" or "cleansing the followers of worldly sins" means. So I take a small break and explain how these people would get into heaven when they were kissed by the priestesses and their sins are forgiven. _Look at that. A lesson in religion as well!_
 
@@ -122,7 +122,7 @@ Downstairs. Aranna hears footsteps. A rival group of thieves had followed them i
 
 Upstairs, Aranna too, falls prey to the evil masks. She starts eyeing everyone's possessions **greedily** and schemes of ways to steal them. The two thieves come up, nab two masks with thick bags, and runs.
 
-With all five adventurers put out, the remaining Gilded Masks escape into the night... causing immense chaos and damage. Half the city of Lankhmar falls into an uncontrollable riot... as their worst, most base human urges, manifest via the Seven Deadly Sins. It would take three days before the Sorcerer's Guild and Lankhmar's army to regain order in the city. During this time, the increased bulgary is enough to destory Igrik, sending him home to the East.
+With all five adventurers put out, the remaining Gilded Masks escape into the night... causing immense chaos and damage. Half the city of Lankhmar falls into an uncontrollable riot... as their worst, most base human urges, manifest via the Seven Deadly Sins. It would take three days before the Sorcerer's Guild and Lankhmar's army regained order of the city. During this time, the increased bulgary is enough to destroy Igrik, sending him home to the East.
 
 But back in the present --
 
