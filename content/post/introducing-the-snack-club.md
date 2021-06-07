@@ -122,9 +122,13 @@ Downstairs. Aranna hears footsteps. A rival group of thieves had followed them i
 
 Upstairs, Aranna too, falls prey to the evil masks. She starts eyeing everyone's possessions **greedily** and schemes of ways to steal them. The two thieves come up, nab two masks with thick bags, and runs.
 
-With all five adventurers put out, the remaining Gilded Masks escape into the night... causing immense chaos and damage. Half the city of Lankhmar falls into an uncontrollable riot... as their worst, most base human urges, manifest via the Seven Deadly Sins.
+With all five adventurers put out, the remaining Gilded Masks escape into the night... causing immense chaos and damage. Half the city of Lankhmar falls into an uncontrollable riot... as their worst, most base human urges, manifest via the Seven Deadly Sins. It would take three days before the Sorcerer's Guild and Lankhmar's army to regain order in the city. During this time, the increased bulgary is enough to destory Igrik, sending him home to the East.
 
-The group come to, out of their delirium an hour after the masks had escaped. They head back to the Wyrmskull, empty handed except for a few gems from the collars. No gilded masks. No real treasure. One dead ally. 600gp lost and an expensive full-plate armor stolen.
+But back in the present --
+
+## We Can Do Anything We Want -- If We Grow Up
+
+The group come to, out of their delirium an hour after the masks had escaped. They head back to the Wyrmskull, empty handed except for a few gems from the collars. No gilded masks. No real treasure. One dead ally. 600gp lost and an expensive full-plate armor _stolen_.
 
 Nylokk informs them a young man named Hriseit is asking around for them. Strange. Also - in the corner of the tavern, which is usually empty, sits a shivering man, hugging himself, mumbling to himself. They walk up to the odd man. He's near incoherent. "The People of the Pit! The People of the Pit! They got all my friends! They're all dead! And they did this to me!!!" He lifts up his shirt, and there are short tentacles coming out of his belly button. "They're all dead! They're all dead!"
 
