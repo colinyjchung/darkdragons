@@ -25,6 +25,6 @@ Here, laid to rest, the careless many, the rash, the unwise... those who met the
 <br/>Torn apart by stone hounds. Escaped convict.
 
 * **Darrak, Soldier** (L2-AB). _2021-06-06(7d)_
-<br/>Killed by Gravak, Spider King Boss (on magic steroids). Orlan's ex-sergeant.
+<br/>Killed by Gravak, gang boss on magic steroids.
 
 _May ye all rest in peace._
