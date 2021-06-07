@@ -139,10 +139,12 @@ _/end session_
 #### Chekhov's Ticking Time Bombs
 
 **NEW**
+
 * Who are the _People of the Pit_?
 * Who is this Hriseit asking around Lankhmar for The Snack Club?
 
 **OLD**
+
 * Thork may be dead, but his wife Aranna isn't. Her inheritance? 800gp of debt to the cult of Loki.
 * Emma Frog and Purple Nurple are fugitives from a neighboring region.
 * Two drunes of the Dolmenwood cult of sorcerers were murdered in cold blood.
