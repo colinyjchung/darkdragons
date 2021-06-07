@@ -136,6 +136,15 @@ Nylokk looks over. Tells them that something's  strange going up north in the Ei
 
 _/end session_
 
+#### Bank Balance
+
+**Stored in Wyrmskull Vault**
+
+* 27 Ice Necklaces * 200gp = 5,400gp
+* 12 Ice Jewels * 150gp = 1800gp
+
+**TOTAL**: 7,200gp
+
 #### Chekhov's Ticking Time Bombs
 
 **NEW**
