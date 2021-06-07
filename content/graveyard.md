@@ -24,4 +24,7 @@ Here, laid to rest, the careless many, the rash, the unwise... those who met the
 * **Thorn, Hedge Wizard** (L1-HA). _2021-05-23(1d)_
 <br/>Torn apart by stone hounds. Escaped convict.
 
+* **Darrak, Soldier** (L2-AB). _2021-06-06(7d)_
+<br/>Killed by Gravak, Spider King Boss (on magic steroids). Orlan's ex-sergeant.
+
 _May ye all rest in peace._
