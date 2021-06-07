@@ -141,10 +141,10 @@ _/end session_
 **Stored in Wyrmskull Vault**
 <br/>(Deposited Year of the Worm, Month of the Eagle, Day of the Fox)
 
-* 27 Ice Necklaces * 200gp = 5,400gp
-* 12 Ice Jewels * 150gp = 1800gp
+* 23 Ice Necklaces * 200gp = 4,600gp
+* 12 Ice Jewels * 150gp = 1,800gp
 
-**TOTAL**: 7,200gp
+**TOTAL**: 6,400gp
 
 #### Chekhov's Ticking Time Bombs
 
