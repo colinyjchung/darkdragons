@@ -139,7 +139,7 @@ _/end session_
 #### The Snack Club's Portfolio
 
 **Stored in Wyrmskull Vault**
-(Deposited Year of the Worm, Month of the Eagle, Day of the Fox)
+<br/>(Deposited Year of the Worm, Month of the Eagle, Day of the Fox)
 
 * 27 Ice Necklaces * 200gp = 5,400gp
 * 12 Ice Jewels * 150gp = 1800gp
