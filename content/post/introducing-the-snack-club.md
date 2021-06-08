@@ -164,9 +164,3 @@ _/end session_
 #### DM Notes to Myself
 
 So the seven sins caused by the psychoactive funereal spices was quite entertaining. All the players role-played their sins quite well and tried to solve the problem together. Unfortunately, The Snack Club were no match for a second round of the sins when the Gilded Masks of Djil charmed them, allowing the masks to escape and wreak havoc upon Lankhmar.
-
-
-### H3 Test
-#### H4 Test
-##### H5 Test
-###### H6 Test
