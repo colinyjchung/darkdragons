@@ -46,7 +46,7 @@ These gilded masks (worth a fortune) worn by the priestesses were never found. T
 
 As they leave the plaza, a robed figure in black sack cloth approaches from the alleyway. Under the phantom's cowl is black nothingness... genderless, ageless, ethereal. A robed-covered finger beckons to come closer. The group hesitates. In a tortured, nails-on-chalkboard voice, the stranger exclaims, "you'd be dead if I wished. Now, come here!" The party refuses and leaves the plaza... avoiding an encounter with who-knows-what.
 
-## Spider King Gang
+## Make It Rain!!
 
 The party goes to the tenements south of the Street of the Gods where the temple of Djil once was. It's like the [Kowloon Walled City](https://bluelotus-gallery.com/new-events/2019/11/8/city-of-darkness-by-greg-girard-amp-ian-lambot)... or the [favelas](https://en.wikipedia.org/wiki/Favela) of Rio de Janiero. Just accretive stacks of shacks and lean-tos. A slum smelling of unwashed bodies, bodily waste, sickness, and rotting food.
 
@@ -55,6 +55,8 @@ Veleris accidentally knocks over a ramshackle hovel. The family comes out scream
 **SIDE NOTE:** My brother and I once did the math on D&D economics. One gold piece (gp) is about $100 in today's dollars. Hence, 100gp is $10,000. The amount you'd have to declare when you travel. 10,000gp is $1 million, the price of a house in Vancouver. But kids don't have a sense of what that _really_ means. Why _not_ give a street urchin $1,000?
 
 Back to our regular programming...
+
+## Spider King Gang
 
 They move on, closer towards the temple, when suddenly, a deathly silence. Everyone around our adventurers shutters their homes, hides, disappears. What's going on? Six large men appear, each with a spider tattoo on their neck, carrying clubs and swords. Next to the leader, a drunken wizard, wide-eyed and frantic.
 
@@ -162,3 +164,9 @@ _/end session_
 #### DM Notes to Myself
 
 So the seven sins caused by the psychoactive funereal spices was quite entertaining. All the players role-played their sins quite well and tried to solve the problem together. Unfortunately, The Snack Club were no match for a second round of the sins when the Gilded Masks of Djil charmed them, allowing the masks to escape and wreak havoc upon Lankhmar.
+
+
+### H3 Test
+#### H4 Test
+##### H5 Test
+###### H6 Test
