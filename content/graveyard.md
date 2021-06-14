@@ -28,3 +28,14 @@ Here, laid to rest, the careless many, the rash, the unwise... those who met the
 <br/>Killed by Gravak, gang boss on magic steroids.
 
 _May ye all rest in peace._
+
+## The Pauper's Grave
+
+Here, laid to rest, hench-people and hirelings who lost their lives following adventurers to places they don't belong.
+
+<hr/>
+
+* **Adele, Archer** (Employer-HA). _2021-06-13 (1d)_ 
+<br/>Suffocated by ghost of chaos knight.
+
+_May ye all rest in peace._
