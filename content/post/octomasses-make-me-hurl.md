@@ -88,7 +88,7 @@ At the bottom of the chute is a cave 50' across with a large hole, and coming up
 
 The Snack Club climb down. They see a cave entrance. It's like they're climbing down an elevator shaft and there are doorways at different floors. Emma, Aranna, and Orlan... along with their hench-people, Somme, Adele, Beegull, and Hemdan decide to enter the cave. Orlan, Purple Nurple,  and Lane decide to keep going down the rope-ladder.
 
-**The Snack Club have officially _split the party_.**
+**The Snack Club has officially _split the party_.**
 
 Team A enter the caves and realizes they've walked into a crypt. There are desiccated corpses exposed in broken coffins. Some glitter with jewels. Another holds a strange matte-black sword with a faint darkness. The party is smart enough to not touch anything and start to leave...
 
@@ -119,9 +119,9 @@ Unlike the last session where The Snack Club dispersed their forces and avoided 
 
 As Lane, Orlan and Purple Nurple mow down cultists, writhing octo-masses leap out like strange alien bodies. Emma casts _cure wounds_ on Lane, on Orlan. Many of Aranna's arrows find their way to the chanting cultists. She deals the death blow to the yellow robed cultist. Veleris sneaks through and cuts down a red-robed one.
 
-And just as the smell of victory comes close... two more grey-robed cultists rush in accompanied by a... _ten-foot-tall mass of tentacles?!_ It's humanoid, but not. It's a science experiment gone wrong. A hybrid of the pit beast and human. It's foul and disgusting. Aranna gags again. Orlan, Lane and Purple Nurple work together to cut the monstrosity down. (_At this moment, Aranna's player looks over at Orlan's table and realized that he had now use Beegull the entire game. She screams at him. As she should have._).
+And just as the smell of victory comes close... two more grey-robed cultists rush in accompanied by a... _ten-foot-tall mass of tentacles?!_ It's humanoid, but not. It's a science experiment gone wrong. A hybrid of the pit beast and human. It's foul and disgusting. Aranna gags again. Orlan, Lane and Purple Nurple work together to cut the monstrosity down. (_At this moment, Aranna's player looks over at Orlan's table and realized that he had not use his henchman Beegull the entire game. She screams at him. As she should._).
 
-With a fourth heavy fighter in the mix, the battle ends quickly. There are crushed octo-masses smeared all over the floor of the cave. A mass of tentacles in another corner. Burst cultists lay sprawled out.
+With a fourth heavy fighter in the mix, the battle ends quickly. There are crushed octo-masses smeared all over the floor of the cave. A mass of tentacles in another corner. Burst cultists lay sprawled out in a scene of gore and torn flesh.
 
 Their adventure is not over, but it's dinnertime IRL. 'til next week.
 
@@ -132,8 +132,8 @@ _/end session_
 **Stored in Wyrmskull Vault**
 <br/>(Deposited Year of the Worm, Month of the Eagle, Day of the Fox)
 
-* 19 Ice Necklaces * 200gp = 3,800gp
-* 12 Ice Jewels * 150gp = 1,800gp
+* 19 Ice Necklaces x 200gp = 3,800gp
+* 12 Ice Jewels x 150gp = 1,800gp
 
 **SUBTOTAL**: 5,600gp
 **INTEREST**: 56gp
@@ -142,9 +142,11 @@ _/end session_
 #### Chekhov's Ticking Time Bombs
 
 **NEW**
+
 * _What_ exactly is going on here? Why are there tentacles everywhere?
 
 **OLD**
+
 * Thork may be dead, but his wife Aranna isn't. Her inheritance? 800gp of debt to the cult of Loki.
 * Emma Frog and Purple Nurple are fugitives from a neighboring region.
 * Two drunes of the Dolmenwood cult of sorcerers were murdered in cold blood.
@@ -152,4 +154,4 @@ _/end session_
 
 #### DM Notes to Myself
 
-Keeping track of hench people is hard.
+Keeping track of hench people and octo-masses is hard. Also, a party of ten is much harder to threaten. Throughout the module I adjusted the number of cultists to ensure a sense of danger.
