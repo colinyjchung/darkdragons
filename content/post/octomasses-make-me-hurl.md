@@ -1,6 +1,6 @@
 +++
 author = "Colin Y.J. Chung"
-title = "Octo-Masses Make Me Gag"
+title = "Octo-Masses Make Me Vomit"
 date = "2021-06-13"
 description = "The Churro Formation"
 tags = [
@@ -44,17 +44,17 @@ The planning is difficult to accept. It's math. Purple Nurple accuses Veleris of
 
 After a lot of resistance, the entire party finally accepts that paying and feeding hench people is part of adventuring life. And they head over to the Gold Rilk, a tavern where misfits, rogues and scoundrels can be hired. Aranna hires a laborer with a limp named Hemdan who chews loudly. Purple Nurple finds a skilled archer named Elyssa. Emma hires a light footman named Somme. Orlan finds a ship-loving footman named Beegull and a wiry archer by the moniker of Adele. _(At this point, Purple Nurple leaves IRL for a soccer game, and Veleris's PC takes over)._
 
-And with their crew in place, they're off to cross the Inner Sea. Beegull, finds them passage for 3gp per head, a bargain from the usual 5gp. Fortunately, their journey is uneventful. They party makes a stopover in Kvarch Nar. And from there they hike up following the Mangrishik river to Mlurg Nar. 
+And with their crew in place, they're off to cross the Inner Sea. Beegull, finds them passage for 3gp per head, a bargain from the usual 5gp. Fortunately, their journey is uneventful. The party makes a stopover in Kvarch Nar. And from there, they hike... following the Mangrishik river to Mlurg Nar. 
 
 Mlurg Nar is usually a busy and somewhat lawless mining town. But with the recent disappearances of prospectors, townsfolk and miners... it is noticeably less so.
 
 #### Spoilers Ahead for Joseph Goodman's "The People of the Pit" (DCC)
 
-In Mlurg Nar, and unlike previous adventures, the party takes the time to research. Emma accosts a stranger on the street. The man is frightened and tells her to talk to the duke. Emma attempts to harass another random person, bumps into a bespectacled man - an armful of scrolls and papers. He tells her of Mlurg Nar's dark secret -- how for centuries, they have sacrificed virgins to the "pit-beast" up North. It was a solution thought of by an order of knight-priests. And the devil's bargain worked. Every decade, a few inhumane sacrifices, and ten years of peace.
+In Mlurg Nar, (and unlike previous adventures), the party takes the time to research. Emma accosts a stranger on the street. The man is frightened and tells her to talk to the duke. Emma attempts to harass another random person, bumps into a bespectacled man - an armful of scrolls and papers. He tells her of Mlurg Nar's dark secret -- how for centuries, they have sacrificed virgins to the "pit-beast" up North. It was a solution thought of by an order of knight-priests. And the devil's bargain worked. Every decade, a few inhumane sacrifices meant another ten years of peace.
 
-But nine years ago, the townsfolk chased off the order of knight-priests. This generation refused to follow this barbaric ritual. The knight-priests escaped into the pit, and the townsfolk forgot about them. But then -- tentacles around the pit began to seize woodsman and hunters. People vanished. And reports of grey-robed men sneaking about reached the town.
+But nine years ago, the townsfolk chased off the order of knight-priests. The new generation refused to follow this barbaric ritual. The knight-priests escaped into the pit, and the townsfolk forgot about them. But then -- tentacles around the pit began to seize woodsman and hunters. People vanished. And reports of grey-robed men sneaking about reached the town.
 
-Of course, the Duke of Mlurg Nar saw this coming. Refusing to go back to the old ways of sacrificing, he puts up a 10,000gp bounty for whoever can kill the Pit Beast.
+Of course, the Duke of Mlurg Nar saw this coming. Refusing to revert to the old ways of blood sacrifice, he puts up a 10,000gp bounty for whoever can kill the Pit Beast.
 
 And with that, the archivist walks away. Aranna feels they need more information still. They head over to the Ilrusk Bough, a raucous tavern where the cellar holds a pit arena ran by the duke... where bare-fisted brawlers, bear-baiting and dog fights occur. The Snack Club sends Orlan and Purple Nurple down to talk with the Duke. The Duke is annoyed by the adventurers. He's seen many "heroes" come and go already. Few have come back alive. With the 10,000gp reward, he believes he's done all that he can already.
 
@@ -68,13 +68,13 @@ At this point, the Snack Club talk about battle formations. Last session, they u
 
 Orlan with his shiny new armor leads the way. The stench gets worse. Just this weird oily smokey smell. They see shapes in the mist moving about. Cautiously, they approach... and they see five grey-robed men. It is at this moment they realize the grey-robed men have no face. It's blank rubbery flesh. Their stomach appears to roil like muddy waters. _Perhaps they have small tentacles coming out of their belly button like the man they met at Wyrmskull?_
 
-The faceless grey-robed men are standing in a circle and chanting in a strange ululating voice in unison. Orlan attacks. The staircase is narrow and no one else can get close. Aranna and Elyssa fire arrows. Orlan cuts one down. The body of the cultist bursts open. Blood sprays everywhere, and from inside the body, a mass of bloody guts and tentacles and general ickiness leaps out... and attacks Orlan. Aranna gags and shudders. Emma gets paper IRL to draw the octo-mass for Aranna. 
+The faceless grey-robed men are standing in a circle and chanting in a strange ululating voice in unison. Orlan attacks. The staircase is narrow and no one else can get close. Aranna and Elyssa fire arrows. Lane the Silvertongue shouts encouraging words at his allies. Orlan cuts one down. The body of the cultist bursts open. Blood sprays everywhere, and from inside the body, a mass of bloody guts and tentacles and general ickiness leaps out... and attacks Orlan. Aranna gags and shudders. Emma gets paper IRL to draw the octo-mass for Aranna. 
 
 The party kills more cultists. Two fall to their death. Another two die on the steps and more octo-masses leap out, grossing Aranna out as everyone IRL is now drawing pictures of what they imagine one would look like for her. 
 
 ## First Brush with the Pit Beast
 
-After dispatching with the cultists, they reach a landing with a large stone door. There are two more landings further down the stairs, but after exploring them, The Snack Club backtracks to the first one and push the door open. It's a narrow hallway. Lane Weaver volunteers to go in after Veleris had ensured the hallway is not trapped. Lane is ambushed by two cultists as he enters the room. Three more in the back near an altar are chanting their strange song. They chant louder and louder and at fever pitch... and outside, a giant vermiform tentacle comes screeching out of the mist. It lashes out and grabs Purple Nurple. Purple Nurple slashes at it to free himself, fails. Inside the altar room, Lane fights the cultists. Aranna shoots an arrow past her brother to kill one of the chanting cultists. Emma Frog attempts to cast _magic bulwark_ to stop the chanting's effect. It fails. Purple Nurple transforms into a bird to escape the tentacle. It's a brilliant move.
+After dispatching with the cultists, they reach a landing with a large stone door. There are two more landings further down the stairs, but after exploring them, The Snack Club backtracks to the first one and push the door open. It's a narrow hallway. Lane Weaver volunteers to go in after Veleris had ensured the hallway is not trapped. Lane is ambushed by two cultists as he enters the room. Three more in the back near an altar are chanting their strange song. They chant louder and louder and at fever pitch...  outside, a giant vermiform tentacle comes screeching out of the mist. It lashes out and grabs Purple Nurple. Purple Nurple slashes at it to free himself, fails. Inside the altar room, Lane fights the cultists. Aranna shoots an arrow past her brother to kill one of the chanting cultists. Emma Frog attempts to cast _magic bulwark_ to stop the chanting's effect. It fails. Purple Nurple transforms into a bird to escape the tentacle. It's a brilliant move.
 
 When Purple Nurple returns to the landing in human form, the party rushes into the altar room, closing the door behind them. They realize that Purple Nurple's brush with the giant tentacle was an extremely close call. Anyone else would've fallen to their death. It was only because of Purple's shape shifting ability that he escaped.
 
@@ -86,19 +86,19 @@ The Snack Club, all ten of them, slide down.
 
 At the bottom of the chute is a cave 50' across with a large hole, and coming up and through it, a large tentacle. It pulsates, but doesn't seem aggressive. Part of it slithers in the air towards Emma as if to say hello. Strangely, there is a rope ladder attached to the tentacle all the way down into the darkness. It looks like the cultists use this rope ladder as a means of traveling between floors.
 
-The Snack Club climb down. They see a cave entrance. It's like they're climbing down an elevator shaft and there are doorways at different floors. Emma, Aranna, and Orlan... along with their hench-people, Somme, Adele, Beegull, and Hemdan decide to enter the cave. Orlan, Purple Nurple,  and Lane decide to keep going down the rope-ladder.
+The Snack Club climb down. They see a cave entrance. It's like they're climbing down an elevator shaft and there are doorways at different floors. Emma, Aranna, and Orlan... along with their hench-people, Somme, Adele, Beegull, and Hemdan decide to enter the cave. Orlan, Purple Nurple, Elyssa, and Lane decide to keep going down the rope-ladder.
 
 **The Snack Club has officially _split the party_.**
 
-Team A enter the caves and realizes they've walked into a crypt. There are desiccated corpses exposed in broken coffins. Some glitter with jewels. Another holds a strange matte-black sword with a faint darkness. The party is smart enough to not touch anything and start to leave...
+Team A (led by Emma) enter the caves and realizes they've walked into a crypt. There are desiccated corpses exposed in broken coffins. Some glitter with jewels. Another holds a strange matte-black sword with a faint darkness. The party is smart enough to not touch anything and start to leave...
 
 CUT TO: 
 
-Team B climb down the ladder to see yet another entrance. They see eight men pushing a wheel, like a human-driven mill. They approach and the slaves are parched, hungry and exhausted. They beg the adventurers to free them. Lane and Veleris are suspicious at first, but Lane gives them food and water and break them free. They find out the slaves were kidnapped from Mlurg Nar.... to grind this grey substance into paste. And this paste is fed to their followers... which slowly transforms them into blank-faced men.
+Team B (led by Veleris and Lane) climb down the ladder to see yet another entrance. They see eight men pushing a wheel, like a human-driven mill. They approach and the slaves are parched, hungry and exhausted. They beg the adventurers to free them. Lane and Veleris are suspicious at first, but Lane gives them food and water and break them free. They find out the slaves were kidnapped from Mlurg Nar.... to grind this grey substance into paste. And this paste is fed to the cult's followers... which slowly transforms them into blank-faced men.
 
 CUT TO:
 
-As Team A leaves, the spirits of the nine chaos warriors arises... and they sneak up behind the adventurers and like the dementors in Harry Potter, begin to suck their willpower... Emma loses two points of constitution, as does Aranna, and Orlan and Beegull and Adele. They struggle to run, to climb on the tentacle rope ladder to escape. Adele can no longer run. She falls down, her soul sucked out and suffocated.
+As Team A leaves, the spirits of the nine chaos warriors arises... and they sneak up behind the adventurers and like the dementors in Harry Potter, begin to suck their willpower... Emma loses two points of constitution, as does Aranna, and Orlan and Beegull and Adele. They struggle to run, to climb on the tentacle rope ladder to escape. Adele can no longer run. She falls down, her soul sucked out and suffocated. _The Snack Club killed Adele. Was she rolling in the deep as she struggled for breath?_
 
 CUT TO:
 
@@ -115,11 +115,11 @@ The Snack Club are reunited and now face the ten cultists... together.
 
 An ugly brawl ensues. Six grey-robed cultists form a front line to fight The Snack Club while three crimson-robed cultists and a yellow-robed one raise their arms in adulation to their tentacle god, chanting their haunting prayers.
 
-Unlike the last session where The Snack Club dispersed their forces and avoided the leader... this time, they quickly realize the yellow-robed one is the leader and assign the two archers, Aranna and Elyssa to fire arrows at him. There's clear strategy this game. The tanks, Lane, Orlan and Purple Nurple cut down the grey-robed minions while those that have range fire at the chanting cultists. But early in the battle, there's simply too many of them. The chanting reaches fever pitch and two humongous tentacles come crashing in. One seizes Hemdan and throws him against the wall. Another seizes Aranna. Emma is caught as well. Veleris weaves through the battle freeing anyone held by tentacles.
+Unlike the last session where The Snack Club dispersed their forces and avoided the leader... this time, they quickly realize the yellow-robed one is the leader and assign the two archers, Aranna and Elyssa to fire arrows at him. There's clear strategy this time around. The tanks, Lane, Orlan and Purple Nurple cut down the grey-robed minions while those that have range fire at the chanting cultists. But early in the battle, there's simply too many of them. The chanting reaches fever pitch and two humongous tentacles come crashing in. One seizes Hemdan and throws him against the wall. Another seizes Aranna. Emma is caught as well. At another point, Purple Nurple is grasped as well by a giant tentacle. Veleris weaves through the battle freeing anyone held by tentacles with his quick sword.
 
 As Lane, Orlan and Purple Nurple mow down cultists, writhing octo-masses leap out like strange alien bodies. Emma casts _cure wounds_ on Lane, on Orlan. Many of Aranna's arrows find their way to the chanting cultists. She deals the death blow to the yellow robed cultist. Veleris sneaks through and cuts down a red-robed one.
 
-And just as the smell of victory comes close... two more grey-robed cultists rush in accompanied by a... _ten-foot-tall mass of tentacles?!_ It's humanoid, but not. It's a science experiment gone wrong. A hybrid of the pit beast and human. It's foul and disgusting. Aranna gags again. Orlan, Lane and Purple Nurple work together to cut the monstrosity down. (_At this moment, Aranna's player looks over at Orlan's table and realized that he had not use his henchman Beegull the entire game. She screams at him. As she should._).
+And just as the smell of victory comes close... two more grey-robed cultists rush in accompanied by a... a... _ten-foot-tall mass of tentacles?!_ It's humanoid, but not. It's a science experiment gone wrong. A hybrid of the pit beast and human. It's foul and disgusting. Aranna gags again. Orlan, Lane and Purple Nurple work together to cut the monstrosity down. (_At this moment, Aranna's player looks over at Orlan's side of the table and realizes that he had not used his henchman Beegull the entire game. She screams at him. As she should._).
 
 With a fourth heavy fighter in the mix, the battle ends quickly. There are crushed octo-masses smeared all over the floor of the cave. A mass of tentacles in another corner. Burst cultists lay sprawled out in a scene of gore and torn flesh.
 
