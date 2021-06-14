@@ -29,6 +29,8 @@ Here, laid to rest, the careless many, the rash, the unwise... those who met the
 
 _May ye all rest in peace._
 
+<hr/>
+
 ## The Pauper's Grave
 
 Here, laid to rest, hench-people and hirelings who lost their lives following adventurers to places they don't belong.
