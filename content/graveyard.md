@@ -37,7 +37,7 @@ Here, laid to rest, hench-people and hirelings who lost their lives following ad
 
 <hr/>
 
-* **Adele, Archer** (Employer-HA). _2021-06-13 (1d)_ 
-<br/>Suffocated by ghost of chaos knight.
+* **Adele, Archer** (Mgr-HA). _2021-06-13 (1d)_ 
+<br/>Suffocated by a ghost of chaos knight.
 
 _May ye all rest in peace._
