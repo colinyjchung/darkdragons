@@ -136,8 +136,8 @@ _/end session_
 * 12 Ice Jewels x 150gp = 1,800gp
 
 **SUBTOTAL**: 5,600gp
-**INTEREST**: 56gp
-**TOTAL**: 5,544gp
+<br/>**EoM INTEREST**: 56gp
+<br/>**TOTAL**: 5,544gp
 
 #### Chekhov's Ticking Time Bombs
 
