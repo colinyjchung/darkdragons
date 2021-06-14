@@ -84,9 +84,9 @@ The Snack Club, all ten of them, slide down.
 
 ## Rope Ladder Down to Hell
 
-At the bottom of the chute is a cave 50' across with a large hole, and coming up and through it, a large tentacle. It pulsates, but doesn't seem aggressive. Part of it slithers in the air towards Emma as if to say hello. Strangely, there is a rope ladder attached to the tentacle all the way down into the darkness. It looks like the cultists use this rope ladder as a means of traveling between floors.
+At the bottom of the chute is a cave 50' across with a large hole, and coming up and through it, a large tentacle. It pulsates, but doesn't seem aggressive. Part of it slithers in the air towards Emma as if to say hello. Strangely, there is a rope ladder attached to and along the tentacle all the way down into the darkness. It looks like the cultists use this tentacle-rope-ladder-contraption as a means of traveling between floors.
 
-The Snack Club climb down. They see a cave entrance. It's like they're climbing down an elevator shaft and there are doorways at different floors. Emma, Aranna, and Orlan... along with their hench-people, Somme, Adele, Beegull, and Hemdan decide to enter the cave. Orlan, Purple Nurple, Elyssa, and Lane decide to keep going down the rope-ladder.
+The Snack Club climb down. They're careful to not burn the tentacle with their torches. They see a cave entrance. It's like they're climbing down an elevator shaft and there are doorways at different floors. Emma, Aranna, and Orlan... along with their hench-people, Somme, Adele, Beegull, and Hemdan decide to enter the cave. Orlan, Purple Nurple, Elyssa, and Lane decide to keep going down the rope-ladder.
 
 **The Snack Club has officially _split the party_.**
 
