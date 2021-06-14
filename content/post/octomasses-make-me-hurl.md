@@ -107,7 +107,7 @@ reading parchments. They debate whether to fight them. Veleris and Lane decide t
 
 CUT TO:
 
-Back in the cave, Emma Frog casts _hallucination_ and creates the illusion that they are in the back of the crypt. The ghost-dementors turn and chase the clones instead. This gives the survivors a chance to escape. They get on the ladder and as they climb down, they see a purple bird.
+Back in the cave, Emma Frog casts _hallucination_ and creates the illusion that they are in the back of the crypt. The ghost-dementors turn and chase the clones instead. This gives the survivors a chance to escape. They get on the ladder and as they climb down, they see a purple bird. Hemdan is visibly shaking at this point. He's frozen and traumatized. Aranna bribes him with 10gp to not give up. It surprisingly works.
 
 The Snack Club are reunited and now face the ten cultists... together.
 
