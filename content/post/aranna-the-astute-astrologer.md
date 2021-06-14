@@ -9,7 +9,7 @@ tags = [
     "A.J.",
     "O.R.",
     "Thork, Zealot of Loki",
-    "Surina Juno, Charlton",
+    "Surina Juno, Charltan",
     "Aranna, Astrologer",
     "Ser Ragnarok, Knight",
     "Thorn, Hedge Wizard",
