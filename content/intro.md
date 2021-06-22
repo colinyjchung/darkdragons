@@ -25,7 +25,7 @@ Put simply —
 
 ## What kind of stories are told?
 
-There are a lot of RPGs settings out there. 
+There are _a lot_ of RPG settings out there. 
 
 * There's fantasy (like _Game of Thrones_). 
 * There's space opera (like _Star Wars_). 
@@ -64,6 +64,6 @@ But players can also play smart and survive!
 * If you have to fight, fight dirty. Be sneaky. Use the element of surprise. Especially if you’re outnumbered or they’re bigger than you.
 * It’s ok to ask and hire help in town. Henchmen are great. (Send them ahead or make them do chores).
 * Magic is powerful but also unpredictable and dangerous.
-* And remember — the point is to get your hands on treasure, not kill monsters.
+* And remember — the point is to get your hands on treasure, not kill monsters. (This isn't a video game!)
 
 And if (and when) your character dies, don't pout. Roll up a new one. It only takes five minutes.
