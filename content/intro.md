@@ -17,11 +17,11 @@ One person acts as a **“dungeon master”** (DM) or _referee_. This person des
 Everyone else are **player characters** (PCs). They react to the situations thrown at them by saying what they want to do and roll dice to find out if they succeed.
 
 Put simply —
-<br/>The DM describes a scene. 
-<br/>Players decide what to do.
-<br/>They roll dice to see if it works.
-<br/>DM describes the consequences.
-<br/>_Rinse and repeat._
+1. The DM describes a scene. 
+2. Players decide what to do.
+3. They roll dice to see if it works.
+4. DM describes the consequences.
+5. _Rinse and repeat._
 
 ## What kind of stories are told?
 
