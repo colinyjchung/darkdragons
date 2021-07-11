@@ -27,6 +27,12 @@ Here, laid to rest, the careless many, the rash, the unwise... those who met the
 * **Darrak, Soldier** (L2-AB). _2021-06-06 (7d)_
 <br/>Killed by Gravak, gang boss on magic steroids.
 
+* **Orlan, Soldier** (L2-HA). _2021-07-11 (49d)_
+<br/>Strangled by Palimdybis, the Pit Beast.
+
+* **Ser Purple Nurple, Knight** (L2-OR). _2021-07-11 (49d)_
+<br/>Crushed by rubble as a bird in rockslide.
+
 _May ye all rest in peace._
 
 <hr/>
@@ -39,5 +45,8 @@ Here, laid to rest, hench-people and hirelings who lost their lives following ad
 
 * **Adele, Archer** (Mgr-HA). _2021-06-13 (1d)_ 
 <br/>Suffocated by the ghost of a chaos knight.
+
+* **Somme, Foot Soldier** (Mgr-EC). _2021-07-11 (21d)_ 
+<br/>Lost her mind in a psychic maze.
 
 _May ye all rest in peace._
