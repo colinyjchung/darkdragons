@@ -44,7 +44,7 @@ Finally, they come upon an alchemist lab. There's animated grey clay that moves 
 
 Lane Weaver picks up a bottle of red potion and downs it. He gets visions of tentacles and the pit-beast. He has a sudden affinity towards it. Purple asks if he's mind-controlled. I don't answer. It's more fun that way. Lane suddenly feels he can call up a tentacle of his own. He does. He commands the tentacle to sweep all the potions off the table destroying them. Purple grabs a silvery one before Lane does that and chugs it. He too has visions of the pit-beast but no ability to call up a tentacle. The floor is a mess of broken glass and intermingled red and silver liquid now. Aranna suggests licking the floor. I say there's broken glass. They say, "oh".
 
-Everyone is screaming at Lane Weaver. Why did you do that?
+Everyone is screaming at Lane Weaver. _"Why did you do that?"_
 
 ## Seven IKEA Ps Lömsk Swivel Chairs
 
@@ -56,11 +56,11 @@ Across the pool, they come upon a room. There are seven egg shaped chairs. Yes, 
 
 ## A Swirly, Curly, Loopy Up Down and Around Maze
 
-The Snack Club leave their egg pods to a room just like the one they left. They come upon a room with a large four-foot-tall egg sitting on top a red-cushioned pedestal. There are copper tubes feeding into the egg. Behind the pedestal is an altar. Purple picks up the egg and throws it to the ground. There is yolk and slime everywhere. Why is he so destructive. Veleris examines the altar. There's an egg-shaped impression on the surface, as if you were supposed to put an egg in the indentation.
+The Snack Club leave their egg pods to a room just like the one they left. They come upon a room with a large four-foot-tall egg sitting on top a red-cushioned pedestal. There are copper tubes feeding into the egg. Behind the pedestal is an altar. Purple picks up the egg and throws it to the ground. There is yolk and slime everywhere. _Why is he so destructive?_ Veleris examines the altar. There's an egg-shaped impression on the surface, as if you were supposed to put an egg in the indentation.
 
 There are three exits. They pick one at random. The room is exactly the same as the last one. Except this one has a yellow-robed cultist facing the altar. Upon hearing the party, the cultist rushes to attack them. But before he does, he slits the egg open. A ten-foot-tall monster, just like the one they fought last session, (made of tentacles and pseudopods) slumps to the floor. It gets up and attacks them too. Outnumbered by the Snack Club, they die swiftly.
 
-They exit. And again, a similar room. Purple bashes this egg in, a half-formed tentacle-monster falls out. Purple stabs the fetus. For fun. Why? They exit... and they're back in the same room. I keep telling them to get paper and draw a map throughout all this. They don't listen until EC finally gives up and grabs paper.
+They exit. And again, a similar room. Purple bashes this egg in, a half-formed tentacle-monster falls out. Purple stabs the fetus. For fun. _Why?!_ They exit... and they're back in the same room. I keep telling them to get paper and draw a map throughout all this. They don't listen until EC finally gives up and grabs paper.
 
 But even with a map drawn, they keep running into the same rooms over and over again. Egg on pedestal. Altar with egg-shaped indentation. One had a shackled woman who was going to be lunch for a tentacle-monster. They save her. She's named Sasha, a dairy maid. Lane adopts her as a hireling, except she doesn't really have much armor. They give her a dagger and hope for the best.
 
