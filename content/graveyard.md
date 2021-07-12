@@ -46,7 +46,7 @@ Here, laid to rest, hench-people and hirelings who lost their lives following ad
 * **Adele, Archer** (Mgr-HA). _2021-06-13 (1d)_ 
 <br/>Suffocated by the ghost of a chaos knight.
 
-* **Somme, Foot Soldier** (Mgr-EC). _2021-07-11 (21d)_ 
+* **Somme, Light Footman** (Mgr-EC). _2021-07-11 (21d)_ 
 <br/>Lost her mind in a psychic maze.
 
 _May ye all rest in peace._
