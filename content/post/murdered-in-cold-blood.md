@@ -1,6 +1,6 @@
 +++
 author = "Colin Y.J. Chung"
-title = "Murder in Cold Blood"
+title = "Murdered in Cold Blood"
 date = "2021-07-18"
 description = "I killed the ceiling"
 tags = [
@@ -28,7 +28,9 @@ categories = [
 ]
 +++
 
-The Snack Club is rich with 10,000gp in treasure, but stuck in Mlurg Nar due to logistics. **Errich Weaver** (_OR_) and **Bob the Priest** (_HA_) have joined the party. Errich, apparently, is another Weaver sibling. So now **Aranna** (_AJ_), **Lane** (_AB_), and Errich are triplets in some weird retcon backstory. Bob the Priest, as you may recall, was the priest they found in the Pit. They pay off Elyssa and Hemdan, who ask for extra payment after their harrowing experience fighting The People of the Pit. Errich suggested killing them. Emma and Veleris are happy to oblige.
+The Snack Club is rich with 10,000gp in treasure, but stuck in Mlurg Nar due to logistics. 
+
+**Errich Weaver** (_OR_) and **Bob the Priest** (_HA_) have joined the party. Errich, apparently, is another Weaver sibling. So now **Aranna** (_AJ_), **Lane** (_AB_), and Errich are triplets in some weird retcon backstory. Bob the Priest, as you may recall, was the priest they found in the Pit. They pay off Elyssa and Hemdan, who ask for extra payment after their harrowing experience fighting The People of the Pit. Errich suggests killing them. Emma and Veleris are happy to oblige.
 
 But how do they get their newfound treasure home to Lankhmar? **Emma Frog** (_EC_) -- who by the way, now has ram horns due to a misfired spell last session -- starts asking around  for wagons. Errich asks if he can hijack a wagon. I remind him to stop asking me questions and just do stuff. Errich, now "empowered" is determined to steal a wagon. He tries to enlist Bob the Priest. An argument breaks out amongst the party. Aranna and Emma tell Errich the idea is stupid. Why steal? Let's just rent wagons and get out of here. Aranna punches her brother. **Veleris** (_EB_) steps between them. Errich's counterpunch misses and is held back.
 
@@ -38,15 +40,15 @@ But Errich and Bob the Priest have other plans.
 
 The two head out to the farms and see two wagons in front of a barn. A farmer walks out to greet them. Errich asks if he can borrow the wagons. The farmer tells him he needs them for his business and recommends he rent wagons in the city. At this point, **Errich draws his sword and cuts down the innocent man in broad daylight**. He then drives the wagons _back into the city_.
 
-## Bounded by Rules.
+## Bounded by Rules
 
-At this point, I'd like to remind everyone, as Abed says in S5:E10 of Community, _"I don't owe you anything. I'm a dungeon master. I create a boundless world, and I bind it by rules. Too heavy for a bridge? It breaks. Get hit? Take damage. Spend an hour outside someone's front door, fighting over who gets to kill him? He leaves through the back."_ And in this case, _murder someone in cold blood in broad daylight?_ You get arrested and sentenced to death.
+At this point, I'd like to remind everyone, as Abed says in S5:E10 of Community, _"I don't owe you anything. I'm a dungeon master. I create a boundless world, and I **bind it by rules.** Too heavy for a bridge? It breaks. Get hit? Take damage. Spend an hour outside someone's front door, fighting over who gets to kill him? He leaves through the back."_ And in this case, _murder someone in cold blood in broad daylight?_ You get arrested and sentenced to death.
 
 And that's what happens to Errich Weaver. The Duke of Mlurg Nar imprisons him to be executed and tells the rest of The Snack Club to leave his city. It doesn't matter they were "heroes" who fought the Pit Monster. They got their money. Now leave. 
 
-The Snack Club must now leave Mlurg Nar without getting any rest. And they start arguing. Errich pleads for his party to rescue him. He argues with me about how he was caught. He argues with Veleris for not wanting to help. He argues with Veleris about it's "just a game" and the farmer's not real... and how he's "real". I say something along the lines of what Abed said. If we don't follow rules, then this game is meaningless. If you murder an innocent person in broad daylight, you pay the consequence. Errich ends with saying he'll haunt and kill Veleris. Lesson not learned, I guess.
+The Snack Club must now leave Mlurg Nar without getting any rest. And they start arguing. Errich pleads for his party to rescue him. He argues with me about how he was caught. He argues with Veleris for not wanting to help. He promises that he'll never murder innocent people again. He argues with Veleris about how it's "just a game" and the farmer's not real... and how he's "real". I say something along the lines of what Abed said. If we don't follow rules, then this game is meaningless. If you murder an innocent person in broad daylight, you pay the consequence. Errich ends with saying he'll haunt and kill Veleris. Lesson not learned, I guess.
 
-Bob the Priest decides to stay. Aranna leads the party to his prison cell to see if they can rescue him. She slaps him in the face for his stupidity. Veleris concocts a plan to leave the city but turn back. The hired footmen and archers are suspicious of this (They would report their activities to the watch). Aranna sneaks back into the city, disguised, to see if there's anything she can do to save her brother.
+Aranna leads the party to Errich's prison cell to see if they can rescue him. She slaps him in the face for his stupidity. Veleris concocts a plan to leave the city but turn back. I remind them the hired footmen and archers would probably be suspicious of this (They would report their activities to the watch). Aranna sneaks back into the city, disguised, to see if there's anything she can do to save her brother.
 
 Unfortunately, their plan is... not very well thought out. They spend the entire evening before Errich's execution coming up with a plan. They don't have one. Dawn comes. Aranna hides in a third story apartment overseeing the courtyard where the execution is to take place. Bob the Priest is in the crowd. When Errich is brought out, and as the executioner is about to bring his axe down on his head... Aranna fires an arrow at the executioner. He's shot, but alive. Six guards rush to the platform, draw their crossbows and searches for the sniper. They see her and fire. One hits Aranna for six damage. She's down to 1hp. The guards are drawing more arrows. Aranna fires one more shot, killing the executioner, then she runs. 
 
