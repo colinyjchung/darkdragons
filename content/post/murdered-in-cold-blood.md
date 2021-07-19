@@ -54,7 +54,7 @@ Unfortunately, their plan is... not very well thought out. They spend the entire
 
 There's nothing she can do to save her brother. During this entire time, Bob the Priest has done nothing. There was no plan. No sneaking around. No casing out the joint. No figuring out the guards' schedule. No bribery. No coordinated effort. No creating diversions. No enlisting help. Absolutely no skullduggery of any sort. Just a wasted night not planning and then a haphazard idea to kill the executioner.... and a whole lot of nothing.
 
-**Errich Weaver is executed by sword.** In game time, the character lived a full hour. In story time, the Weaver family have lost a brother.
+**Errich Weaver is executed by sword.** In game time, the character lived a full hour. In story time, the Weaver family has lost a brother.
 
 Meanwhile...
 
