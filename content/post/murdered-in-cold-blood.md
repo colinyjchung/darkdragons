@@ -42,7 +42,8 @@ The two head out to the farms and see two wagons in front of a barn. A farmer wa
 
 ## Bounded by Rules
 
-At this point, I'd like to remind everyone, as Abed says in S5:E10 of Community, 
+At this point, I'd like to remind everyone, as Abed says in S5:E10 of Community:
+
 >_"I don't owe you anything. I'm a dungeon master. I create a boundless world, and I **bind it by rules.** Too heavy for a bridge? It breaks. Get hit? Take damage. Spend an hour outside someone's front door, fighting over who gets to kill him? He leaves through the back."_ 
 
 **And in this case, _murder someone in cold blood in broad daylight?_ You get arrested and sentenced to death.**
