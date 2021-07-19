@@ -143,12 +143,12 @@ _/end session_
 * 12 Ice Jewels x 150gp = 1,800gp
 * 9 Chests of Gold = 8,963
 
-**SUBTOTAL**: 14,563gp
+**SUBTOTAL**: 14,507gp
 
 **Hidden Cache in Great Forest b/w Mlurg Nar & Gnamph Nar**
 <br/> 1,000gp
 
-**TOTAL**: 15,563gp 
+**TOTAL**: 15,507gp 
 
 #### Chekhov's Ticking Time Bombs
 
