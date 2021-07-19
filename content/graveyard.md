@@ -34,7 +34,7 @@ Here, laid to rest, the careless many, the rash, the unwise... those who met the
 <br/>Crushed by rubble as a bird in rockslide.
 
 * **Errich Weaver, Knight** (L2-OR). _2021-07-18 (1d)_
-<br/>Executed for the crime of murder by the Duke of Mlurg Nar.
+<br/>Sentenced to death for murder by the Duke of Mlurg Nar.
 
 * **Bob the Priest, Priest** (L2-HA). _2021-07-18 (1d)_
 <br/>Cut down by Tibalc the duelist outside the Pit Fights.
