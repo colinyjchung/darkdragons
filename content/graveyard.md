@@ -55,4 +55,7 @@ Here, laid to rest, hench-people and hirelings who lost their lives following ad
 * **Somme, Light Footman** (Mgr-EC). _2021-07-11 (21d)_ 
 <br/>Lost her mind in a psychic maze.
 
+* **Three Knife Twisters, Ruffians** (Mgr-LC). _2021-07-25 (1d)_ 
+<br/>Burnt to a crisp by green magic missiles.
+
 _May ye all rest in peace._
