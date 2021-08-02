@@ -39,6 +39,10 @@ Here, laid to rest, the careless many, the rash, the unwise... those who met the
 * **Bob the Priest, Priest** (L2-HA). _2021-07-18 (1d)_
 <br/>Cut down by Tibalc the duelist outside the Pit Fights.
 
+
+* **Veleris Booker, Pickpocket** (L2-EB). _2021-08-01 (63d)_
+<br/>Brained by staff of a Dolmenwood Drune.
+
 _May ye all rest in peace._
 
 <hr/>
@@ -57,5 +61,8 @@ Here, laid to rest, hench-people and hirelings who lost their lives following ad
 
 * **3 Knife Twisters, Ruffians** (Mgr-LC). _2021-07-25 (1d)_ 
 <br/>Burnt to a crisp by green magic missiles.
+
+* **3 Knife Twisters, Ruffians** (Mgr-EC/AJ). _2021-08-01 (7d)_ 
+<br/>Mauled and eaten by river ghouls.
 
 _May ye all rest in peace._
