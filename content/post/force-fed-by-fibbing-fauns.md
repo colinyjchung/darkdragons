@@ -85,7 +85,7 @@ Meanwhile, Aust and Lane find a room with fishbones littered all over the ground
 
 Emma's party continues to explore and wander, hoping to reunite The Snack Club. At one point, they find their way through two gnome homes back to the wide tunnel Patrick had gotten lost in previously. They backtrack, walk down another hallway... and find themselves in the hall of king statues!
 
-The Snack Club are reunited once again. And as they're exploring the Hall of Kings... an absent-minded Ramius is carrying laundry to the river. He sees them. They see him. He starts running. Aust and Lane chase him down and mow him down. Aranna gets a kill shot. Sweet vengeance. They killed Mr. Tumnus, er, I mean Ramius.
+The Snack Club are reunited once again. And as they're exploring the Hall of Kings... an absent-minded Ramius is carrying laundry to the river. He sees them. They see him. He starts running. Aust and Lane chase him down and mow him down. Aranna gets a kill shot. Sweet vengeance. They killed [Mr. Tumnus](https://www.youtube.com/watch?v=W5Zwy7fofcg), er, I mean Ramius.
 
 We're back to dungeon crawl mode: They explore another hall. Get attacked by a giant crab spider. Look inside a magic mirror and activate a spectral hunter and his two ghost dogs. Get cut by a blade trap. It's getting to the point where they're just tired and beat up. There's an absurd segment of the party that wants to keep dungeon crawling despite being low on health, low on spells, and weapons chipped and dulled. The party finally decides that they've done all they can in this dungeon and need to leave, rest up and come back. Emma Frog wanders alone for a bit more, and sees a ghostly Lizardman and Knight fighting. She too, realizes, there's not much she can do without spells and health.
 
