@@ -138,4 +138,4 @@ It also doesn't make sense to me when the tanks go off on their own instead of s
 
 And mapping. Mapping is an essential part of dungeon crawling. And if The Snack Club is to survive a large dungeon like this one, it's imperative they track where they've been so they can backtrack and explore correctly. Otherwise, they'll get lost and I'll keep sending random encounters at them.
 
-Finally, I am very, very confused by The Snack Club's actions in the fight with the Dolmenwood Drunes. Why didn't Veleris run back when he had so little health left? Why did he keep fighting? Why didn't his crew protect him? Why dind't Myra step in to cast _cure wounds_? Why was everyone just bashing the drunes as if they're all tanks? Why didn't they use a formation and regroup?
+Finally, I am very, very confused by The Snack Club's actions in the fight with the Dolmenwood Drunes. Why didn't Veleris run back when he had so little health left? Why did he keep fighting? Why didn't his crew protect him? Why didn't Myra step in to cast _cure wounds_? Why was everyone just bashing the drunes as if they're all tanks? Why didn't they use a formation and regroup?
