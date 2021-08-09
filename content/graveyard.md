@@ -39,9 +39,20 @@ Here, laid to rest, the careless many, the rash, the unwise... those who met the
 * **Bob the Priest, Priest** (L2-HA). _2021-07-18 (1d)_
 <br/>Cut down by Tibalc the duelist outside the Pit Fights.
 
-
 * **Veleris Booker, Pickpocket** (L2-EB). _2021-08-01 (63d)_
 <br/>Brained by staff of a Dolmenwood Drune.
+
+* **Thistle Frog, Assassin** (L2-EB). _2021-08-08 (1d)_
+<br/>Held by Lane, cut by Aust, shot by Aranna.
+
+* **Patrick Lane, Shapeshifter** (L2-HA). _2021-08-08 (21d)_
+<br/>Crushed as fruit fly by Redclaw Guard.
+
+* **Emma Frog, Hedge Wizard** (L3-EC). _2021-08-08 (77d)_
+<br/>Charred by Dolmenwood magic missiles.
+
+* **Myra, Mercenary** (L2-LC). _2021-08-08 (14d)_
+<br/>Bludgeoned by two Dolmenwood Drunes.
 
 _May ye all rest in peace._
 
@@ -64,5 +75,8 @@ Here, laid to rest, hench-people and hirelings who lost their lives following ad
 
 * **3 Knife Twisters, Ruffians** (Mgr-EC/AJ). _2021-08-01 (7d)_ 
 <br/>Mauled and eaten by river ghouls.
+
+* **4 Knife Twisters, Ruffians** (Mgr-AJ/OR). _2021-08-08 (14d)_ 
+<br/>Betrayed by their own bosses.
 
 _May ye all rest in peace._
