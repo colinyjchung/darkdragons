@@ -43,7 +43,7 @@ Here, laid to rest, the careless many, the rash, the unwise... those who met the
 <br/>Brained by staff of a Dolmenwood Drune.
 
 * **Thistle Frog, Assassin** (L2-EB). _2021-08-08 (1d)_
-<br/>Held by Lane, cut by Aust, shot by Aranna.
+<br/>Held by Aust, cut by Lane, shot by Aranna.
 
 * **Patrick Weaver, Shapeshifter** (L2-HA). _2021-08-08 (21d)_
 <br/>Crushed as fruit fly by Redclaw Guard.
