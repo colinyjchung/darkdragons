@@ -45,7 +45,7 @@ Here, laid to rest, the careless many, the rash, the unwise... those who met the
 * **Thistle Frog, Assassin** (L2-EB). _2021-08-08 (1d)_
 <br/>Held by Lane, cut by Aust, shot by Aranna.
 
-* **Patrick Lane, Shapeshifter** (L2-HA). _2021-08-08 (21d)_
+* **Patrick Weaver, Shapeshifter** (L2-HA). _2021-08-08 (21d)_
 <br/>Crushed as fruit fly by Redclaw Guard.
 
 * **Emma Frog, Hedge Wizard** (L3-EC). _2021-08-08 (77d)_
