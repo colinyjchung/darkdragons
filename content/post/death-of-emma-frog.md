@@ -24,11 +24,11 @@ categories = [
 ]
 +++
 
-**Thistle Frog** (_EB_, played by _AB_), long-lost brother of **Emma Frog** (_EC_), is an assassin hired by the Dolmenwood Drunes to kill **Aranna Weaver** (_AJ_). Apparently, this was not purely business either. It's personal. At one point, Aranna had accidentally pushed Toad Frog (another Frog sibling) off a cliff. This is all backstory I find out happened on a Messenger Kids group chat prior to today's session. So at EB's behest, Thistle begins the session by attacking Aranna. (It doesn't tend well).
+**Thistle Frog** (_EB_, played by _AB_), long-lost brother of **Emma Frog** (_EC_), is an assassin hired by the Dolmenwood Drunes to kill **Aranna Weaver** (_AJ_). Apparently, this was not purely business either. It's personal. At one point, Aranna had accidentally pushed Toad Frog (another Frog sibling) off a cliff. This is all backstory I find out happened on a Messenger Kids group chat prior to today's session. So at EB's behest, Thistle begins the session by attacking Aranna. (It doesn't end well).
 
-After stabbing Aranna, **Lane Weaver** (_AB_) steps in front of his sister. **Aust Booker** (_OR_) grabs Thistle from behind at cuts him. Lane, too, slashes Thistle. Thistle breaks free, shoves Lane aside, and makes another assault on Aranna. She is nearly dead when she fires an arrow at Thistle between his eyes. _Thistle is dead_. 
+After stabbing Aranna, **Lane Weaver** (_AB_) steps in front of his sister, protecting her. **Aust Booker** (_OR_) grabs Thistle from behind and cuts him. Lane, too, slashes Thistle. Thistle breaks free, shoves Lane aside, and makes another assault on Aranna. She is nearly dead when she fires an arrow at Thistle between his eyes. _Thistle is dead_. 
 
-**Emma Frog** (_EC_) enacts vengeance and rams her horns into Aust with a tremendous blow. Lane seizes her and holds her down while Aust gets up and grabs her legs. There is angry words exchanged. Eventually, they calm down and agree to stay cool. They let Emma go and they decide heading back to Mlurg Nar to chill and heal up is a good idea.
+**Emma Frog** (_EC_) enacts vengeance for her dead brother and rams her horns into Aust with a tremendous blow. Lane seizes her and holds her down while Aust gets up and grabs her legs. There are angry words exchanged. Eventually, they calm down and agree to stay cool. They let Emma go and they decide heading back to Mlurg Nar to chill and heal up is a good idea.
 
 ## Thieves in the Night
 
@@ -66,7 +66,7 @@ Patrick is flying around. He flies into a room where bandits are sleeping. Turns
 
 Outside the castle walls, Emma Frog casts _magic missile_ into the arrow slits and injures the archers, only to infuriate them more. 
 
-Meanwhile, Aranna finds a tower with crumbling ruin where she could walk straight in. She does and is met by four large long-sword wielding guards. They ask her who she is. She lies and says she's new. All four guards roll really badly and Aranna's ruse works. They walk her to the front entrance to guard it as they're being attacked.
+Meanwhile, Aranna finds a tower with crumbling ruin where she could walk straight in. She does and is met by four large long-sword wielding man-o-wars. They ask her who she is. She lies and says she's new. All four guards roll really badly and Aranna's ruse works. They walk her to the front entrance to guard it as they're being attacked.
 
 Patrick flies out of the sleeping quarters, doesn't explore further. The Snack Club, outside, are arguing again. There's absolutely no cohesion and clear plan. I fire more arrows at them. 
 
@@ -80,13 +80,13 @@ Everyone is now screaming at AJ for giving up such valuable information.
 
 The Snack Club return to Redclaw Castle and Grohl tells them that they must prove their loyalty in order to join them. (I guess nobody in the room recognizes any of the Snack Club.) Grohl tells them to bring the gang 100gp in stolen goods each in order to show their value. The Snack Club, instead of stealing, decide the most expedient way to win the Redclaw's favor is to withdraw their own money from their bank.
 
-Once in the gang, they're assigned guard duty. Aust falls asleep on the first night and is reprimanded. They're given a task to rob a merchant caravan traveling from Mlurg Nar to Gnamph Nar.
+Once in the gang, they're assigned guard duty. Aust falls asleep on the first night and is reprimanded. Later, they're given a task to rob a merchant caravan traveling from Mlurg Nar to Gnamph Nar.
 
 ## The Greatest Betrayal
 
 The Snack Club come up with a strong plan. Aranna and Patrick hide in trees. Lane and Aust are hidden as well, and will come out from the rear of the caravansary... while Myra's job is to stand in front of the train and cry for help. 
 
-As the three caravans comes rushing down the road, Myra steps out. But the caravan is not stopping. The driver is yelling at him to get out of the way. They're not stupid. They are not stopping for anyone. So Emma steps out, casts _magic missile_ and injures the horse in the front caravan. Four guards jump out. They are... former Knife Twisters!
+As the three caravans come rushing down the road, Myra steps out. But the caravan is not stopping. The driver is yelling at him to get out of the way. They're not stupid. They are not stopping for anyone. So Emma steps out, casts _magic missile_ and injures the horse in the front caravan. Four guards jump out. They are... former Knife Twisters!
 
 Aranna fires an arrow at another horse. Emma casts _magic missile_ at the final horse. All the caravans crash together. It's a huge wreck of collision. All twelve guards are out now. The former Knives are, at first, relieved to see their former colleagues. But Aranna fires an arrow at one, killing him. The four Knives following the Snack Club are shocked at this. They scream at Aranna. Aranna tells them that they're killing the ex-Knives. Her henchmen turn on her. Aust tells them that they're part of a new gang now.
 
@@ -160,7 +160,7 @@ _/end session_
 
 I... I just have no words for this afternoon. First, The Snack Club joined the Redclaws and decided this was a good home for them. I did not expect this. I figured they would start scheming and start looking for their lost treasure. They did not. And then when they were assigned to rob the caravans, I thought... let's throw in a moral dilemma here. Let's make them Knives. I figured they would plan something with their former allies. Maybe recruit them to attack the Redclaws. They did not. In fact, they murdered their ex-colleagues. Just like that. And then, when it was clear the Dolmenwood Drunes were coming for them.... Lane, Patrick and Aust decided it would be OK to ignore Aranna and stay asleep. I simply have no words.
 
-But then again, the session with them fighting each other. They still think killing Aranna will solve their problems with the Drunes (it will not). They keep insisting on running off to do their own thing and not planning together.
+But then again, the session started with them fighting each other. They still think killing Aranna will solve their problems with the Drunes (it will not). They keep insisting on running off to do their own thing and not planning together.
 
 And now, they have magical weapons. **I hope every member of the Snack Club is reading this...** because allow me to be 100%, completely and absolutely clear: _magic weapons will not save you._ If you continue to not work together, if you continue to abandon your allies, if you continue to argue over plans instead of scheming together... you will continue to be punished. If you continue to rush into battle without tactics... if you continue to not protect your magic-users and archers... if you continue to stay in a fight even when it's clear you're outnumbered and outplayed... you will continue to be killed in battles.
 
@@ -168,8 +168,8 @@ Emma Frog should've never been left alone. A magic user is what's called a "glas
 
 Myra the Merc should not have ran into a five-to-one fight. In what world do you think one person can take down five opponents? Opponents who have magic spells?
 
-Patrick Weaver turning into a small insect in a roomful of enemies. There are no words for this.
+Also, Patrick Weaver turning into a small insect in a roomful of enemies? There are no words for this.
 
-Storming a castle by arguing loudly about how to do so... _in front of said castle_ is not only utterly insane and stupid... it is mind-boggling.
+Finally -- storming a castle by arguing loudly about how to do so... _in front of said castle_ is not only utterly insane and stupid... it is mind-boggling.
 
 I repeat: **Magic weapons will not save you.** You have been warned.
