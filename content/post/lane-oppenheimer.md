@@ -39,7 +39,7 @@ The next morning, they arrive at The Hole in the Oak again, to face the drunes t
 
 #### Spoilers ahead for Gavin Norman's "The Hole in the Oak" (OSE)
 
-Into the dungeon they go. It's dungeon crawl time. The Snack Club explore places they missed the last time they were here. The spectral hunter and his two ghost dogs appear. Armed with magic weapons, they quickly dispose of them. The ghost hunter vanishes and leaves behind a hunting horn. Selina picks it up, blows on it, it summons forth a hunting dog.
+Into the dungeon they go. It's dungeon crawl time. The Snack Club explore places they missed the last time they were here. The spectral hunter and his two ghost dogs appear. Armed with magic weapons, they quickly dispose of them. Aust, with his new magical sword, flies through the hunter, dissipating him. The ghost hunter vanishes and leaves behind a hunting horn. Selina picks it up, blows on it, it summons forth a hunting dog.
 
 The horn awakens hundreds of bats. They swarm the Snack Club. Aust talks to the bats and calms them down. Toaf turns into a bat and leads them back to their roost. Four gnomes who are on a mushroom foraging trip were also attracted by the loud horn. They want nothing from The Snack Club, but the Snack Club keeps harassing them with weird questions.
 
