@@ -25,13 +25,13 @@ categories = [
 ]
 +++
 
-After their visit to Snive Silvyr, **Lane Weaver** (_AB_), **Aranna Weaver** (_AJ_, played by _SB_), **Toaf Frog** (_HA_, played by _SB_), and **Aust Booker** (_OR_) head to a pub, "The Well of Many Worlds" to mourn their lost comrades, Emma Frog, Myra the Merc, and Patrick Weaver. In a word, to drown their sorrows.
+After their visit to Snive Silvyr, **Lane Weaver** (_AB_), **Aranna Weaver** (_AJ_, played by _SB_), **Toaf Frog** (_HA_, played by _SB_), and **Aust Booker** (_OR_) head to a tavern named "The Well of Many Worlds" to mourn their lost comrades, Emma Frog, Myra the Merc, and Patrick Weaver. In a word, to drown their sorrows.
 
 There, they bump into the Milos family: **Selina Milos**, the Assassin (_EC_), **Slane Milos**, the Charlton (_LC_, played by _CC_), and **Shorin Milos**, a lower noble (_EB_). They are all the younger siblings of Jarrod Milos, who as the eldest, inherited the wealth of the Milos family -- and being a selfish jerk, has kicked all three of his siblings out of the house leaving the three Milos to adventure in order to survive.
 
 The Milos and Weavers are friends, the two families once worshipped together at the temple of Winged Tyaa in Lankhmar. Seeing their party depleted, the Milos offer to join the Snack Club. They decide to head back to the Hole in the Oak, where the Dolmenwood Drunes reside, hoping to end their feud against them once and for all.
 
-On their way their, three random encounters. A cleric with a retinue of acolytes. The cleric approaches the Snack Club and lets slip that he has absolutely no powers but needs to show his acolytes his strength, or else he would lose his followers. The cleric asks the Snack Club if they'll rig a fight to win against one of them. The Snack Club are reluctant to get involved. Shorin suggests he simply tells them The Snack Club are too weak to bother with. In the second encounter, two drunes are stalking the Snack Club. Once spotted, they run. But the Weavers will not have this. Lane and Aranna chases them, kills both. They discover a powerful _fireball_ spell. Lane commits it to memory. Lane also finds a map on the body of the other drune.
+On their way there, three random encounters. A cleric with a retinue of acolytes. The cleric approaches the Snack Club and lets slip that he has absolutely no powers but needs to show his acolytes his strength, or else he would lose his followers. The cleric asks the Snack Club if they'll rig a fight to win against one of them. The Snack Club are reluctant to get involved. Shorin suggests he simply tells them The Snack Club are too weak to bother with. In the second encounter, two drunes are stalking the Snack Club. Once spotted, they run. But the Weavers will not have this. Lane and Aranna chases them, kills both. They discover a powerful _fireball_ spell. Lane commits it to memory. Lane also finds a map on the body of the other drune.
 
 Finally, at twilight, they come across four noblemen who are returning from a hunt. One of them is Jarrod Milos. He acts haughty, as if he doesn't know his siblings. The other nobles, in their highfalutin voices, ribs Jarrod, making fun of his siblings. The Snack Club can't do anything here. They're smart enough to know hurting rich people brings terrible consequences. But as they leave, the Milos siblings screams at Jarrod to tell his friends about that funny dance he does. It sufficiently embarrasses Jarrod.
 
@@ -49,7 +49,7 @@ They cut through the rooms where gnomes live. One of them runs a fishing shop, t
 
 ## Stick Your Arm In. It Won't Hurt.
 
-Meanwhile, the rest of the Snack Club are in a cavern with several fist-sized holes in the walls. Selina sees something shiny in one, sticks her hand in, and it magically doubles in size. She fishes out a serrated knife, but her forearm is now freakishly large. Toaf decides this would be fun too. Does it twice. Grabs an emerald gem worth 500gp, but both hands turn into talon claws. Shorin does it multiple times. One hand oozes this gross violet slime. Another hand turns zombie-like. He has no control over it. So now, using his slimy good hand, grabs the zombie one, and shoves it into another hole. Luckily, it turns back normal. But if it hadn't, I had plans to have the zombie hand choke Shorin when he slept. Opportunity missed.
+Meanwhile, the rest of the Snack Club are in a cavern with several fist-sized holes in the walls. Selina sees something shiny in one, sticks her hand in, and it magically doubles in size. She fishes out a serrated knife, but her forearm is now freakishly large. Toaf decides this would be fun too. Does it twice. Grabs an emerald gem worth 500gp, but both hands turn into talon claws. Shorin does it multiple times. One hand oozes this gross violet slime. Another hand turns zombie-like. He has no control over it. So now, using his slimy good hand, grabs the zombie one, and shoves it into another hole. Luckily, it turns back normal. But if it hadn't, I would have had the zombie hand choke Shorin when he slept. Opportunity missed.
 
 They explore another room. It's a nest of head-sized eggs. Selina roots around and finds some gold and a bent silver ring.
 
@@ -65,7 +65,7 @@ Lane -- who throughout this entire dungeon has been saying the "secret password"
 
 ## The Drunes Temple
 
-Inside, Lane, Aust and Toaf see a giant vat, where it looks like they're growing a emerald encrusted humanoid. Next to the vat are six drunes in prostrating themselves towards an altar at the far end of the wall. On top of the altar, a statue of a wizard made of emerald. The drunes hear the clunky armor of Lane and Aust. They turn around and fire magic missiles at them. Toaf turns into a rhinosaurus. Charges one. Gores him. Lane and Aust are outnumbered. They roll badly. They retreat. As they turn, they get knocked up a few more times. Toaf tries to run too, but drunes beat on the grey-skinned beast. **Toaf dies, reverting to human form**.
+Inside, Lane, Aust and Toaf see a giant vat, where it looks like they're growing a emerald encrusted humanoid. Next to the vat are six drunes prostrating themselves towards an altar at the far end of the wall. On top of the altar, a statue of a wizard made of emerald. The drunes hear the clunky armor of Lane and Aust. They turn around and fire magic missiles at them. Toaf turns into a rhinosaurus. Charges one. Gores him. Lane and Aust are outnumbered. They roll badly. They retreat. As they turn, they get knocked up a few more times. Toaf tries to run too, but drunes beat on the grey-skinned beast. **Toaf dies, reverting to human form**.
 
 The Snack Club keep running out of the underground jungle until they find a safe location. At this point, Shorin reveals, he is actually a talented singer whose songs has healing powers. He heals The Snack Club. And The Snack Club decides that they must leave the Hole in the Oak and come back. Lane informs his party that his sword requires repair as well. So they leave the dungeon and head back to Mlurg Nar.
 
@@ -77,13 +77,13 @@ Selina also does a little shopping and looks for a mirror to reflect the golden 
 
 Armed with the mirror, the Snack Club return to the Hole in the Oak. They bump into two novice Mlurg Nar guards, Lefyr and Ilsa, who are not too keen to be patrolling the city limits. The Snack Club chat briefly with them. Asks them about the Dolmenwood Drunes. Lefyr and Ilsa tell them they're dangerous and you shouldn't mess with them. Not very helpful.
 
-Back in the Hole in the Oak, the Snack Club make their way back to the underground jungle. They set up the mirror so that the golden light reflects off towards the wall. The evil tree babies continue to hiss at them, but don't attack. Lane decides to walk through the narrow hallway to where the drunes are. Obviously, the drunes are waiting for them. They fire six magic missiles at him, it does 17 damage. Lane has 7 health. It's not looking good. I ask him why he would walk into a narrow hallway like this.
+Back in the Hole in the Oak, the Snack Club make their way back to the underground jungle. They set up the mirror so that the golden light reflects off towards the wall. The evil tree babies continue to hiss at them, but don't attack. Lane decides to walk through the narrow hallway to where the drunes are. Obviously, the drunes are waiting for them. They fire six magic missiles at him, it does 17 damage. Lane has 7 health. It's not looking good. I ask him why he would walk into a narrow hallway like this when the Dolmenwood Drunes are clearly waiting for them.
 
-Lane has one shot. He casts _fireball_. Slane Milos, the charlatan with a magical silver-tongue, tells Lane that he has the best magic powers in all of Nehwon. It gives him a +11 boost. Lane rolls.... a  17. With his intelligence modifier, it bumps the entire spell to the greatest effect possible: 20d6. The roll does 68 damage. It is a humongous fireball that scorches EVERYTHING in the Dolmenwood Drune temple. It is so fiery that Lane and Aust take damage, almost killing Lane.
+Lane has one shot. He casts _fireball_. Slane Milos, the charlatan with a magical silver-tongue, tells Lane that he has the best magic powers in all of Nehwon. It gives him a +11 boost. Lane rolls.... a  17. With his intelligence modifier, it bumps the entire spell to the greatest effect possible: 20d6 damage. The roll does 68 damage. It is a humongous fireball that scorches EVERYTHING in the Dolmenwood Drune temple. It is so fiery that Lane and Aust take damage, almost killing Lane.
 
-The Snack Club realizes they need to put out this fire in order to retrieve whatever hints, clues or secrets in the temple. So Lane, decides to _dimension door_ to Lankhmar where Benson is to learn of some water-related spelll. It works. He opens up a door, jumps through and is in Benson's study. He teaches Lane _Wall of Elements_. But when Lane attempts to dimension door back. He fails and loses the spell.
+The Snack Club realizes they need to put out this fire in order to retrieve whatever hints, clues or secrets in the temple. So Lane, decides to _dimension door_ to Lankhmar where Benson is to learn of some water-related spell. It works. He opens up a door, jumps through and is in Benson's study. He teaches Lane _Wall of Elements_. But when Lane attempts to dimension door back. He fails and loses the spell.
 
-Meanwhile, Shorin is digging up the black dirt to find treasure. He finds a chest with 1994gp in it and an iron ring. The rest of the Snack Club are staring at the fire. Eventually it dies down. The six corpses are charred into black crispy coal. The vat has melted. The emerald statue has melted. There's nothing to loot. What's more -- the Snack Club has not discovered any new information. Lane's _fireball_, in short, was the nuclear option.
+Meanwhile, Shorin is digging up the black dirt to find treasure. He finds a chest with 1994gp in it and an iron ring. The rest of the Snack Club are staring at the fire. Eventually it dies down. The six drunes are charred into black crispy coal. The vat has melted. The emerald statue has melted. There's nothing to loot. What's more -- the Snack Club has not discovered any new information. Lane's _fireball_, in short, was the nuclear option.
 
 I'll leave you with Oppenheimer's words:
 
@@ -103,7 +103,7 @@ _/end session_
 * 19 Ice Necklaces x 200gp = 3,800gp
 * 12 Ice Jewels x 150gp = 1,800gp
 * 9 Chests of Gold = 3,679gp
-* Chest of Gold from Hole in Oak = 1994gp
+* Chest of Gold from Hole in Oak = 1,994gp
 * 5 Opal x 200gp =1,000gp
 * 1 Ruby x 800gp = 800 gp
 
