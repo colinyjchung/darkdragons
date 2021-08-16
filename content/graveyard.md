@@ -54,6 +54,9 @@ Here, laid to rest, the careless many, the rash, the unwise... those who met the
 * **Myra, Mercenary** (L2-LC). _2021-08-08 (14d)_
 <br/>Bludgeoned by two Dolmenwood Drunes.
 
+* **Toaf Frog, Spy** (L2-SB). _2021-08-15 (7d)_
+<br/>Beaten as rhinoceros by Dolmenwood Drunes.
+
 _May ye all rest in peace._
 
 <hr/>
