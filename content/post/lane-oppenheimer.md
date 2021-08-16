@@ -17,9 +17,9 @@ tags = [
     "Selina Milos, Assassin",
     "Slane Milos, Charlton",
     "Shorin Milos, Lower Noble",
-    "OSR"
+    "The Hole in the Oak",
+    "OSR",
     "Gavin Norman"
-    "The Hole in the Oak"
 ]
 categories = [
 ]
