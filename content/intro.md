@@ -71,12 +71,12 @@ And if (and when) your character dies, don't pout. Roll up a new one. It only ta
 
 # Why Play RPGs?
 
-Aside from getting together with a group of friends to make up silly stories together... could you argue RPGs are also _educational_? 
+Aside from getting together with a group of friends to make up stories together... could you argue RPGs are also _educational_? 
 
 My answer is yes. Let's break it down. When you're role-playing, what are you doing exactly?
 
 1. Project Management
-2. Making Decisions as a Group
+2. Group Decision Making
 3. Strategic Planning
 4. Creative Thinking
 
@@ -86,11 +86,11 @@ Let's break down each of those:
 
 ##### Project Management
 
-A D&D adventure is basically a camping trip where you happen to also kill monsters and steal their treasure. Each player can only carry so many items, so they have to plan on _what_ to bring, _how much_, and _who_ should carry what items. Sometimes, players can hire henchpeople, adding an element of HR. In other words, the planning stage of an adventure is basically logistics and resource allocation.
+A D&D adventure is basically a camping trip where you also happen to kill monsters and steal their treasure. Each player can only carry so many items, so they have to plan on _what_ to bring, _how much_, and _who_ should carry what items. Sometimes, players can hire henchpeople, adding an element of HR. In other words, the planning stage of an adventure is basically logistics and resource allocation.
 
 ##### Making Decisions as a Group
 
-D&D adventures are played with friends. And together, you make decisions on _where_ to go, _whether_ to fight or retreat, and whether split-up or stay together inside a dungeon. I'd say 40-60% of the time as a DM, I'm just sitting there listening to the players argue about what to do next.
+D&D adventures are played with friends. And together, you make decisions on _where_ to go, _whether_ to fight or retreat, and whether to split-up or stay together inside a dungeon. I'd say 40-60% of my time as a DM is sitting there listening to the players argue about what to do next.
 
 This inevitably creates a group dynamic where diplomacy, leadership and team cohesion has to take place. Yes, there's shouting and arguing... but the players have to -- in one way or another -- decide on what to do... _together_ as a group.
 
