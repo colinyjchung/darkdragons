@@ -79,3 +79,5 @@ Here are some common roles on a "tactical team":
 * **Shock Attackers & Skimishers** - These are your thieves and rogues who can sneak in, backstab for heavy damage, and run back to safety. They're either flanking, behind cover, or standing by the supporters. They weave in and out of the main battle.
 
 Combat is always risky and dangerous. And in real life, fights are dirty. There is no "fairness". If you see a weakness, or cover, or a way to suprise or outnumber, take it. Your enemies would do the same to you if given the chance.
+
+They key here is to **work as a team**. Rushing recklessly into battle will nearly always result in sub-optimal results.
