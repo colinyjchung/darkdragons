@@ -78,7 +78,4 @@ Here are some common roles on a "tactical team":
 * **Spellslinger** - Here are your wizards (nicknamed "fragile cannons"). They're typically weak, but with the right spells can cause a lot of damage. They, too, should stand far back... behind as much cover as possible.
 * **Shock Attackers & Skimishers** - These are your thieves and rogues who can sneak in, backstab for heavy damage, and run back to safety. They're either flanking, behind cover, or standing by the supporters. They weave in and out of the main battle.
 
-Spellslingers --> Marksmen --> --> Supporters --> Tanks <-- ENEMIES.
-                       Shock Attackers & Skirmishers -->
-
 Combat is always risky and dangerous. And in real life, fights are dirty. There is no "fairness". If you see a weakness, or cover, or a way to suprise or outnumber, take it. Your enemies would do the same to you if given the chance.
