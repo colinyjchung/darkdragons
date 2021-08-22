@@ -32,7 +32,7 @@ There are many types of knowledge. Here are some suggestions:
 
 * **Street Knowledge** - Places like taverns, clubs, and local watering holes is where you may hear rumours, gossip, and get leads. Ask yourself, who would know secrets? Priests, tavern-keepers, hoteliers, beggars, and errand-kids are privy to a lot of conversations. Does someone in the party have criminal or intelligence connections? 
 
-* **Field Knowledge** - People like woodsman, hunters, and foragers would know the surrounding wilderness well and point out points-of-interest, places-to-avoid, and the like. Exploring the surrounding area of a dungeon will also give you clues as to what kind of danger you're walking into.
+* **Field Knowledge** - People like woodsman, hunters, and foragers would know the surrounding wilderness well and direct you to points-of-interest, warn you of places-to-avoid, and the like. Exploring the surrounding area of a dungeon will also give you clues as to what kind of danger you're walking into.
 
 The key here is to think who might have useful knowledge and seek them out.
 
@@ -62,7 +62,7 @@ Finally, you'll put your plan to action, but of course, as the famous quote goes
 
 It is here that players must _improvise_ and adapt. While your plans may go awry, all the research you did earlier will come in handy as you alter your next steps.
 
-These are the scenes where quickthinking and cunning PCs will create unforgettable moments when they MacGuyver their party out of trouble.
+These are the scenes where quickthinking and cunning PCs will create unforgettable moments when they MacGuyver their party out of trouble. These are often the times where that odd item in your rucksack suddenly becomes handy. Or you use a spell in an unexpected way.
 
 ## A Word on Combat
 
