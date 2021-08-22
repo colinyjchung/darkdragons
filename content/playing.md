@@ -80,4 +80,4 @@ Here are some common roles on a "tactical team":
 
 Combat is always risky and dangerous. And in real life, fights are dirty. There is no "fairness". If you see a weakness, or cover, or a way to suprise or outnumber, take it. Your enemies would do the same to you if given the chance.
 
-They key here is to **work as a team**. Rushing recklessly into battle by yourself will nearly always result in sub-optimal results.
+The key here is to **work as a team**. Rushing recklessly into battle by yourself will nearly always result in sub-optimal results.
