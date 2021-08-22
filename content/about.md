@@ -9,6 +9,7 @@ author = "Colin Y.J. Chung"
 This website is a record of RPG sessions ran by Colin Y.J. Chung, along with thoughts on game design, genre fiction/media, and miscellaneous geekery. Underaged player names are initialed for privacy reasons.
 
 For new players and parents, [read this first](https://dragonsinthedark.com/intro).
+
 For players looking to get better at RPGs, [read this guide](https://dragonsinthedark.com/playing).
 
 ## Ruleset & Design Philosophy
