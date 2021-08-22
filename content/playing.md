@@ -10,7 +10,11 @@ While you're technically allowed to _"do whatever you want"_ in a roleplaying ga
 
 In the case of D&D, it might be as simple as **getting treasure** or **stopping the villain**. In mystery games like _Call of Cthulhu_ or _Delta Green_, it's **solving the mystery**.  In political intrigue games like _Blades in the Dark_ or _Apocalypse World_, it's about **getting and maintaining power**.
 
-Regardless, there are three major actions in every RPG:
+Here's a short guide to...
+
+## Playing RPGs to Win
+
+There are three major actions in every RPG:
 
 1. **Investigate & Explore** (gather information)
 2. **Plan & Strategize** (gather and allocate resources)
@@ -20,17 +24,17 @@ Let's break each one down...
 
 ## Investigate & Explore
 
-When presented with a problem, players should take the time to gather as much information as they can. Players should ask themselves: "**where can I get more information?** 
+When presented with a problem, players should take the time to gather as much information as they can. Players should ask themselves: "**where can I get more information?**"
 
 There are many types of knowledge. Here are some suggestions:
 
 * **Book Knowledge** - Places like libraries, town halls, police stations, guards barracks, and government offices is where you may find old records, legal documents, ongoing crimes, history and dossiers.
 
-* **Street Knowledge** - Places like taverns, clubs, and local watering holes is where you may hear rumours, gossip, and get leads. Ask yourself, who would know secrets? Priests, tavern-keepers, hoteliers, beggars, errand-kids are privy to a lot of conversations. Does someone in the party have criminal or intelligence connections? 
+* **Street Knowledge** - Places like taverns, clubs, and local watering holes is where you may hear rumours, gossip, and get leads. Ask yourself, who would know secrets? Priests, tavern-keepers, hoteliers, beggars, and errand-kids are privy to a lot of conversations. Does someone in the party have criminal or intelligence connections? 
 
 * **Field Knowledge** - People like woodsman, hunters, and foragers would know the surrounding wilderness well and point out points-of-interest, places-to-avoid, and the like. Exploring the surrounding area of a dungeon will also give you clues as to what kind of danger you're walking into.
 
-The key here is to think who might be have useful knowledge and seek them out.
+The key here is to think who might have useful knowledge and seek them out.
 
 ## Plan & Strategize
 
@@ -58,9 +62,11 @@ Finally, you'll put your plan to action, but of course, as the famous quote goes
 
 It is here that players must _improvise_ and adapt. While your plans may go awry, all the research you did earlier will come in handy as you alter your next steps.
 
-**A Word on Combat**
+These are the scenes where quickthinking and cunning PCs will create unforgettable moments when they MacGuyver their party out of trouble.
 
-When engaged with the enemy, it's important to know your **tactical role* on the team. 
+## A Word on Combat
+
+When engaged with the enemy, it's important to know your **tactical role** on the team. 
 
 Not every PC should rush into battle and trade blows. Some are meant to support the front line, some are meant to flank, and some are meant to stay behind, well-protected until they can cast heavy spells like artillery.
 
@@ -68,6 +74,11 @@ Here are some common roles on a "tactical team":
 
 * **Tanks** (Front Line) - These are your heavily armored fighters, those who can take and deal tons of damage. They should have heavy weapons, high strength and health.
 * **Supporter** - Typically bards and healers, they stand behind the fighters, ready to heal or pump up the fighters with spells and powers, keeping them alive and dealing damage.
-* **Marksman** - These are the archers and sharpshooters who stand far back from the actual battle, with view of as much of the battlefield as possible.
-* **Spellslinger** - Here are your wizards or nicknamed "fragile cannons". They're typically weak, but with the right spells can cause a lot of damage. They, too, should stand far back behind as much cover as possible.
-* **Shock Attacker & Skimishers** - These are your thieves and rogues who can sneak in, backstab for heavy damage, and run back to safety. They're either flanking, behind cover, or standing by the supporters.
+* **Marksman** - These are the archers and sharpshooters who stand far back from the actual battle, with as much view of the battlefield as possible. In some cases, they are _literally_ "calling the shots".
+* **Spellslinger** - Here are your wizards (nicknamed "fragile cannons"). They're typically weak, but with the right spells can cause a lot of damage. They, too, should stand far back... behind as much cover as possible.
+* **Shock Attackers & Skimishers** - These are your thieves and rogues who can sneak in, backstab for heavy damage, and run back to safety. They're either flanking, behind cover, or standing by the supporters. They weave in and out of the main battle.
+
+Spellslingers --> Marksmen --> --> Supporters --> Tanks <-- ENEMIES.
+                       Shock Attackers & Skirmishers -->
+
+Combat is always risky and dangerous. And in real life, fights are dirty. There is no "fairness". If you see a weakness, or cover, or a way to suprise or outnumber, take it. Your enemies would do the same to you if given the chance.
