@@ -27,7 +27,7 @@ categories = [
 ]
 +++
 
-The Milos siblings -- **Selina Milos** (_EC_), **Slane Milos** (_LC_), and **Shorin Milos** (_EB_) -- are in Gnamph Nar, and catch sight of **Wrenn** (_SB_), their adopted brother, who is biologically a Booker, and worked for the Weavers... and **Squidward Tentacles** (_HA_), a degenerate gambling hedge wizard. They decide to join The Snack Club. Later, Norah, their banker, hands them a letter:
+The Milos siblings -- **Selina Milos** (_EC_), **Slane Milos** (_LC_), and **Shorin Milos** (_EB_) -- are in Gnamph Nar, and catch sight of **Wrenn** (_SB_), their adopted brother, who is biologically a Booker, and worked for the Weavers... and **Squidward Tentacles** (_HA_), a degenerate gambling hedge wizard. They join The Snack Club. Later, Norah, their banker, hands them a letter:
 
 >Dear Selina, Slane, and Shorin,
 
@@ -44,7 +44,7 @@ Wow. What a huge, sniveling, trash of a human being this Jarrod is. Everyone _ha
 
 It's a three day journey to Ool Krut. On their way there, they see a hungry ragged girl who asks if she can tag along until they get to Kvarch Nar. The entire party is reluctant to let this happen. It feels, smells and looks like a trap. But nobody has the heart to tell her to shove off. Later, the Snack Club bump into a different adventuring party, a fighter, thief and wizard along with six retainers. Immediately the girl screams for help and claims she was kidnapped by the Snack Club. Wrenn and Selina manage to convince the other party the girl is crazy. The other party leaves, the Snack Club abandon the girl in the streets outside Kvarch Nar.
 
-From Kvarch Nar, they journey to Ool Hrusp. On the way there, they're ambushed by Dolmenwood Drunes again. **Aranna Weaver** (_AJ_, played by _EB_) spots one, shoots at him. Selina blows on her hunting horn, summons a hound, finds another in the trees. Squidward casts _entangle_ on him. Wrenn slashes the captured drune. **Lane Weaver** (_AB_, played by _SB_) casts _fireball_, pumped up by Slane's silver-tongue. It causes massive damage. All the Dolmenwood Drunes are crispy nuggets. Shorin realizes that eventually, they'll need to keep one of these guys alive to get clues (or loot them). Lane casts _wall of elements_... a 40x40' wall of water to put out the forest fire. Smokey Bear is proud of Lane.
+From Kvarch Nar, they journey to Ool Hrusp. On the way there, they're ambushed by Dolmenwood Drunes again. **Aranna Weaver** (_AJ_, played by _EB_) spots one, shoots at him. Selina blows on her hunting horn, summons a hound, finds another in the trees. Squidward casts _entangle_ on him. Wrenn slashes the captured drune. **Lane Weaver** (_AB_, played by _SB_) casts _fireball_, pumped up by Slane's silver-tongue. It causes massive damage. All the Dolmenwood Drunes are crispy nuggets. Shorin realizes that eventually, they'll need to keep one of these guys alive to get clues (or loot them). Lane casts _wall of elements_... a 40x40' wall of water to put out the forest fire. [Smokey Bear is proud of Lane](https://www.youtube.com/watch?v=E-S7n-nzcUc).
 
 In Ool Hrusp, Wrenn hires a henchperson by the name of Poggy to carry his stuff. Shorin tries on this bent silver ring. It bumps his CON up one, but there's a minor curse attached to it as well. (He doesn't know what it is yet). Slane finds out his copper ring is cursed. Doesn't put it on. And from Ool Hrusp, the Snack Club travel to Ool Krut. As they leave the city and travel north towards Willowby Hall, two woodsmen are running the other way screaming, "Giant!!!". Selina and Shorin attempt to chase him down for more clues and the woodsman just keep shouting "giant" and "run".
 
@@ -58,7 +58,7 @@ Shorin pulls the party back and starts to sing his Song of Rest to heal everyone
 
 The Milos siblings then ask me if they remember the layout of the house from their childhood. They do. I hand them maps of Willowby Manor. The Snack Club then spends a good twenty minutes arguing who gets whose room. They notice that Jarrod has the biggest bedroom next to their parents. Again, jerkwad. They tell Wrenn that because he's adopted, he can sleep in the servant's quarters. At one point the Milos siblings roll dice to see how old they are so they can determine who gets Jarrod's big bedroom. Slane is 34. Shorin and Selina are 22. I check out after a while, because who gets what bedroom is not relevant to the game.
 
-AB shows up and takes back control of Lane Weaver. We have to retcon the fact that he has placed his beloved (and expensive) magic longsword in the vaults of Lankhmar because he would rather swing a one-handed sword and have his other free hand to cast spells. (Like Witcher on Netflix! Highly recommend!)
+AB shows up and takes back control of Lane Weaver. We have to retcon the fact that he has placed his beloved (and expensive) magic longsword in the vaults of Lankhmar because he would rather swing a one-handed sword and have his other free hand to cast spells. (Like [Witcher on Netflix](https://www.netflix.com/watch/80189685)! Highly recommend!)
 
 And we're in dungeon crawl mode now.
 
@@ -74,9 +74,9 @@ I keep rolling anything but the 1s and 2s on a d6 that would create fun random e
 
 Shorin and Aust wander into the kitchen, then the pantry. Shorin climbs up the rickety shelves, falls, and... takes four damage. And because he's so low on health from getting smashed by a giant church bell from earlier... **Shorin dies**, his dead body laying on top of Aust. This is quite possibly the most absurd death in our entire campaign. Death by falling shelves.
 
-EB rolls up a new character, a wildling by the name of **Raw Skull** who was caught and toured around like a freak show years ago until Lane Weaver freed him. Raw Skull can only talk in mono- and two-syllable words and three-word sentences. Lane is his "only friend". If you've seen _Night at the Museum 3_ and recall Ben Stiller's caveman counterpart, you have a good sense of who Raw Skull is. Anyway, to keep the game moving, Lane Weaver had _dimension doored_ him in. Raw Skull is big, and dumb, and really strong. He gives Lane a big bear hug and crushes him for 2 damage. This will be the recurring gag for Raw Skull.
+EB rolls up a new character, a wildling by the name of **Raw Skull** who was caught and toured around like a freak show years ago until Lane Weaver freed him. Raw Skull can only talk in mono- and two-syllable words and three-word sentences. Lane is his "only friend". If you've seen _Night at the Museum 3_ and recall Ben Stiller's [caveman counterpart](https://www.youtube.com/watch?v=Oy0clHsGlWw), you have a good sense of who Raw Skull is. Anyway, to keep the game moving, Lane Weaver had _dimension door_/retcon him in. Raw Skull is big, and dumb, and really strong. He gives Lane a big bear hug and crushes him for 2 damage. This will be the recurring gag for Raw Skull.
 
-At one point, Slane is exploring a tapestry room when the giant smashes the room to pieces, almost killing Slane. Slane laments that he can't die and has to survive at least more than one session. And at this point, Lane finally convinces everyone they need to _dimension door_ the heck out of here. His spell, however, is only good enough to get himself and Slane out of here. Lane and Slane, like some sort of 70s pop duet. Everyone else just smashes windows and starts running where the giant can't see them.
+At one point, Slane is exploring a tapestry room when the giant smashes the room to pieces, almost killing Slane. Slane laments that he can't die and has to survive at least more than one session. And at this point, Lane finally convinces everyone they need to _dimension door_ the heck out of here. His spell, however, is only good enough to get himself and Slane out of here. Lane and Slane, like some sort of [70s pop-singer duet](https://www.youtube.com/watch?v=EErSKhC0CZs). Everyone else just smashes windows and starts running where the giant can't see them.
 
 ## Ool Krut, Lankhmar, and No Ombrulsk?
 
@@ -86,11 +86,11 @@ Wrenn and Squidward decide they must get Lane to _dimension door_ them to Lankhm
 
 Benson tells them it will take a week to properly train them. So now, seven of the Snack Club are staying in Lankhmar, paying for hotel costs so that... two of them can learn one spell. This doesn't seem very efficient. Meanwhile, Selina, Aust and Aranna are doing what in Ool Krut? At one point, Raw Skull and Slane want enchanted weapons as well, and Lane is like, _fine, I'll dimension door you guys to No-Ombrulsk as well_... when he remembers he had stuck his magic sword in the Wyrmskull vault. So now, Raw Skull has a magic sword. He also buys some expensive plate armor.
 
-Meanwhile, Selina remembers my "[Playing RPGs to Win](https://dragonsinthedark.com/playing)" post and decides to ask around for more information about Mildred. No information. She decides to go through library records. That's when she overhears a few townsfolk gossiping about a few **important clues**:
+Meanwhile, Selina remembers my "[Playing RPGs to Win](https://dragonsinthedark.com/playing)" post and decides to ask around for more information about Mildred. No information. She decides to go through townhall records. That's when she overhears a few townsfolk gossiping about a few **important clues**:
 
 1. A few townsfolk saw three adventurers running towards Willowby Hall with pet goose named Mildred.
-2. Mildred, they suspect, is rumored goose who lays golden eggs and belongs to the cloud giant, Bonebreaker Tom
-3. In the library records, Selina learns that her parents had sold their summer home to an eccentric wizard named Elias Fenwick, he notably has a black beard
+2. Mildred, they suspect, is the rumored goose who lays golden eggs and belongs to the cloud giant, Bonebreaker Tom
+3. In the townhall records, Selina learns that her parents had sold their summer home to an eccentric wizard named Elias Fenwick, he notably has a black beard
 4. Elias Fenwick disappeared years ago, and since then, Willowby Hall has acted a little strange. Most likely haunted.
 5. Townsfolk stay away from Willowby Hall because of that.
 
@@ -106,7 +106,7 @@ The rest of the Snack Club arrive at Willowby Hall. Fortunately, the giant is wa
 
 More dungeon crawling. Slane finds a tomb room, cracks up the graves and finds four skeletal remains all with interesting armor on them. But LC is tying his shoe and completely ignores what I read out. So now nobody remembers what the armor is. 
 
-They make it upstairs. Raw Skull meets a blackjack playing ghost in the servants quarters. Not being very smart, he sits down to wager with the ghost. Somehow, he wins himself a pair of very lux riding boots. They arrive at the art gallery and see diamond-shaped panes of glass (it's a clue that refers to the portrait). They find a museum and see mummified body parts. Wrenn and Squidward find Helmut Halfsword hiding in the stairs. It's the fighter they had bumped into when they were first traveling to Ool Krut.
+They make it upstairs. Raw Skull meets a blackjack playing ghost in the servants quarters. Not being very smart, he sits down to wager with the ghost. Somehow, he wins himself a pair of very lux riding boots. They arrive at the art gallery and see diamond-shaped panes of glass (it's a clue that refers to the dining room portrait). They find a museum and see mummified body parts. Wrenn and Squidward find Helmut Halfsword hiding in the stairs. It's the fighter they had bumped into when they were first traveling to Ool Krut.
 
 Helmut explains that he's been trapped in this house for two weeks now. They had stolen the giant's goose, him and two of his party. He wants nothing but to get out of this house safely. Both Wrenn and Squidward cast _dimension door_ to help him out, but both fail. So now Helmut has joined the party. They eventually bump into Slane wandering through the art gallery.
 
