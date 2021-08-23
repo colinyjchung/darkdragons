@@ -93,7 +93,7 @@ Meanwhile, Selina remembers my "[Playing RPGs to Win](https://dragonsinthedark.c
 3. In the townhall records, Selina learns that her parents had sold their summer home to an eccentric wizard named Elias Fenwick, he notably has a black beard
 4. Elias Fenwick disappeared years ago, and since then, Willowby Hall has acted a little strange. Most likely haunted.
 5. Townsfolk stay away from Willowby Hall because of that.
-6. Finally, the church bell Tom is swinging is from the Church of Saint Olvard, foe of the undead.
+6. Finally, the church bell Tom is swinging is from the Church of Saint Olvard, foe of the undead. The people of Ool Krut would really like that back because it keeps the undead away from their city.
 
 So now the Snack Club have spent two full weeks resting and powering up. They travel back to Willowby Hall. Lane thinks it would be a great idea to _dimension door_ back to a room they've already been in, but his spell is not very powerful and can only take himself and one other. He takes Raw Skull with him.
 
