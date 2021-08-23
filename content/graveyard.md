@@ -57,6 +57,9 @@ Here, laid to rest, the careless many, the rash, the unwise... those who met the
 * **Toaf Frog, Spy** (L2-SB). _2021-08-15 (7d)_
 <br/>Beaten as rhinoceros by Dolmenwood Drunes.
 
+* **Shorin Milos, Lower Noble** (L2-EB). _2021-08-22 (7d)_
+<br/>Crushed by rickety shelves.
+
 _May ye all rest in peace._
 
 <hr/>
