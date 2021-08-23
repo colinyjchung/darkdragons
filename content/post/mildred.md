@@ -31,13 +31,13 @@ The Milos siblings -- **Selina Milos** (_EC_), **Slane Milos** (_LC_), and **Sho
 
 >Dear Selina, Slane, and Shorin,
 
-
+<!-- -->
 >I'll be the first to admit, we parted ways in the utmost unagreeable terms, leaving our family sundered. It was most regrettable. However, it was not my place to argue nor go against our father's wishes when our family fortune was bequeathed solely upon my shoulders to burden. But I believe it is the right decision. In order to preserve and further the capital ventures of the Milos names, it would not make profitable sense to quarter our wealth in the name of fairness. Please understand, I carry the Milos fortune as a heavy filial responsibility.
 
-
+<!-- -->
 >However, I can understand your struggle with the small allowance conveyed by our family trust. As such, I have recently come across a timely sale of Willowby Hall near the foothills of Ool Krut. As you may recall, Willowby Hall was where father oft took us to summer, to get away from the streets of Lankhmar. I purchased the property and have placed your names, Selina, Slane, and Shorin on the title deed. It is yours. I'm deeply apologetic I cannot do more.
 
-
+<!-- -->
 >In your service, Jarrod Milos
 
 Wow. What a huge, sniveling, trash of a human being this Jarrod is. Everyone _hates_ Jarrod. Nevertheless, a free house is a free house. 
