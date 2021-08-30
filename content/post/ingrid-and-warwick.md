@@ -33,7 +33,7 @@ categories = [
 
 **Quick Recap:** Jarrod bequeathed **Willowby Hall**, the Milos summer vacation home to the Milos siblings -- -- **Selina Milos** (_EC_), **Slane Milos** (_LC_, played by _EC_), and **Shorin Milos** (_EB, deceased_), but when they got there, it was being destroyed by a giant with a church bell screaming for "Mildred!". The party discovers that Mildred is a goose that lays golden eggs and three adventurers stole it from the giant, Bonebreaker Tom. The Snack Club are in the house trying to find the thieves and the goose so they can return the goose to said giant and get their home back.
 
-At the beginning of the session, the Snack Club is split four-ways: Selina and **Aust Booker** (_OR_) are in the dressing room, **Raw Skull* (_EB_) is rummaging in a museum, Slane is wandering down the upstairs hallways, and **Aranna** (_AJ_), **Wrenn** (_SB_), Poggy, Helmut, and **Squidward** (_HA_) are searching the library.
+At the beginning of the session, the Snack Club is split four-ways: Selina and **Aust Booker** (_OR_) are in the dressing room, **Raw Skull** (_EB_) is rummaging in a museum, Slane is wandering in the upstairs hallways, and **Aranna** (_AJ_), **Wrenn** (_SB_), Poggy, Helmut, and **Squidward** (_HA_) are searching the library.
 
 There's some more dungeon crawling. Raw Skull picks up a mummified head with black enamel teeth. He yanks them out of the head and sticks them in his pocket. Selina and Aust get attacked by the death knight. Wrenn, Poggy, and Helmut walk into a bedroom and the floor collapses under them. Raw Skull tries on some armor in the tomb room, takes it off, runs to the weapons room when the giant peeks in (after almost getting grabbed), wanders into the former tapestry room. Aranna and Squidward discover a chest under Jarrod's bed. They try picking the lock with a needle, it breaks. Squidward casts _entangle_ in hopes of crushing it, it misfires, and he grows a tail.
 
@@ -56,18 +56,25 @@ While retrieving money from their banker in Ool Krut, Allahb hands Selina a pack
 Selina opens the letter and reads...
 
 >My dear Selina,
+
 <!-- -->
 >Once again, the month of the Lizard and day of the Eel is upon us. It was only one-score-and-three years ago when I first held you in my arms, my darling niece.
+
 <!-- -->
 >I haven’t been around much, as I’ve travelled far and wide in search of treasure… But your mother always wrote to say how proud of you she is, and what a self-possessed and clever woman you’ve grown into.
+
 <!-- -->
 >Well, Selina, I have recently retired and settled down in Earth’s End. The life of an adventurer is a young person’s game. I’m too old to fight monsters now. It was good while it lasted. I’ve opened up a small tavern called Juno’s Folly. You should come visit! But I know you’re busy, as you’ve followed my path as a treasure-seeker. It’s terrible what Jarrod did to the three of you, and I’m saddened to hear of Shorin’s passing.
+
 <!-- -->
 >I hope you had a wonderful birthday. I’ve included a few relics from my past life as a gift. Figured I’d keep these in the family. Inside the package you’ll find a ring of telekinesis (S1, Q3), a cloak of defense (S1, Q3), and my trusted dagger, Stone-Biter (+2, S1, Q5).
+
 <!-- -->
 >If you visit Juno’s Folly, I’ll teach you a little trick that got me out of many a nasty pickles in my day.
+
 <!-- -->
 >Love, Your aunt, Sorella Juno
+
 <!-- -->
 >P.S. People still come to me with rumors of treasure. Apparently, there’s a dragon in Brandonsford near Kleg Nar guarding a hoard of gold and jewels. I’ve included a map of the local area. 
 
@@ -97,7 +104,7 @@ The Snack Club go to Ingrid the Alchemist. She's a thin, sheepish, socially awkw
 
 The Snack Club visit the blacksmith and this guy hasn't slept in days. He's got horseshoes, rabbit's feet and clovers  all over his wall. He says he's been freaking out about weird presents and letters left on his doorstep. He thinks fairies are tormenting him for some reason. He shows Selina some of these letters. They're love letters. Warwick the blacksmith can't read and that's why he thinks it's magic or something. The Snack Club agree to help him figure this out.
 
-The next morning, Ingrid reveals to the Snack Club that the black fruits have healing properties, but can be addictive. And then, they travel to Vivian's house in the woods. There's a pond there and nixes approach The Snack Club and extort them to throw their weapons into the pond or the witch will turn them into shrubbery. Fortunately, the Snack Club has Ingrid with them and Ingrid tells them the nixies are idiots and to ignore them. Vivian comes out to greet her friend. The Snack Club discover that Vivian is just an old woman who has decided to retire to his own little house in the woods. She's too old to care about dumb rumors that she's a witch, and also doesn't care to clear them either so she can be left alone. Vivian tells the Snack Club about some tree sap that's highly poisonous and could help them with the dragon. She also tells them about how three dwarf brothers, who used to visit her a lot, last came by and bragged about finding a hoard of gold in their mine. They haven't been seen since. The Snack Club thinks it's the Dragon.
+The next morning, Ingrid reveals to the Snack Club that the black fruits have healing properties, but can be addictive. And then, they travel to Vivian's house in the woods. There's a pond there and nixies approach The Snack Club and extort them to throw their weapons into the pond or the witch will turn them into shrubbery. Fortunately, the Snack Club has Ingrid with them and Ingrid tells them the nixies are idiots and to ignore them. Vivian comes out to greet her friend. The Snack Club discover that Vivian is just an old woman who has decided to retire to his own little house in the woods. She's too old to care about dumb rumors that she's a witch, and also doesn't care to clear them either so she can be left alone. Vivian tells the Snack Club about some tree sap that's highly poisonous and could help them with the dragon. She also tells them about how three dwarf brothers, who used to visit her a lot, last came by and bragged about finding a hoard of gold in their mine. They haven't been seen since. The Snack Club thinks it's the Dragon.
 
 The Snack Club head over to the Fauns' Grove to get the sap. On the way, they're pranked by tiny invisible sprites. Raw Skull slaps at one of them that's tickling him. The sprite curses Raw Skull and now he has donkey ears. So now we have a wildling with donkey ears and a hedge wizard with a tail.
 
