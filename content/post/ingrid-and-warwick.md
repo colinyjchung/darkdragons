@@ -21,9 +21,9 @@ tags = [
     "Perrin Juno, Assassin",
     "The Waking of Willowby Hall",
     "OSR",
-    "Ben Milton"
+    "Ben Milton",
     "The Black Wyrm of Brandonsford",
-    "Chance Dudinack",
+    "Chance Dudinack"
 ]
 categories = [
 ]
