@@ -135,12 +135,12 @@ _/end session_
 
 **End-of-Month Interest**: (137gp)
 
-**SUBTOTAL**: 13,536gp
+**SUBTOTAL**: 12,946gp
 
 **Hidden Cache in Great Forest b/w Mlurg Nar & Gnamph Nar**
 <br/> 610gp
 
-**TOTAL**: 14,146gp 
+**TOTAL**: 13,556gp 
 
 #### Chekhov's Ticking Time Bombs
 
