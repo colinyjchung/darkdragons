@@ -60,7 +60,7 @@ Here, laid to rest, the careless many, the rash, the unwise... those who met the
 * **Shorin Milos, Lower Noble** (L2-EB). _2021-08-22 (7d)_
 <br/>Crushed by rickety shelves.
 
-* **Wrenn Milos, Apostle** (L2-EB). _2021-08-29 (7d)_
+* **Wrenn Milos, Apostle** (L2-SB). _2021-08-29 (7d)_
 <br/>Blown up by Apocalypse Anne.
 
 _May ye all rest in peace._
@@ -88,10 +88,10 @@ Here, laid to rest, hench-people and hirelings who lost their lives following ad
 * **4 Knife Twisters, Ruffians** (Mgr-AJ/OR). _2021-08-08 (14d)_ 
 <br/>Betrayed by their own bosses.
 
-* **Poggy, Laborer** (Mgr-EB). _2021-08-29 (7d)_ 
+* **Poggy, Laborer** (Mgr-SB). _2021-08-29 (7d)_ 
 <br/>Blown up by Apocalypse Anne.
 
-* **Helmut Halfsword, Fighter** (Mgr-EB). _2021-08-29 (7d)_ 
+* **Helmut Halfsword, Fighter** (Mgr-SB). _2021-08-29 (7d)_ 
 <br/>Blown up by Apocalypse Anne.
 
 _May ye all rest in peace._
