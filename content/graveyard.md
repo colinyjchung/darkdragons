@@ -96,11 +96,15 @@ Here, laid to rest, hench-people and hirelings who lost their lives following ad
 
 _May ye all rest in peace._
 
+<hr/>
+
 ## In Retirement
 
-Here, adventurers, who after making their fortunes have settled into a quieter life.
+Here are adventurers who have settled into a quiet life.
 
 <hr/>
 
 * **Raw Skull, Wildling** (Mgr-EB). _2021-09-12 (21d)_ 
 <br/>Head chef at "Dragons in the Dark", a tavern in Ool Krut
+
+<hr/>
