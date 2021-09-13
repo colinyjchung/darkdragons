@@ -67,6 +67,17 @@ _May ye all rest in peace._
 
 <hr/>
 
+## In Retirement
+
+Here are adventurers who have settled into a quiet life.
+
+<hr/>
+
+* **Raw Skull, Wildling** (Mgr-EB). _2021-09-12 (21d)_ 
+<br/>Head chef at "Dragons in the Dark", a tavern in Ool Krut
+
+<hr/>
+
 ## The Pauper's Grave
 
 Here, laid to rest, hench-people and hirelings who lost their lives following adventurers to places they don't belong.
@@ -95,16 +106,5 @@ Here, laid to rest, hench-people and hirelings who lost their lives following ad
 <br/>Blown up by Apocalypse Anne.
 
 _May ye all rest in peace._
-
-<hr/>
-
-## In Retirement
-
-Here are adventurers who have settled into a quiet life.
-
-<hr/>
-
-* **Raw Skull, Wildling** (Mgr-EB). _2021-09-12 (21d)_ 
-<br/>Head chef at "Dragons in the Dark", a tavern in Ool Krut
 
 <hr/>
