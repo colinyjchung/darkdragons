@@ -95,3 +95,12 @@ Here, laid to rest, hench-people and hirelings who lost their lives following ad
 <br/>Blown up by Apocalypse Anne.
 
 _May ye all rest in peace._
+
+## In Retirement
+
+Here, adventurers, who after making their fortunes have settled into a quieter life.
+
+<hr/>
+
+* **Raw Skull, Wildling** (Mgr-EB). _2021-09-12 (21d)_ 
+<br/>Head chef at "Dragons in the Dark", a tavern in Ool Krut
