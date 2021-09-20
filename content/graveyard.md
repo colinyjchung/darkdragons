@@ -63,6 +63,9 @@ Here, laid to rest, the careless many, the rash, the unwise... those who met the
 * **Wrenn Milos, Apostle** (L2-SB). _2021-08-29 (7d)_
 <br/>Blown up by Apocalypse Anne.
 
+* **Selina Milos, Assassin** (L3-EC). _2021-09-19 (35d)_
+<br/>Suffered heart attack after fighting tile golem.
+
 _May ye all rest in peace._
 
 <hr/>
@@ -73,8 +76,11 @@ Here are adventurers who have settled into a quiet life.
 
 <hr/>
 
-* **Raw Skull, Wildling** (Mgr-EB). _2021-09-12 (21d)_ 
+* **Raw Skull, Wildling** (L3-EB). _2021-09-12 (21d)_ 
 <br/>Head chef at "Dragons in the Dark", a tavern in Ool Krut
+
+* **Moulsh the Drune, Acolyte** (L3-EB). _2021-09-19 (7d)_ 
+<br/>Didn't like Lane's threats and left the Snack Club
 
 <hr/>
 
