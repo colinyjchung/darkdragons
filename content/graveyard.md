@@ -12,59 +12,61 @@ Here, laid to rest, the careless many, the rash, the unwise... those who met the
 
 <hr/>
 
-* **Ser Ragnarok, Knight** (L1-OR). _2021-05-23 (1d)_ 
+* **[Ser Ragnarok, Knight](https://dragonsinthedark.com/tags/ser-ragnarok-knight/)** (L1-OR). _2021-05-23 (1d)_ 
 <br/>Crushed by dolmen stone. Gambling debts of 500gp.
 
-* **Surina Juno, Charltan** (L1-EC). _2021-05-23 (1d)_
+* **[Surina Juno, Charltan](https://dragonsinthedark.com/tags/surina-juno-charltan/)** (L1-EC). _2021-05-23 (1d)_
 <br/>Head bashed in by drune staff. Sold false jewels.
 
-* **Thork, Zealot of Loki** (L1-HA). _2021-05-23 (1d)_
+* **[Thork, Zealot of Loki](https://dragonsinthedark.com/tags/thork-zealot-of-loki/)** (L1-HA). _2021-05-23 (1d)_
 <br/>Charmed then beaten by drune. Husband of Aranna.
 
-* **Thorn, Hedge Wizard** (L1-HA). _2021-05-23 (1d)_
+* **[Thorn, Hedge Wizard](https://dragonsinthedark.com/tags/thorn-hedge-wizard/)** (L1-HA). _2021-05-23 (1d)_
 <br/>Torn apart by stone hounds. Escaped convict.
 
-* **Darrak, Soldier** (L2-AB). _2021-06-06 (7d)_
+* **[Darrak, Soldier](https://dragonsinthedark.com/tags/darrak-soldier/)** (L2-AB). _2021-06-06 (7d)_
 <br/>Killed by Gravak, gang boss on magic steroids.
 
-* **Orlan, Soldier** (L2-HA). _2021-07-11 (49d)_
+* **[Orlan, Soldier](https://dragonsinthedark.com/tags/orlan-soldier/)** (L2-HA). _2021-07-11 (49d)_
 <br/>Strangled by Palimdybis, the Pit Beast.
 
-* **Ser Purple Nurple, Knight** (L2-OR). _2021-07-11 (49d)_
+* **[Ser Purple Nurple, Knight](https://dragonsinthedark.com/tags/purple-nurple-knight/)** (L2-OR). _2021-07-11 (49d)_
 <br/>Crushed by rubble as a bird in rockslide.
 
-* **Errich Weaver, Knight** (L2-OR). _2021-07-18 (1d)_
+* **[Errich Weaver, Knight](https://dragonsinthedark.com/tags/ser-errich-knight/)** (L2-OR). _2021-07-18 (1d)_
 <br/>Sentenced to death for murder by the Duke of Mlurg Nar.
 
-* **Bob the Priest, Priest** (L2-HA). _2021-07-18 (1d)_
+* **[Bob the Priest, Priest](https://dragonsinthedark.com/tags/bob-the-priest-bob/)** (L2-HA). _2021-07-18 (1d)_
 <br/>Cut down by Tibalc the duelist outside the Pit Fights.
 
-* **Veleris Booker, Pickpocket** (L2-EB). _2021-08-01 (63d)_
+* **[Veleris Booker, Pickpocket](https://dragonsinthedark.com/tags/veleris-pickpocket/)** (L2-EB). _2021-08-01 (63d)_
 <br/>Brained by staff of a Dolmenwood Drune.
 
-* **Thistle Frog, Assassin** (L2-EB). _2021-08-08 (1d)_
+* **[Thistle Frog, Assassin](https://dragonsinthedark.com/tags/thistle-frog-assassin/)** (L2-EB). _2021-08-08 (1d)_
 <br/>Held by Aust, cut by Lane, shot by Aranna.
 
-* **Patrick Weaver, Shapeshifter** (L2-HA). _2021-08-08 (21d)_
+* **[Patrick Weaver, Shapeshifter](https://dragonsinthedark.com/tags/patrick-soldier/)** (L2-HA). _2021-08-08 (21d)_
 <br/>Crushed as fruit fly by Redclaw Guard.
 
-* **Emma Frog, Hedge Wizard** (L3-EC). _2021-08-08 (77d)_
+* **[Emma Frog, Hedge Wizard](https://dragonsinthedark.com/tags/emma-frog-hedge-wizard/)** (L3-EC). _2021-08-08 (77d)_
 <br/>Charred by Dolmenwood magic missiles.
 
-* **Myra, Mercenary** (L2-LC). _2021-08-08 (14d)_
+* **[Myra, Mercenary](https://dragonsinthedark.com/tags/myra-mercenary/)** (L2-LC). _2021-08-08 (14d)_
 <br/>Bludgeoned by two Dolmenwood Drunes.
 
-* **Toaf Frog, Spy** (L2-SB). _2021-08-15 (7d)_
+* **[Toaf Frog, Spy](https://dragonsinthedark.com/tags/toaf-frog-spy/)** (L2-SB). _2021-08-15 (7d)_
 <br/>Beaten as rhinoceros by Dolmenwood Drunes.
 
-* **Shorin Milos, Lower Noble** (L2-EB). _2021-08-22 (7d)_
+* **[Shorin Milos, Lower Noble](https://dragonsinthedark.com/tags/shorin-milos-lower-noble/)** (L2-EB). _2021-08-22 (7d)_
 <br/>Crushed by rickety shelves.
 
-* **Wrenn Milos, Apostle** (L2-SB). _2021-08-29 (7d)_
+* **[Wrenn Milos, Apostle](https://dragonsinthedark.com/tags/wrenn-milos-apostle/)** (L2-SB). _2021-08-29 (7d)_
 <br/>Blown up by Apocalypse Anne.
 
-* **Selina Milos, Assassin** (L3-EC). _2021-09-19 (35d)_
+* **[Selina Milos, Assassin](https://dragonsinthedark.com/tags/selina-milos-assassin/)** (L3-EC). _2021-09-19 (35d)_
 <br/>Suffered heart attack after fighting tile golem.
+
+#### Snack Club Death Count: 18
 
 _May ye all rest in peace._
 
