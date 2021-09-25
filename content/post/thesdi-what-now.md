@@ -51,7 +51,7 @@ Meanwhile, Perrin slashes at the tile-dog behind him, destroying it... while Squ
 
 Meanwhile, instead of picking locks, Aust charges another set of double-doors, splintering it wide open. The Snack Club find themselves in a well-appointed foyer. Lush rugs, fancy chairs, candelabras. In front of them a massive slab of emerald on a table flanked by two doors. They wander in, checking out the place, when two flying skulls with bat-wings and ruby eyes float out of the emerald table as if it were a portal, and followed by the EMERALD ENCHANTER. Nobody notices him except Squidward. Squidward has the the initiative. He could cast a spell and do some damage on this ONE villain they've been chasing for thirteen episodes now, anything, something, maybe even stab him with his dagger. But instead, Squidward asks, "hey, what are you doing?"
 
-The Emerald Enchanter casts _magic missile_ on Squidward major damage to him, mutters something to the two skulls, and climbs back into the emerald slab. Vanishing. Perrin and Moulsh quickly figure out that the flying skulls are basically surveillance cameras when they don't attack or do anything. They simply float there, watching.
+The Emerald Enchanter casts _magic missile_ on Squidward, dealing major damage to him, mutters something to the two skulls, and climbs back into the emerald slab. Vanishing. Perrin and Moulsh quickly figure out that the flying skulls are basically surveillance cameras when they don't attack or do anything. They simply float there, watching.
 
 Perrin opens up the left door, it's a long hallway unlike the others in the citadel so far. It's grey rock, but the rock is... moving. Something is way off here. He doesn't go in. Moulsh goes to the right door, opens that one. There's an emerald eidolon staring in his face with a battle-axe. The green monster smashes his axe down, missing Moulsh by a hair. Moulsh turns, runs, provokes another attack. It nicks him. Lane steps forward and jams his sword into the eidolon. It damages him severely. It's on its knees. Aust comes flying through and destroys it. It reverts to human form, and pleads with his dying breath, "Ask Thesdipedes to save my wife..."
 
@@ -120,9 +120,6 @@ _/end session on the Year of the Worm, Month of the Wolf, Day of the Catamount_
 * 100 Emeralds x 10gp = 1,000gp 
 * Petty Cash = 4,162gp
 * Tavern Income = 1,260gp
-
-* Month of the Bear Interest = (180gp)
-* Month of the Badger Interest = (179gp)
 
 **SUBTOTAL**: 18,862gp
 
