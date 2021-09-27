@@ -156,6 +156,8 @@ As for the rest of their downtime...
 
 Glavas spends his downtime marketing _Dragons in the Dark_, hoping to entice No-Ombrulsk residents to visit Ool Krut. Gary "The Snail" Juno decides to spend his downtime trying to build a time machine with Coil helping him with his crazy scheme. Lane and Glavas take some time to study the spell scrolls they found.
 
+**Final update:** One week's stay in No-Ombrulsk for all eight characters, 168gp. Lane and Glavas studying spells, 250gp each.
+
 _/end session on the Year of the Worm, Month of the Wolf, Day of the Stoat_
 
 #### The Snack Club's Portfolio
@@ -173,15 +175,15 @@ _/end session on the Year of the Worm, Month of the Wolf, Day of the Stoat_
 * Skull with Ruby Eyes = 1,600gp
 * Diamond = 463gp
 * 100 Emeralds x 10gp = 1,000gp 
-* Petty Cash = 4,162gp
+* Petty Cash = 3,494gp
 * Tavern Income = 1,260gp
 
-**SUBTOTAL**: 18,862gp
+**SUBTOTAL**: 18,194gp
 
 **Hidden Cache in Great Forest b/w Mlurg Nar & Gnamph Nar**
 <br/> 610gp
 
-**TOTAL**: 19,472gp 
+**TOTAL**: 18,804gp 
 
 #### The Snack Club's Real Estate
 
