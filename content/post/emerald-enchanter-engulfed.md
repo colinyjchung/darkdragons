@@ -23,7 +23,7 @@ tags = [
     "Keyleth Gonov, Zealot",
     "Coil Mahogany, Zealot",
     "Glavos Roh Tentacles, Lower Noble",
-    "Gary &quot;the Snail&quot; Juno, Spy",
+    "Gary "the Snail" Juno, Spy",
     "DCC",
     "The Emerald Enchanter",
     "Joseph Goodman"
