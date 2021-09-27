@@ -93,10 +93,10 @@ Here are adventurers who have settled into a quiet life.
 * **[Moulsh the Drune, Acolyte](https://dragonsinthedark.com/tags/moulsh-ishlum-drune/)** (L3-EB). _2021-09-19 (7d)_ 
 <br/>Didn't like Lane's threats and left the Snack Club
 
-* **Virlan Gonor, Pickpocket** (L3-EB). _2021-09-26 (1d)_
+* **Virlan Gonov, Pickpocket** (L3-EB). _2021-09-26 (1d)_
 <br/>Left the Snack Club after forced into dangerous tasks.
 
-* **Keyleth Gonor, Zealot** (L3-LC). _2021-09-26 (1d)_
+* **Keyleth Gonov, Zealot** (L3-LC). _2021-09-26 (1d)_
 <br/>Followed his brother, Virlan, when he left the Snack Club.
 
 <hr/>
