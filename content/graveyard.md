@@ -72,7 +72,7 @@ Here, laid to rest, the careless many, the rash, the unwise... those who met the
 * **[Ogo Veretta, Apostle](https://dragonsinthedark.com/tags/ogo-veretta-apostle/)** (L3-EB). _2021-09-26 (7d)_
 <br/>Strangled by an undead severed hand.
 
-* **[Squidward Tentacles, Hedge Wizard](https://dragonsinthedark.com/tags/squidward-tentacles-hedge-wizard/)** (L3-HA). _2021-09-26 (35d)_
+* **[Squidward, Hedge Wizard](https://dragonsinthedark.com/tags/squidward-tentacles-hedge-wizard/)** (L3-HA). _2021-09-26 (35d)_
 <br/>Cut down by Lane after Squid pushed Aranna down a pit.
 
 #### Snack Club Death Count: 21
@@ -94,7 +94,7 @@ Here are adventurers who have settled into a quiet life.
 <br/>Didn't like Lane's threats and left the Snack Club
 
 * **Virlan Gonor, Pickpocket** (L3-EB). _2021-09-26 (1d)_
-<br/>Stole from the Snack Club, was found out, and forced to climb down a pit of spikes to retrieve stuff from the dead body of Slane Milos, and left the group the first moment he could.
+<br/>Left the Snack Club after forced into dangerous tasks.
 
 * **Keyleth Gonor, Zealot** (L3-LC). _2021-09-26 (1d)_
 <br/>Followed his brother, Virlan, when he left the Snack Club.
