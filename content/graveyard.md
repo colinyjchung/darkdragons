@@ -73,7 +73,7 @@ Here, laid to rest, the careless many, the rash, the unwise... those who met the
 <br/>Strangled by an undead severed hand.
 
 * **[Squidward, Hedge Wizard](https://dragonsinthedark.com/tags/squidward-tentacles-hedge-wizard/)** (L3-HA). _2021-09-26 (35d)_
-<br/>Cut down by Lane after Squid pushed Aranna down a pit.
+<br/>Cut down by Aust after Squid pushed Aranna down a pit.
 
 #### Snack Club Death Count: 21
 
