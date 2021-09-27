@@ -40,7 +40,7 @@ categories = [
 
 Meanwhile, **Lane Weaver** (_AB_), who is technically two hours ahead in game time, _planar steps_ back to the citadel. In game rules, that's twelve turns later. A countdown begins for when Lane will show up back in the citadel.
 
-Aust, Aranna, Ogo, *Octopus** (_EC_), and **Squidward** (_HA_) walk into a room with a giant skull carving on the far wall. Thinking nothing of it, Aranna walks into the room and trigger a plate tile, a portcullis falls behind them, trapping them, and the giant skull comes to life. Aranna immediately draws an arrow, let's fly at the stone carving. Aust unsheathes his sword, zooms in and slashes the carving. Metal against stone, it rings hard, shaking Aust. Octopus stabs his stone-biter dagger into the skull. Squidward casts _web_, fails, and grows spider fangs. Ogo fires his crossbow, crits, does major damage. Aranna fires the kill shot. The skull carving didn't even get a chance to fire its laser eyes.
+Aust, Aranna, Ogo, **Octopus** (_EC_), and **Squidward** (_HA_) walk into a room with a giant skull carving on the far wall. Thinking nothing of it, Aranna walks into the room and trigger a plate tile, a portcullis falls behind them, trapping them, and the giant skull comes to life. Aranna immediately draws an arrow, let's fly at the stone carving. Aust unsheathes his sword, zooms in and slashes the carving. Metal against stone, it rings hard, shaking Aust. Octopus stabs his stone-biter dagger into the skull. Squidward casts _web_, fails, and grows spider fangs. Ogo fires his crossbow, crits, does major damage. Aranna fires the kill shot. The skull carving didn't even get a chance to fire its laser eyes.
 
 ## Slane the Martyr
 
