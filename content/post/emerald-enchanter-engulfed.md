@@ -23,7 +23,7 @@ tags = [
     "Keyleth Gonov, Zealot",
     "Coil Mahogany, Zealot",
     "Glavos Roh Tentacles, Lower Noble",
-    "Gary "the Snail" Juno, Spy",
+    "Gary the Snail Juno, Spy",
     "DCC",
     "The Emerald Enchanter",
     "Joseph Goodman"
@@ -132,11 +132,11 @@ At this point, I have to do a little quick improvisation because instead of brin
 
 Lane and Aranna lead the fight, as they're the only ones who can attack the Emerald Enchanter from beneath the grate. The Emerald Enchanter sees them, fires a _magic missiles_ down the grate. It's huge. It could do 35 damage. Lane reacts quickly and casts _shield_... lucks out and blocks the comet of fury. Aranna fires an arrow up at the Emerald Enchanter, it curves and cuts him. The Emerald Enchanter casts _shield_ and _spider climb_ on himself.
 
-Lane shoots a _fireball_ up, the enchanter fires _magic missiles_down. They crash into each other. It's like that final scene in the fifth Harry Potter when Dumbledore and Voldemort are firing spells at each other. There are electrifying arcs spark everywhere, globs of phlogiston spurts out and spills over Lane, and flashing white light blinds The Snack Club. 
+Lane shoots a _fireball_ up, the enchanter fires _magic missiles_ down. They crash into each other. It's like that final scene in the fifth Harry Potter when Dumbledore and Voldemort are firing spells at each other. There are electrifying arcs sparking everywhere, globs of phlogiston spurting out and spilling over Lane, and flashing white light blinding The Snack Club. 
 
 Lane overpowers the Emerald Enchanter, dealing severe damage to him. And then the Emerald Enchanter sends eight flying skulls down. The Wilhelm scream down like Tie-Fighters. Aranna shoots one down. Glavas improves, and throws dice at the skulls. He rolls surprisingly well and knocks two of them out of the sky. He encourages Octopus to do the same. She throws a horn at one of them. It works. Lane sends another _fireball_ up. The rest of the flying skulls explode and the remainder magic burns the Emerald Enchanter.
 
-Lane casts _magic shield_ on his turn, it misfires. Suddenly, he's lifted three inches up the ground and he's slipping around in midair. Can't get control. The Emerald Enchanter seizes the advantage and fires three _magic missiles_ down. One burns Perrin. Another explodes in Lane's chest. And the last blows Aranna off her feet. **Aranna nearly died**, if it wasn't for her magic crossbow which regenerates her. IRL, we had thought Aranna _had_ died, but Aranna (_played by HA, as AJ had left_) and forgotten about the regenerative properties of her crossbow.
+Lane casts _magic shield_ on his turn, it misfires. Suddenly, he's lifted three inches up the ground and he's slipping around in midair. Can't get a hold of anything. The Emerald Enchanter seizes the advantage and fires three _magic missiles_ down. One burns Perrin. Another explodes in Lane's chest. And the last blows Aranna off her feet. **Aranna nearly died**, if it wasn't for her magic crossbow which regenerates her. IRL, we had thought Aranna _had_ died, but Aranna (_played by HA, as AJ had left_) and forgotten about the regenerative properties of her crossbow.
 
 Finally, Lane rights himself in midair, and casts _fireball_ one last time. The Emerald Enchanter reacts with _magic missiles_ once more. It is another contest of sorcerous wills. But the Emerald Enchanter is not to lucky this time. Lane's fireball surges past his magic missiles, collides with the Emerald Enchanter and _engulfs_ him in scorching flames.
 
