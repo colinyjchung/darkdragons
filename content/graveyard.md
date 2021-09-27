@@ -66,6 +66,15 @@ Here, laid to rest, the careless many, the rash, the unwise... those who met the
 * **[Selina Milos, Assassin](https://dragonsinthedark.com/tags/selina-milos-assassin/)** (L3-EC). _2021-09-19 (35d)_
 <br/>Suffered heart attack after fighting tile golem.
 
+* **[Slane Milos, Charlton](https://dragonsinthedark.com/tags/slane-milos-charlton/)** (L3-LC). _2021-09-26 (42d)_
+<br/>Fell into a pit of spikes after helping others past.
+
+* **[Ogo Veretta, Apostle](https://dragonsinthedark.com/tags/ogo-veretta-apostle/)** (L3-EB). _2021-09-26 (7d)_
+<br/>Strangled by an undead severed hand.
+
+* **[Squidward Tentacles, Hedge Wizard](https://dragonsinthedark.com/tags/squidward-tentacles-hedge-wizard/)** (L3-HA). _2021-09-26 (35d)_
+<br/>Cut down by Lane after Squid pushed Aranna down a pit.
+
 #### Snack Club Death Count: 18
 
 _May ye all rest in peace._
@@ -78,11 +87,17 @@ Here are adventurers who have settled into a quiet life.
 
 <hr/>
 
-* **Raw Skull, Wildling** (L3-EB). _2021-09-12 (21d)_ 
+* **[Raw Skull, Wildling](https://dragonsinthedark.com/tags/raw-skull-wildling/)** (L3-EB). _2021-09-12 (21d)_ 
 <br/>Head chef at "Dragons in the Dark", a tavern in Ool Krut
 
-* **Moulsh the Drune, Acolyte** (L3-EB). _2021-09-19 (7d)_ 
+* **[Moulsh the Drune, Acolyte](https://dragonsinthedark.com/tags/moulsh-ishlum-drune/)** (L3-EB). _2021-09-19 (7d)_ 
 <br/>Didn't like Lane's threats and left the Snack Club
+
+* **Virlan Gonor, Pickpocket** (L3-EB). _2021-09-26 (1d)_
+<br/>Stole from the Snack Club, was found out, and forced to climb down a pit of spikes to retrieve stuff from the dead body of Slane Milos, and left the group the first moment he could.
+
+* **Keyleth Gonor, Zealot** (L3-LC). _2021-09-26 (1d)_
+<br/>Followed his brother, Virlan, when he left the Snack Club.
 
 <hr/>
 
