@@ -166,6 +166,18 @@ _/end session on the Year of the Leviathan, Month of the Panther, Day of the Spi
 * Emma Frog is dead, but her infamous mass prison break in Ilthmar will have consequences.
 * The Redclaws are allied with the Dolmenwood Drunes and HQ at Redclaw Castle
 
+#### Session Counter
+
+| PC         | Player     | # Sessions |
+|------------|-----------|------------|
+| Aranna Weaver | _AJ_      | 13        |
+| Lane Weaver      | _AB_  | 12       |
+| Perrin Juno | _SB_      | 5        |
+| Octopus      | _EC_  | 3       |
+| Glavas Roh | _EB_     | 2        |
+| Gary the Snail | _HA_  | 2       |
+| Coil Mahogany | _LC_      | 2        |
+
 #### DM Notes to Myself
 
 I'm rewatching Mad Men right now. Some critics have argued it's basically a show about nothing. Just the daily lives of ad men on Madison avenue in the Sixties. Going to work. Getting promoted. Having drinks with cilents. Buying groceries. Planning birthday parties. Running a household. Neighborhood drama. Office drama. Petty fights.
