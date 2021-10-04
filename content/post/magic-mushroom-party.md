@@ -123,6 +123,8 @@ The Snack Club are now looking into a six mile deep hole and shouting down. Octo
 
 During this time, all the rest of the Snack Club do is wait. That's three hours in the dungeon and three torches used up.
 
+**Final Accounting Update**: 2 weeks in No-Ombrulsk, 7 characters, 3gp/day living expenses = 294gp
+
 _/end session on the Year of the Leviathan, Month of the Panther, Day of the Spider_
 
 #### The Snack Club's Portfolio
@@ -134,16 +136,16 @@ _/end session on the Year of the Leviathan, Month of the Panther, Day of the Spi
 * Diamond = 463gp
 * 102 Emeralds x 10gp = 1,020gp 
 * Gold Cube = 30gp
-* Petty Cash = 3,271gp
+* Petty Cash = 2,977gp
 * Tavern Income = 2,160gp
 * M.Wolf Interest = (105gp)
 
-**SUBTOTAL**: 10,433gp
+**SUBTOTAL**: 10,139gp
 
 **Hidden Cache in Great Forest b/w Mlurg Nar & Gnamph Nar**
 <br/> 610gp
 
-**TOTAL**: 11,043gp 
+**TOTAL**: 10,749gp 
 
 #### The Snack Club's Real Estate
 
