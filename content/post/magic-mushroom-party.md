@@ -166,17 +166,17 @@ _/end session on the Year of the Leviathan, Month of the Panther, Day of the Spi
 * Emma Frog is dead, but her infamous mass prison break in Ilthmar will have consequences.
 * The Redclaws are allied with the Dolmenwood Drunes and HQ at Redclaw Castle
 
-#### Session Counter
+#### Session Counter for Levelling
 
-| PC | Player | Sessions |
-|---|:---:|:---:|
-| Aranna Weaver | _AJ_ | 13 |
-| Lane Weaver | _AB_ | 12 |
-| Perrin Juno | _SB_ | 5 |
-| Octopus | _EC_ | 3 |
-| Glavas Roh | _EB_ | 2 |
-| Gary the Snail | _HA_ | 2 |
-| Coil Mahogany | _LC_ | 2 |
+| Character | Player | Level |Sessions |
+|---|:---:|:---:|:---:|
+| Aranna Weaver | _AJ_ | 4 | 13 |
+| Lane Weaver | _AB_ | 3 | 12 |
+| Perrin Juno | _SB_ | 3 | 5 |
+| Octopus | _EC_ | 3 | 3 |
+| Glavas Roh | _EB_ | 3 | 2 |
+| Gary the Snail | _HA_ | 3 | 2 |
+| Coil Mahogany | _LC_ | 3 | 2 |
 
 #### DM Notes to Myself
 
