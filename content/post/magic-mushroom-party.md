@@ -168,7 +168,7 @@ _/end session on the Year of the Leviathan, Month of the Panther, Day of the Spi
 
 #### Session Counter for Levelling
 
-| Character | Player | Level |Sessions |
+| Character | P | LVL | # |
 |---|:---:|:---:|:---:|
 | Aranna Weaver | _AJ_ | 4 | 13 |
 | Lane Weaver | _AB_ | 3 | 12 |
