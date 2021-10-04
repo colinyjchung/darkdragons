@@ -168,15 +168,15 @@ _/end session on the Year of the Leviathan, Month of the Panther, Day of the Spi
 
 #### Session Counter for Levelling
 
-| Character | P | LVL | # |
-|---|:---:|:---:|:---:|
-| Aranna Weaver | _AJ_ | 4 | 13 |
-| Lane Weaver | _AB_ | 3 | 12 |
-| Perrin Juno | _SB_ | 3 | 5 |
-| Octopus | _EC_ | 3 | 3 |
-| Glavas Roh | _EB_ | 3 | 2 |
-| Gary the Snail | _HA_ | 3 | 2 |
-| Coil Mahogany | _LC_ | 3 | 2 |
+| Character | Player | Level | Sessions | Next
+|---|:---:|:---:|:---:|:---:|
+| Aranna Weaver | _AJ_ | L4 | 13 | 21 |
+| Lane Weaver | _AB_ | L3 | 12 | 13 |
+| Perrin Juno | _SB_ | L3 | 5 | 8 |
+| Octopus | _EC_ | L3 | 3 | 8 |
+| Glavas Roh | _EB_ | L3 | 2 | 8 | 
+| Gary the Snail | _HA_ | L3 | 2 | 8 |
+| Coil Mahogany | _LC_ | L3 | 2 | 8 |
 
 #### DM Notes to Myself
 
