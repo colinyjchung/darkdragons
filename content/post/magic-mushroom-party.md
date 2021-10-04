@@ -150,8 +150,8 @@ _/end session on the Year of the Leviathan, Month of the Panther, Day of the Spi
 #### The Snack Club's Real Estate
 
 * Willowby Hall (Mansion in Ool Krut)
-    * Renovations: Building Wizard Tower (ECD. Y.Leviathan/M.Lion/D.Wasp)
-* Dragons in the Dark (Tavern in Ool Krut)
+    * Renovations: Building L1 Tower (ECD. Y.Leviathan/M.Lion/D.Wasp)
+* Dragons in the Dark (L1 Tavern in Ool Krut)
     * Y.Worm/M.Badger = +1,260gp
     * Y.Worm/M.Wolf = +710gp
 
