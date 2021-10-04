@@ -172,4 +172,4 @@ I'm rewatching Mad Men right now. Some critics have argued it's basically a show
 
 This week's session felt like an episode of Mad Men. The Snack Club bought and sold equipment. They studied spells. They marketed their tavern. They hired contractors to build an extension to Willowby Hall. They puttered around the house on their day off. They spent a day high on mushrooms. They planned a trip. They bought weather-appropriate clothing.  They hired laborers and security. They ate a lot of food. They did bookkeeping for their business. They rearranged furniture in Willowby Hall to accommodate new characters. 
 
-It was a very domestic session.
+Not a lot of adventure. It was a very domestic session.
