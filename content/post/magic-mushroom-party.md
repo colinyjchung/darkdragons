@@ -169,7 +169,7 @@ _/end session on the Year of the Leviathan, Month of the Panther, Day of the Spi
 #### Session Counter
 
 | PC         | Player     | # Sessions |
-|------------|-----------|------------|
+|------------|:--------:|:---------:|
 | Aranna Weaver | _AJ_      | 13        |
 | Lane Weaver      | _AB_  | 12       |
 | Perrin Juno | _SB_      | 5        |
