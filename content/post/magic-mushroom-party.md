@@ -51,7 +51,7 @@ Meanwhile, in the "future" where the rest of the Snack Club stayed in No-Ombruls
 
 They finally decide to head home as well having learned their spells, advertised the heck out of _Dragons in the Dark_ in Ool Krut, and made progress on their time machine. 
 
-On their way south, they come across a caravan knocked over on its side. Lane Weaver, who at the beginning of the session, gave up his plate armor so he can cast spells more fluidly, which means he's much weaker in terms of armor... decides to walk up to the wagon. Alone. Two arrows fire at him dealing 11 damage. He's at 2HP. Not good. Four bandits sneak up behind Gary the Snail, Coil and Perrin. Not good at all.
+On their way south, they come across a caravan knocked over on its side. **Lane Weaver** (played by _AB_ again), who at the beginning of the session, gave up his plate armor so he can cast spells more fluidly, which means he's much weaker in terms of armor... decides to walk up to the wagon. Alone. Two arrows fire at him dealing 11 damage. He's at 2HP. Not good. Four bandits sneak up behind Gary the Snail, Coil and Perrin. Not good at all.
 
 Lane jumps into the caravan for cover. He asks the group what spells he should cast. He keeps thinking to go offensive with _fireball_ or _control ice_ or whatever. The group asks him what other spells he has. He goes down the list, the first one is _vitality_, the most obvious spell he should cast to heal himself.
 
@@ -148,7 +148,7 @@ _/end session on the Year of the Leviathan, Month of the Panther, Day of the Spi
 #### The Snack Club's Real Estate
 
 * Willowby Hall (Mansion in Ool Krut)
-    * Renovations: Building Wizard Tower (ECD. Y.Leviathan/M/Lion/D.Wasp)
+    * Renovations: Building Wizard Tower (ECD. Y.Leviathan/M.Lion/D.Wasp)
 * Dragons in the Dark (Tavern in Ool Krut)
     * Y.Worm/M.Badger = +1,260gp
     * Y.Worm/M.Wolf = +710gp
@@ -168,7 +168,7 @@ _/end session on the Year of the Leviathan, Month of the Panther, Day of the Spi
 
 #### DM Notes to Myself
 
-I'm rewatching Mad Men right now. Some critics have argued it's basically a show about nothing. Just the daily lives of ad men on Madison avenue in the Sixties. Going to work. Having drinks with cilents. Buying groceries. Planning birthday parties. Running a household. Neighborhood drama. 
+I'm rewatching Mad Men right now. Some critics have argued it's basically a show about nothing. Just the daily lives of ad men on Madison avenue in the Sixties. Going to work. Getting promoted. Having drinks with cilents. Buying groceries. Planning birthday parties. Running a household. Neighborhood drama. Office drama. Petty fights.
 
 This week's session felt like an episode of Mad Men. The Snack Club bought and sold equipment. They studied spells. They marketed their tavern. They hired contractors to build an extension to Willowby Hall. They puttered around the house on their day off. They spent a day high on mushrooms. They planned a trip. They bought weather-appropriate clothing.  They hired laborers and security. They ate a lot of food. They did bookkeeping for their business. They rearranged furniture in Willowby Hall to accommodate new characters. 
 
