@@ -182,7 +182,7 @@ _/end session on the Year of the Leviathan, Month of the Panther, Day of the Spi
 
 #### DM Notes to Myself
 
-I'm rewatching Mad Men right now. Some critics have argued it's basically a show about nothing. Just the daily lives of ad men on Madison avenue in the Sixties. Going to work. Getting promoted. Having drinks with cilents. Buying groceries. Planning birthday parties. Running a household. Neighborhood drama. Office drama. Petty fights.
+I'm rewatching Mad Men right now. Some critics have argued it's basically a show about nothing. Just the daily lives of ad men on Madison avenue in the Sixties. Going to work. Getting promoted. Having drinks with clients. Buying groceries. Planning birthday parties. Running a household. Neighborhood drama. Office drama. Petty fights.
 
 This week's session felt like an episode of Mad Men. The Snack Club bought and sold equipment. They studied spells. They marketed their tavern. They hired contractors to build an extension to Willowby Hall. They puttered around the house on their day off. They spent a day high on mushrooms. They planned a trip. They bought weather-appropriate clothing.  They hired laborers and security. They ate a lot of food. They did bookkeeping for their business. They rearranged furniture in Willowby Hall to accommodate new characters. 
 
