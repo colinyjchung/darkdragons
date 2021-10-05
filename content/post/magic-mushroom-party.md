@@ -17,7 +17,7 @@ tags = [
     "Octopus Tentacles, Courtier",
     "Perrin Juno, Assassin",
     "Coil Mahogany, Zealot",
-    "Glavos Roh Tentacles, Lower Noble",
+    "Glavas Roh Tentacles, Lower Noble",
     "Gary the Snail Juno, Spy",
     "DCC",
     "The Imperishable Sorceress",
@@ -39,11 +39,11 @@ Aranna eventually finds Octopus. She remembers little of the last week. But toge
 
 ## Ogo the Blind, Ogo Veretta, and Boss Ogo
 
-Octopus, Aranna and Glavas Roh travel safely to Ool Perns as a layover between No-Ombrulsk and Ool Krut. There, they overhear at a tavern how the city's jeweler, Boss Ogo, hadn't been seen for over a month. He was last seen going into his home on Dowager Alley and Cheap Street. The revelers believe something's bad happened, but nobody has the guts to go check in on him (Boss Ogo isn't well liked). So Octopus, Aranna and Boss Ogo decide to check it out.
+Octopus, Aranna and Glavas Roh travel safely to Ool Perns as a layover between No-Ombrulsk and Ool Krut. There, they overhear at a tavern how the city's jeweler, Boss Ogo, hadn't been seen for over a month. He was last seen going into his home on Dowager Alley and Cheap Street. The revelers believe something's bad happened, but nobody has the guts to go check in on him (Boss Ogo isn't well liked). So Octopus, Aranna and Glavas Roh decide to check it out.
 
-They try knocking. Nothing happens. They shout at the windows. Nobody responds. They try to kick the heavy door only to hurt themselves. That's when Octopus decides to just break a first floor window. They sneak inside. There's a store counter with storage shelves in the back. They go behind the counter and head into another room. As soon as they step on the floor, there's a loud shrieking. It wakes up the whole house. Octopus runs out. Glavos Roh and Aranna decide to loot the storage boxes before they go. Glavos Roh finds a necklace of rubies. Aranna find empty and trapped storage boxes. Finally, they book it out of there.
+They try knocking. Nothing happens. They shout at the windows. Nobody responds. They try to kick the heavy door only to hurt themselves. That's when Octopus decides to just break a first floor window. They sneak inside. There's a store counter with storage shelves in the back. They go behind the counter and head into another room. As soon as they step on the floor, there's a loud shrieking. It wakes up the whole house. Octopus runs out. Glavas Roh and Aranna decide to loot the storage boxes before they go. Glavas Roh finds a necklace of rubies. Aranna find empty and trapped storage boxes. Finally, they book it out of there.
 
-They give up on Boss Ogo's strange house and decide to leave Ool Perns and head south to home. (Later, Glavos Roh attempts to sell the necklace and finds out it was a fake and only worth 5gp.)
+They give up on Boss Ogo's strange house and decide to leave Ool Perns and head south to home. (Later, Glavas Roh attempts to sell the necklace and finds out it was a fake and only worth 5gp.)
 
 ## Let's Check it Out Lane
 
