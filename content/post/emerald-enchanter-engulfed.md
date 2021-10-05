@@ -22,7 +22,7 @@ tags = [
     "Virlan Gonov, Pickpocket",
     "Keyleth Gonov, Zealot",
     "Coil Mahogany, Zealot",
-    "Glavos Roh Tentacles, Lower Noble",
+    "Glavas Roh Tentacles, Lower Noble",
     "Gary the Snail Juno, Spy",
     "DCC",
     "The Emerald Enchanter",
