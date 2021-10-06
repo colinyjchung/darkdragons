@@ -117,11 +117,11 @@ They head into the next room. Right away, they see a slab in the middle of the r
 
 There are also several vats in the room, and beneath each one are grates where they leak into. Suddenly, three tentacles sneak out the grates and attack Octopus, Coil, and Naako. None succeed. Lane casts _control ice_ and drives a frozen wall against them. The tentacles freeze, shatter and break apart. Aranna draws her crossbow and fires it at the last one. Critical! Her arrow cuts it in two. Octopus looks around. There are no more doors. Aranna searches the room for secret doors. Finds two on the far side of the room. 
 
-They take the right one. It's a sloping ramp that u-turns down to a ledge, and in the large room is a huge machine with a ladder leading up to a door and a drill underneath. Octopus gets in. There are three switches. She turns them all on. The drill starts spinning, faster and faster... and the machine, the _Adamantine Mole_ drills into the ground and before Octopus realizes what's going on, she's SIX MILES DEEP into the earth. She panics and beings trying every combination of switches to see if there's a reverse function. There isn't. 
+They take the right one. It's a sloping ramp that u-turns down to a ledge, and in the large room is a huge machine with a ladder leading up to a door and a drill underneath. Octopus gets in. There are three switches. She turns them all on. The drill starts spinning, faster and faster... and the machine, the _Adamantine Mole_ drills into the ground and before Octopus realizes what's going on, she's SIX MILES DEEP into the earth. She panics and begins trying every combination of switches to see if there's a reverse function. There isn't. 
 
 The Snack Club are now looking into a six mile deep hole and shouting down. Octopus can barely hear them and vice-versa.  Eventually Perrin and Aranna come up with a plan to drop a bottle of _spider climb_ potion hoping that she'll catch it with her telekinesis. Octopus does. But it does very little to help. At best she can climb 360' up the hole she dug up. Lane then offers to throw his jar of tentacle suckers down. Once again, Octopus catches it. But at six miles deep, it will take Octopus two hours to climb back out.
 
-During this time, all the rest of the Snack Club do is wait. That's three hours in the dungeon and three torches used up.
+During this time, all the rest of the Snack Club can do is wait. That's three hours in the dungeon and three torches used up.
 
 **Final Accounting Update**: 2 weeks in No-Ombrulsk, 7 characters, 3gp/day living expenses = 294gp
 
