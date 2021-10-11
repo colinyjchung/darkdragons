@@ -79,7 +79,7 @@ Here, laid to rest, the careless many, the rash, the unwise... those who met the
 <br/>Blown up by natural gas explosion in Ivrian's Kitchen.
 
 * **[Perrin Juno, Assassin](https://dragonsinthedark.com/tags/perrin-juno-assassin/)** (L3-SB). _2021-10-10 (42d)_
-<br/>Split in half by stone goat-head demon battle-axe
+<br/>Split in half by stone goat-head demon's giant battle-axe.
 
 
 #### Snack Club Death Count: 23
