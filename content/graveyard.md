@@ -75,7 +75,14 @@ Here, laid to rest, the careless many, the rash, the unwise... those who met the
 * **[Squidward, Hedge Wizard](https://dragonsinthedark.com/tags/squidward-tentacles-hedge-wizard/)** (L3-HA). _2021-09-26 (35d)_
 <br/>Cut down by Aust after Squid pushed Aranna down a pit.
 
-#### Snack Club Death Count: 21
+* **[Octopus, Courtier](https://dragonsinthedark.com/tags/octopus-tentacles-courtier/)** (L3-EC). _2021-10-10 (21d)_
+<br/>Blown up by natural gas explosion in Ivrian's Kitchen.
+
+* **[Perrin Juno, Assassin](https://dragonsinthedark.com/tags/perrin-juno-assassin/)** (L3-SB). _2021-10-10 (42d)_
+<br/>Split in half by stone goat-head demon battle-axe
+
+
+#### Snack Club Death Count: 23
 
 _May ye all rest in peace._
 
@@ -128,6 +135,27 @@ Here, laid to rest, hench-people and hirelings who lost their lives following ad
 * **Helmut Halfsword, Fighter** (Mgr-SB). _2021-08-29 (7d)_ 
 <br/>Blown up by Apocalypse Anne.
 
+* **Thargis, Laborer** (Mgr-SB). _2021-10-10 (7d)_ 
+<br/>Natural gas explosion caused by Perrin Juno.
+
+* **Geanne, Laborer** (Mgr-EB). _2021-10-10 (7d)_ 
+<br/>Natural gas explosion caused by Perrin Juno.
+
+* **Franzon, Laborer** (Mgr-EB). _2021-10-10 (7d)_ 
+<br/>Natural gas explosion caused by Perrin Juno.
+
+* **Nissel, Laborer** (Mgr-EC). _2021-10-10 (7d)_ 
+<br/>Natural gas explosion caused by Perrin Juno.
+
+* **Naako, Archer** (Mgr-EB). _2021-10-10 (7d)_ 
+<br/>Natural gas explosion caused by Perrin Juno.
+
+* **Barbara the Barbarian** (Mgr-SB). _2021-10-10 (7d)_ 
+<br/>Murdered by Glavas Roh in uncontrollable Nightraker rage.
+
 _May ye all rest in peace._
+
+#### Snack Club Hireling Death Count: 20
+
 
 <hr/>
