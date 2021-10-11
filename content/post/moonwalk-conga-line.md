@@ -19,8 +19,8 @@ tags = [
     "Jahura Gaus, Hedge Wizard",
     "DCC",
     "The Imperishable Sorceress",
-    "Daniel J. Bishop"
-    "The Seers Sanctum"
+    "Daniel J. Bishop",
+    "The Seers Sanctum",
     "Directsun"  
 ]
 categories = [
