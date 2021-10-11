@@ -153,9 +153,8 @@ Here, laid to rest, hench-people and hirelings who lost their lives following ad
 * **Barbara the Barbarian** (Mgr-SB). _2021-10-10 (7d)_ 
 <br/>Murdered by Glavas Roh in uncontrollable Nightraker rage.
 
-_May ye all rest in peace._
-
 #### Snack Club Hireling Death Count: 20
 
+_May ye all rest in peace._
 
 <hr/>
