@@ -17,7 +17,7 @@ tags = [
     "Ser Merric, Knight",
     "Purple Nurple, Knight",
     "Orlan, Soldier",
-    "OSR",
+    "OSE",
     "Winter's Daughter",
     "Gavin Norman",
 ]
