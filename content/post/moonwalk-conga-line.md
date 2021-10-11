@@ -18,6 +18,7 @@ tags = [
     "Toad Slinoor, Acolyte",
     "Jahura Gaus, Hedge Wizard",
     "DCC",
+    "Labyrinth Lord",
     "The Imperishable Sorceress",
     "Daniel J. Bishop",
     "The Seers Sanctum",
@@ -77,7 +78,7 @@ At the top of the mountain, they come across a stone henge with runes written on
 
 They walk through the portal.
 
-#### Spoilers for The Seers Sanctum by Directsun
+#### Spoilers for The Seers Sanctum by Directsun (BX/LL)
 
 They find themselves in a small room as depicted in the portal image. But they also notice on the slimy floor, two unconscious figures. **Toad Slinoor** (_EC_) and **Jahura Gaus** (_SB_). They are an acolyte and hedge wizard hired by Ninguable of the Seven Eyes to retrieve the hair of a gorgon in this pocket dimension. They had fallen unconscious when they were sent through a _planar step_.  The Snack Club wake them up.
 
