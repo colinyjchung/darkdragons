@@ -38,7 +38,7 @@ And we're back in dungeon crawl mode in Ivrian's lair.
 
 ## Introducing Nightraker and... Bob
 
-Having dealt with the strange grate-tentacles, **Glavas Roh** (_EB_) begins to regret not taking Nightraker and drags Gary the Snail back through the hallway to Ivrian's bedroom. They're met by four wandering skeletons. The Snack Club rush out to stab, fire arrows, and pierce them until they realize skeletons could be better health with by being bashed with blunt objects. Octopus uses a torch. Lane smacks them with his staff. Barbara uses the flat side of her battle-axe.
+Having dealt with the strange grate-tentacles, **Glavas Roh** (_EB_) begins to regret not taking Nightraker and drags Gary the Snail back through the hallway to Ivrian's bedroom. They're met by four wandering skeletons. The Snack Club rush out to stab, fire arrows, and pierce them until they realize skeletons could be better dealt with by being bashed with blunt objects. Octopus uses a torch. Lane smacks them with his staff. Barbara uses the flat side of her battle-axe.
 
 Back in Ivrian's bedroom, Glavas picks up Nightraker. He hears whispers in his head. The sword is telling him to "kill 'em, kill 'em all". Glavas Roh grins menacingly.
 
