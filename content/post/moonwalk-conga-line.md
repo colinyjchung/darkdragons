@@ -211,6 +211,7 @@ _/end session on the Year of the Leviathan, Month of the Panther, Day of the Toa
 |---|:---:|:---:|:---:|:---:|
 | Aranna Weaver | _AJ_ | L4 | 13 | 21 |
 | Lane Weaver | _AB_ | L3 | 12 | 13 |
+| Aust Booker | _OR_ | L3 | 6 | 13 | 
 | Glavas Roh | _EB_ | L3 | 3 | 8 | 
 | Gary the Snail | _HA_ | L3 | 3 | 8 |
 | Coil Mahogany | _LC_ | L3 | 2 | 8 |
