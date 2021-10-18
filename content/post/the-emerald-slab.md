@@ -29,13 +29,13 @@ categories = [
 ]
 +++
 
-It's the Month of the Panther, Day of the Toad. The Snack Club are hanging out at their home in Willowby Hall, now staffed with footmen, a scullery boy, a seneschal and chamberlain, a chef, a porter, and a kennel master. **Aranna Weaver** (_AJ_) and **Toad Slinoor** (_EC_) are plotting how to take Nightraker from **Glavas Roh** (_EB_), as the accursed sword has injured and outright murdered allies. Toad attempts to tackle Glavas unawares. Lane Weaver (_AB_, played by _AJ_) begins casting a spell. Glavas finally succumbs to the pressure and promises to sell Nightraker. Toad accompanies him into Ool Krut.
+It's the Month of the Panther, Day of the Toad. The Snack Club are hanging out at their home in Willowby Hall, now staffed with footmen, a scullery boy, a seneschal and chamberlain, a chef, a porter, and a kennel master. **Aranna Weaver** (_AJ_) and **Toad Slinoor** (_EC_) are plotting how to take Nightraker from **Glavas Roh** (_EB_), as the accursed sword has injured and outright murdered allies. Toad attempts to tackle Glavas unawares. **Lane Weaver** (_AB_, played by _AJ_) begins casting a spell. Glavas finally succumbs to the pressure and promises to sell Nightraker. Toad accompanies him into Ool Krut.
 
 But as they wander the streets, a few people are pointing at them and snickering. And as they head deeper into the winding streets, they see a crowd around a wall. They budge in to see a poster exclaiming the wondrous treasures kept at **The Emerald Slab**, a museum of strange delights and thrilling surprises in No-Ombrulsk. Most notably, the poster is advertising the gurgling brain-in-a-jar named Istrobian, the talking corpse Thesdipedes, and the loquacious Skull of Gobur... these are all items stolen from Willowby Hall a few weeks ago! The Snack Club are angry. They're declaring war. They're going to get their gear on, arm up and march to No-Ombrulsk to take back what's rightfully theirs!
 
 But before they do that, Glavas Roh locates a fence he knew from a while back, Syrie Face, leader of the Walruses. A gang of thieves who own The Blue Walrus in Ool Krut. She agrees to take Nightraker off their hands for 100gp. Aranna is not happy when she hears of this deal. **Jahura Gaus** (_SB_) tells them it's money for a cursed sword. Let them have it.
 
-Meanwhile, Gary the Snail (_HA_) who vanished last week shows up in Lankhmar, and makes a lonely journey back to Ool Krut.
+Meanwhile, **Gary the Snail** (_HA_) who vanished last week shows up in Lankhmar, and makes a lonely journey back to Ool Krut.
 
 Back in Ool Krut, with Nightraker dispensed of, The Snack Club begin their journey up to No-Ombrulsk by way of Ool Plerns. On the way there, they come across a lone trader who warns them of bandits near a bridge who ambush unaware people. The Snack Club thank him wtih a little gold and they cautiously approach the bridge. Glavas Roh scouts ahead. Sees nothing. Cross the bridge. Nothing. The rest of the Snack Club cross the bridge. Nothing. It appears that they had met a liar who thought warning about a potential ambush was fun.
 
@@ -92,8 +92,11 @@ At this point, it's revealed that Arden Vey is actually a member of WHSCK and he
 In the foyer of The Emerald Slab, The Snack Club see a giant green slab. It is the same emerald slab The Snack Club saw in the Emerald Enchanter's citadel. The same one he used as a portal! Virlan is amused by their shock and confusion. The bronze golem is standing in the corner, ready to take care of trouble. Virlan then tells them to put one hand over their heart and another raised to swear an oath:
 
 >I, _____, solemnly swear to uphold the two truths and values of WHSCK.
+
 >1.	The Snack Club are careless and shall be ridiculed upon sight and referred to as idiots.
+
 >2.	Any adventure sites the Snack Club have visited shall be reported to supreme Lord and Protector of WHSCK, Krax Craven Maw.
+
 >These truths I hold to be self-evident. Long live **WHSCK, the We Hate Snack Club Klub**.
 
 The Snack Club, obviously, hate this. But they swear the oath. And then Virlan asks them to put all their weapons and armor on the green slab. He reassures them that they will get their stuff back when they leave The Emerald Slab. Aranna and Lane leave. They're not having any of this humiliation. Everyone else complies. The weapons and armor vanish into the portal. At this, Virlan mutters a magic password and a door opens with stairs leading down into the basement. 
@@ -101,22 +104,22 @@ The Snack Club, obviously, hate this. But they swear the oath. And then Virlan a
 The basement is lit in a brilliant daylight by a sun globe (also taken from the Emerald Enchanter's citadel). As they enter the museum, they see a lavish bar in the center of the room, serving the most exotic wines from all of Nehwon. There are beautiful artifacts everywhere. They see...
 
 * The talking corpse of Thesdipedes
-• Istrobian’s brain in a jar
-• Skull of Gobur 
-• Azure Serpent Blade (+1, water breathing) from Hole in the Oak
-• Portrait of fair maiden amid Whything Stones from Dolmenwood
-• Carpets from the Emerald Enchanter’s citadel
+* Istrobian’s brain in a jar
+* Skull of Gobur 
+* Azure Serpent Blade (+1, water breathing) from Hole in the Oak
+* Portrait of fair maiden amid Whything Stones from Dolmenwood
+* Carpets from the Emerald Enchanter’s citadel
 * Aust's armor with the broken chains engraved on the breastplate
 
-It's clear that The Emerald Slab basically picks up all the treasure The Snack Club carelessly leave behind the dungeons they cleared, but didn't go through thoroughly enough.
+It's clear that WHSCK basically picks up all the treasure The Snack Club carelessly leave behind the dungeons they clear, but didn't go through thoroughly enough.
 
 Krax Craven Maw is standing there, smiling, pleased with himself. Standing next to him is [Moulsh the Drune](https://dragonsinthedark.com/tags/moulsh-ishlum-drune/)! Moulsh who betrayed the Dolmenwood Drunes to help the Snack Club, but was threatened with death, and left! And who else? Who else but Keyleth Gonov as well! Virlan's brother who left the Snack Club after they abused Virlan! And who else? Who else? In the museum, all the guards are... Knife Twisters! The Lankhmar gang that The Snack Club betrayed when they joined the Red Claws briefly.
 
-The Emerald Slab is a reminder of everything The Snack Club has carelessly left behind, allies they threatened and abused, and treasure they didn't bother to search carefully from countless dungeons! Krax Craven Maw has invited the Snack Club here, stripped them of their weapons and armor, to gloat, and laugh and in an amused way, thank them for making him a rich man in No-Ombrulsk. Moulsh sneers at them and tells them of all the spells his learned from Istrobian, Thesdipedes, and Gobur. Keyleth smirks at The Snack Club too.
+The Emerald Slab is a reminder of everything The Snack Club has carelessly left behind, allies they threatened and abused, and treasure they didn't bother to search carefully from countless dungeons! Krax Craven Maw has invited the Snack Club here, stripped them of their weapons and armor, to gloat, and laugh and in an amused way, thank them for making him a rich man in No-Ombrulsk. Moulsh sneers at them and tells them of all the spells he has learned from Istrobian, Thesdipedes, and Gobur. Keyleth smirks at The Snack Club too.
 
 Krax offers them a selection of his exotic, foreign wine. The Snack Club are too shocked to have any, except Erevan, who takes a bottle of Horborixen Date Wine. Krax then releases Coil back to their charge as a sign of "generosity" and tells them they're allowed to visit anytime, as long as it's one person at a time for 500gp per week.
 
-At this moment, Toad, upon seeing everything WHSCK has acquired, all the members they've brought together in their mutual dislike of The Snack Club, that maybe, just maybe, the Snack Club are the bad guys. And **Toad Slinoor decides to retire from The Snack Club.**
+At this moment, Toad, upon seeing everything WHSCK has acquired (and lost), all the members they've brought together in their mutual dislike of The Snack Club, that maybe, just maybe, the Snack Club are the bad guys. And **Toad Slinoor decides to retire from The Snack Club.**
 
 After The Snack Club leave The Green Emerald, they begin to discuss what to do. Jahura suggests disbanding The Snack Club and rebranding. (Very apt for todays' cancel culture). Aranna and Erevan are depressed and consider it. I chuckle and ask them, "So if you guys come across a problem you can't solve with violence, you're just going to give up?" AJ says, "YES!" Jahura begins plotting a heist with Erevan.
 
