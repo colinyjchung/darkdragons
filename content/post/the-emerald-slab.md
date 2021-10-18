@@ -125,6 +125,8 @@ After The Snack Club leave The Green Emerald, they begin to discuss what to do. 
 
 Meanwhile, EC is rolling up a new character named **Daot-Daot Doubt** (_EC_), an apothecarist who prays to the Spider God Mog, and makes weird scary potions.
 
+**Last minute bookkeeping**: One week R&R in Ool Plerns: 147gp
+
 _/end session on the Year of the Leviathan, Month of the Panther, Day of the Mongoose_
 
 #### The Snack Club's Portfolio
@@ -141,15 +143,15 @@ _/end session on the Year of the Leviathan, Month of the Panther, Day of the Mon
 * 3 Rubies x 50gp = 150gp
 * 4 Diamonds x 100gp = 400gp
 * Jewel-Encrusted Dagger = 150gp
-* Petty Cash = 4,503gp
+* Petty Cash = 4,356gp
 * Tavern Income = 2,160gp
 
-**SUBTOTAL**: 14,046gp
+**SUBTOTAL**: 13,899gp
 
 **Hidden Cache in Great Forest b/w Mlurg Nar & Gnamph Nar**
 <br/> 610gp
 
-**TOTAL**: 14,696gp 
+**TOTAL**: 14,549gp 
 
 #### The Snack Club's Real Estate
 
