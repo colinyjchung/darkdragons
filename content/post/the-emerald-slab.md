@@ -97,7 +97,7 @@ In the foyer of The Emerald Slab, The Snack Club see a giant green slab. It is t
 
 >2.	Any adventure sites the Snack Club have visited shall be reported to supreme Lord and Protector of WHSCK, Krax Craven Maw.
 
->These truths I hold to be self-evident. Long live **WHSCK, the We Hate Snack Club Klub**.
+>These truths I hold to be self-evident. Long live **WHSCK, the [We Hate Snack Club Klub](https://www.youtube.com/watch?v=qT9QjxGepyw)**.
 
 The Snack Club, obviously, hate this. But they swear the oath. And then Virlan asks them to put all their weapons and armor on the green slab. He reassures them that they will get their stuff back when they leave The Emerald Slab. Aranna and Lane leave. They're not having any of this humiliation. Everyone else complies. The weapons and armor vanish into the portal. At this, Virlan mutters a magic password and a door opens with stairs leading down into the basement. 
 
