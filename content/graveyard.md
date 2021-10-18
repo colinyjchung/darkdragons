@@ -81,10 +81,22 @@ Here, laid to rest, the careless many, the rash, the unwise... those who met the
 * **[Perrin Juno, Assassin](https://dragonsinthedark.com/tags/perrin-juno-assassin/)** (L3-SB). _2021-10-10 (42d)_
 <br/>Split in half by stone goat-head demon's giant battle-axe.
 
+* **[Aust Booker, Knight](https://dragonsinthedark.com/tags/ser-aust-knight/)** (L3-OR). _2021-10-17 (91d)_
+<br/>Crushed into bloody pulp by the WHSCK bronze golem.
 
-#### Snack Club Death Count: 23
+
+#### Snack Club Death Count: 24
 
 _May ye all rest in peace._
+
+<hr/>
+
+## In Valhalla
+
+Here are adventurers who died for doing the right thing. A rare oddity indeed.
+
+* **[Glavas Roh, Lower Noble](https://dragonsinthedark.com/tags/glavas-roh-tentacles-lower-noble/)** (L3-EB). _2021-10-17 (14d)_
+<br/>Regretfully shot in the heart by Aranna when he broke Boss Ogo's neck to close a portal to an alien world. Aranna had believed Boss Ogo's survival was necessary.
 
 <hr/>
 
@@ -105,6 +117,9 @@ Here are adventurers who have settled into a quiet life.
 
 * **Keyleth Gonov, Zealot** (L3-LC). _2021-09-26 (1d)_
 <br/>Followed his brother, Virlan, when he left the Snack Club.
+
+* **[Toad Slinoor, Acolyte](https://dragonsinthedark.com/tags/toad-slinoor-acolyte/)** (L2-EC). _2021-10-17 (7d)_ 
+<br/>Had a moment of conscience upon meeting WHSCK that The Snack Club, were, in fact, jerks.
 
 <hr/>
 
