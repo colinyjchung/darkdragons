@@ -33,7 +33,7 @@ Here, laid to rest, the careless many, the rash, the unwise... those who met the
 * **[Ser Purple Nurple, Knight](https://dragonsinthedark.com/tags/purple-nurple-knight/)** (L2-OR). _2021-07-11 (49d)_
 <br/>Crushed by rubble as a bird in rockslide.
 
-* **[Errich Weaver, Knight](https://dragonsinthedark.com/tags/ser-errich-knight/)** (L2-OR). _2021-07-18 (1d)_
+* **[Errich Weaver, Knight](https://dragonsinthedark.com/tags/ser-errich-weaver-knight/)** (L2-OR). _2021-07-18 (1d)_
 <br/>Sentenced to death for murder by the Duke of Mlurg Nar.
 
 * **[Bob the Priest, Priest](https://dragonsinthedark.com/tags/bob-the-priest-bob/)** (L2-HA). _2021-07-18 (1d)_
@@ -45,7 +45,7 @@ Here, laid to rest, the careless many, the rash, the unwise... those who met the
 * **[Thistle Frog, Assassin](https://dragonsinthedark.com/tags/thistle-frog-assassin/)** (L2-EB). _2021-08-08 (1d)_
 <br/>Held by Aust, cut by Lane, shot by Aranna.
 
-* **[Patrick Weaver, Shapeshifter](https://dragonsinthedark.com/tags/patrick-soldier/)** (L2-HA). _2021-08-08 (21d)_
+* **[Patrick Weaver, Shapeshifter](https://dragonsinthedark.com/tags/patrick-weaver-soldier/)** (L2-HA). _2021-08-08 (21d)_
 <br/>Crushed as fruit fly by Redclaw Guard.
 
 * **[Emma Frog, Hedge Wizard](https://dragonsinthedark.com/tags/emma-frog-hedge-wizard/)** (L3-EC). _2021-08-08 (77d)_
@@ -81,7 +81,7 @@ Here, laid to rest, the careless many, the rash, the unwise... those who met the
 * **[Perrin Juno, Assassin](https://dragonsinthedark.com/tags/perrin-juno-assassin/)** (L3-SB). _2021-10-10 (42d)_
 <br/>Split in half by stone goat-head demon's giant battle-axe.
 
-* **[Aust Booker, Knight](https://dragonsinthedark.com/tags/ser-aust-knight/)** (L3-OR). _2021-10-17 (91d)_
+* **[Aust Booker, Knight](https://dragonsinthedark.com/tags/ser-aust-booker-knight/)** (L3-OR). _2021-10-17 (91d)_
 <br/>Crushed into bloody pulp by the WHSCK bronze golem.
 
 
