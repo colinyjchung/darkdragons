@@ -1,6 +1,6 @@
 +++
 author = "Colin Y.J. Chung"
-title = "Magic Mushroom Party!"
+title = "S2E01: Magic Mushroom Party!"
 date = "2021-10-03"
 description = "Your Mom..."
 tags = [
@@ -11,9 +11,9 @@ tags = [
     "E.C.",
     "L.C.",
     "A.J.",
-    "Aranna, Astrologer",
-    "Ser Aust, Knight",
-    "Lane, Soldier",
+    "Aranna Weaver, Astrologer",
+    "Ser Aust Booker, Knight",
+    "Lane Weaver, Soldier",
     "Octopus Tentacles, Courtier",
     "Perrin Juno, Assassin",
     "Coil Mahogany, Zealot",
