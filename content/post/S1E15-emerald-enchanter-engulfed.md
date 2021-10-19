@@ -1,6 +1,6 @@
 +++
 author = "Colin Y.J. Chung"
-title = "Emerald Enchanter Engulfed"
+title = "S1E15: Emerald Enchanter Engulfed"
 date = "2021-09-26"
 description = "Stop, Drop, & Roll"
 tags = [
@@ -11,9 +11,9 @@ tags = [
     "E.C.",
     "L.C.",
     "A.J.",
-    "Aranna, Astrologer",
-    "Ser Aust, Knight",
-    "Lane, Soldier",
+    "Aranna Weaver, Astrologer",
+    "Ser Aust Booker, Knight",
+    "Lane Weaver, Soldier",
     "Slane Milos, Charlton",
     "Squidward Tentacles, Hedge Wizard",
     "Octopus Tentacles, Courtier",
