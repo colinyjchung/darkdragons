@@ -1,6 +1,6 @@
 +++
 author = "Colin Y.J. Chung"
-title = "Moonwalk Conga Line"
+title = "S2E2: Moonwalk Conga Line"
 date = "2021-10-10"
 description = "Destroy All Evidence"
 tags = [
@@ -8,8 +8,8 @@ tags = [
     "E.B.",
     "S.B.",
     "E.C.",
-    "Aranna, Astrologer",
-    "Lane, Soldier",
+    "Aranna Weaver, Astrologer",
+    "Lane Weaver, Soldier",
     "Octopus Tentacles, Courtier",
     "Perrin Juno, Assassin",
     "Coil Mahogany, Zealot",
