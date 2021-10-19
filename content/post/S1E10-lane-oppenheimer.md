@@ -1,6 +1,6 @@
 +++
 author = "Colin Y.J. Chung"
-title = "Lane Oppenheimer, Destroyer of Worlds"
+title = "S1E10: Lane Oppenheimer, Destroyer of Worlds"
 date = "2021-08-15"
 description = "A Drink of Despair"
 tags = [
@@ -10,9 +10,9 @@ tags = [
     "C.C.",
     "E.C.",
     "O.R.",
-    "Aranna, Astrologer",
-    "Ser Aust, Knight",
-    "Lane, Soldier",
+    "Aranna Weaver, Astrologer",
+    "Ser Aust Booker, Knight",
+    "Lane Weaver, Soldier",
     "Toaf Frog, Spy",
     "Selina Milos, Assassin",
     "Slane Milos, Charlton",
