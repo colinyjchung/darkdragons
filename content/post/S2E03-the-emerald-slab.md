@@ -1,6 +1,6 @@
 +++
 author = "Colin Y.J. Chung"
-title = "The Emerald Slab"
+title = "S2E03: The Emerald Slab"
 date = "2021-10-17"
 description = "Spiders Everywhere"
 tags = [
@@ -11,15 +11,16 @@ tags = [
     "O.R.",
     "L.C.",
     "A.J.",
-    "Aranna, Astrologer",
-    "Lane, Soldier",
+    "Aranna Weaver, Astrologer",
+    "Lane Weaver, Soldier",
+    "Ser Aust Booker, Knight",
     "Coil Mahogany, Zealot",
     "Glavos Roh Tentacles, Lower Noble",
     "Gary the Snail Juno, Spy",
     "Toad Slinoor, Acolyte",
     "Jahura Gaus, Hedge Wizard",
     "Arden Vey, Pickpocket",
-    "Erevan Weaver, Knight",
+    "Ser Erevan Weaver, Knight",
     "Daot-Daot Doubt, Apothecarist",
     "DCC",
     "The Jeweler that Dealt in Stardust",
