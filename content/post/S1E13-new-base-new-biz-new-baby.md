@@ -1,6 +1,6 @@
 +++
 author = "Colin Y.J. Chung"
-title = "New Base, New Biz, New Baby"
+title = "S1E13: New Base, New Biz, New Baby"
 date = "2021-09-12"
 description = "Bryce Icarus Milos"
 tags = [
@@ -12,9 +12,9 @@ tags = [
     "L.C.",
     "A.J.",
     "O.R.",
-    "Aranna, Astrologer",
-    "Ser Aust, Knight",
-    "Lane, Soldier",
+    "Aranna Weaver, Astrologer",
+    "Ser Aust Booker, Knight",
+    "Lane Weaver, Soldier",
     "Selina Milos, Assassin",
     "Slane Milos, Charlton",
     "Raw Skull, Wildling",
