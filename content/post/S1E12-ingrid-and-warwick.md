@@ -1,6 +1,6 @@
 +++
 author = "Colin Y.J. Chung"
-title = "Ingrid & Warwick Sitting In A Tree"
+title = "S1E12: Ingrid & Warwick Sitting In A Tree"
 date = "2021-08-29"
 description = "Snake Scarf Fashion"
 tags = [
@@ -10,9 +10,9 @@ tags = [
     "E.C.",
     "A.J.",
     "O.R.",
-    "Aranna, Astrologer",
-    "Ser Aust, Knight",
-    "Lane, Soldier",
+    "Aranna Weaver, Astrologer",
+    "Ser Aust Booker, Knight",
+    "Lane Weaver, Soldier",
     "Selina Milos, Assassin",
     "Slane Milos, Charlton",
     "Wrenn Milos, Apostle",
