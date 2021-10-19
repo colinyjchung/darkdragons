@@ -1,6 +1,6 @@
 +++
 author = "Colin Y.J. Chung"
-title = "Thesdi... What Now?"
+title = "S1E14: Thesdi... What Now?"
 date = "2021-09-19"
 description = "Failed Experiments"
 tags = [
@@ -10,9 +10,9 @@ tags = [
     "S.B.",
     "E.C.",
     "L.C.",
-    "Aranna, Astrologer",
-    "Ser Aust, Knight",
-    "Lane, Soldier",
+    "Aranna Weaver, Astrologer",
+    "Ser Aust Booker, Knight",
+    "Lane Weaver, Soldier",
     "Selina Milos, Assassin",
     "Slane Milos, Charlton",
     "Squidward Tentacles, Hedge Wizard",
