@@ -1,6 +1,6 @@
 +++
 author = "Colin Y.J. Chung"
-title = "Lankmar's Ocean's Six"
+title = "S1E02: Lankmar's Ocean's Six"
 date = "2021-05-30"
 description = "Desert Jaguars Like Pizza"
 tags = [
@@ -10,7 +10,7 @@ tags = [
     "E.C.",
     "A.J.",
     "O.R.",
-    "Aranna, Astrologer",
+    "Aranna Weaver, Astrologer",
     "Emma Frog, Hedge Wizard",
     "Purple Nurple, Knight",
     "Orlan, Soldier",
