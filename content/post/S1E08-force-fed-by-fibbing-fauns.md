@@ -1,6 +1,6 @@
 +++
 author = "Colin Y.J. Chung"
-title = "Force-Fed by Fibbing Fauns"
+title = "S1E08: Force-Fed by Fibbing Fauns"
 date = "2021-08-01"
 description = "Sack of Fries"
 tags = [
@@ -10,12 +10,12 @@ tags = [
     "E.C.",
     "L.C.",
     "A.J.",
-    "Aranna, Astrologer",
+    "Aranna Weaver, Astrologer",
     "Emma Frog, Hedge Wizard",
     "Veleris, Pickpocket",
-    "Ser Aust, Knight",
-    "Patrick, Soldier",
-    "Lane, Soldier",
+    "Ser Aust Booker, Knight",
+    "Patrick Weaver, Soldier",
+    "Lane Weaver, Soldier",
     "Myra, Mercenary",
     "Thistle Frog, Assassin",
     "OSR",
