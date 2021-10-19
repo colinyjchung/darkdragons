@@ -1,6 +1,6 @@
 +++
 author = "Colin Y.J. Chung"
-title = "Introducing: The Snack Club"
+title = "S1E03: Introducing The Snack Club"
 date = "2021-06-06"
 description = "A Game of Dice"
 tags = [
@@ -9,12 +9,12 @@ tags = [
     "E.B.",
     "E.C.",
     "A.J.",
-    "Aranna, Astrologer",
+    "Aranna Weaver, Astrologer",
     "Emma Frog, Hedge Wizard",
     "Orlan, Soldier",
     "Darrak, Soldier",
     "Veleris, Pickpocket",
-    "Lane, Soldier",
+    "Lane Weaver, Soldier",
     "OSR",
     "DCC",
     "Masks of Lankhmar",
