@@ -1,6 +1,6 @@
 +++
 author = "Colin Y.J. Chung"
-title = "Aranna, the Astute Astrologer"
+title = "S1E01: Aranna, the Astute Astrologer"
 date = "2021-05-23"
 description = "Six Dead & Took Credit"
 tags = [
@@ -10,7 +10,7 @@ tags = [
     "O.R.",
     "Thork, Zealot of Loki",
     "Surina Juno, Charltan",
-    "Aranna, Astrologer",
+    "Aranna Weaver, Astrologer",
     "Ser Ragnarok, Knight",
     "Thorn, Hedge Wizard",
     "Emma Frog, Hedge Wizard",
