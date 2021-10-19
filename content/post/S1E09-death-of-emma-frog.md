@@ -1,6 +1,6 @@
 +++
 author = "Colin Y.J. Chung"
-title = "The Death of Emma Frog"
+title = "S1E09: The Death of Emma Frog"
 date = "2021-08-08"
 description = "It's pronounced skon"
 tags = [
@@ -10,11 +10,11 @@ tags = [
     "L.C.",
     "A.J.",
     "O.R.",
-    "Aranna, Astrologer",
+    "Aranna Weaver, Astrologer",
     "Emma Frog, Hedge Wizard",
-    "Ser Aust, Knight",
-    "Patrick, Soldier",
-    "Lane, Soldier",
+    "Ser Aust Booker, Knight",
+    "Patrick Weaver, Soldier",
+    "Lane Weaver, Soldier",
     "Myra, Mercenary",
     "Thistle Frog, Assassin",
     "Toaf Frog, Spy",
