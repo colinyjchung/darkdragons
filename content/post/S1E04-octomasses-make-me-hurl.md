@@ -1,6 +1,6 @@
 +++
 author = "Colin Y.J. Chung"
-title = "Octo-Masses Make Me Vomit"
+title = "S1E04: Octo-Masses Make Me Vomit"
 date = "2021-06-13"
 description = "The Churro Formation"
 tags = [
@@ -10,11 +10,11 @@ tags = [
     "E.C.",
     "A.J.",
     "O.R.",
-    "Aranna, Astrologer",
+    "Aranna Weaver, Astrologer",
     "Emma Frog, Hedge Wizard",
     "Orlan, Soldier",
     "Veleris, Pickpocket",
-    "Lane, Soldier",
+    "Lane Weaver, Soldier",
     "Purple Nurple, Knight",
     "Hemdan, Laborer",
     "Somme, Light Footman",
