@@ -1,6 +1,6 @@
 +++
 author = "Colin Y.J. Chung"
-title = "Mildred!!!"
+title = "S1E11: Mildred!!!"
 date = "2021-08-22"
 description = "Crispy Chicken Nuggets"
 tags = [
@@ -10,9 +10,9 @@ tags = [
     "S.B.",
     "E.C.",
     "L.C.",
-    "Aranna, Astrologer",
-    "Ser Aust, Knight",
-    "Lane, Soldier",
+    "Aranna Weaver, Astrologer",
+    "Ser Aust Booker, Knight",
+    "Lane Weaver, Soldier",
     "Selina Milos, Assassin",
     "Slane Milos, Charlton",
     "Shorin Milos, Lower Noble",
