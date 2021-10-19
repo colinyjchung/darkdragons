@@ -1,6 +1,6 @@
 +++
 author = "Colin Y.J. Chung"
-title = "Eyeball Fight!"
+title = "S1E05: Eyeball Fight!"
 date = "2021-07-11"
 description = "We should eat them"
 tags = [
@@ -9,11 +9,11 @@ tags = [
     "E.C.",
     "A.J.",
     "O.R.",
-    "Aranna, Astrologer",
+    "Aranna Weaver, Astrologer",
     "Emma Frog, Hedge Wizard",
     "Orlan, Soldier",
     "Veleris, Pickpocket",
-    "Lane, Soldier",
+    "Lane Weaver, Soldier",
     "Purple Nurple, Knight",
     "Hemdan, Laborer",
     "Somme, Light Footman",
