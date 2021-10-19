@@ -1,6 +1,6 @@
 +++
 author = "Colin Y.J. Chung"
-title = "A Merc and his Dolphin Go A-Swimmin'"
+title = "S1E07: A Merc and his Dolphin Go A-Swimmin'"
 date = "2021-07-25"
 description = "Can't go there either"
 tags = [
@@ -10,12 +10,12 @@ tags = [
     "L.C.",
     "A.J.",
     "O.R.",
-    "Aranna, Astrologer",
+    "Aranna Weaver, Astrologer",
     "Emma Frog, Hedge Wizard",
     "Veleris, Pickpocket",
-    "Ser Aust, Knight",
-    "Patrick, Soldier",
-    "Lane, Soldier",
+    "Ser Aust Booker, Knight",
+    "Patrick Weaver, Soldier",
+    "Lane Weaver, Soldier",
     "Myra, Mercenary",
     "OSR",
     "DCC",
