@@ -1,6 +1,6 @@
 +++
 author = "Colin Y.J. Chung"
-title = "Murdered in Cold Blood"
+title = "S1E06: Murdered in Cold Blood"
 date = "2021-07-18"
 description = "I killed the ceiling"
 tags = [
@@ -9,13 +9,13 @@ tags = [
     "E.C.",
     "A.J.",
     "O.R.",
-    "Aranna, Astrologer",
+    "Aranna Weaver, Astrologer",
     "Emma Frog, Hedge Wizard",
     "Veleris, Pickpocket",
     "Bob the Priest, Bob",
-    "Ser Errich, Knight",
-    "Ser Aust, Knight",
-    "Patrick, Soldier",
+    "Ser Errich Weaver, Knight",
+    "Ser Aust Booker, Knight",
+    "Patrick Weaver, Soldier",
     "Hemdan, Laborer",
     "Elyssa, Archer",
     "Beagull, Heavy Footman",
