@@ -115,6 +115,7 @@ _/end session on the Year of the Leviathan, Month of the Panther, Day of the Eel
 **NEW**
 
 * So many plot hooks in just one little module: The Princess of Blood, the Giant Blood Spider, Lord Daemetrius, The Vampire Court, a planetary system, and Seleana the Vampire Slayer! And the manor itself! It's basically like a bigger version of Dr. Who's TARDIS! I can't wait for next session!
+* So, technically... Lane Weaver and Jahura Gaus level up at the end of this session. But becuase it's a "half-session" and they're still inside a module, I'm going to declare they don't level up unless they survive the Halls of the Blood King.
 
 **OLD**
 
@@ -152,7 +153,7 @@ _/end session on the Year of the Leviathan, Month of the Panther, Day of the Eel
 | Lane Weaver | _AB_ | L4 | 13 | 21 |
 | Gary the Snail | _HA_ | L3 | 5 | 8 |
 | Coil Mahogany | _LC_ | L3 | 4 | 8 |
-| Jahura Gaus | _SB_ | L2 | 3 | 8 |
+| Jahura Gaus | _SB_ | L3 | 3 | 8 |
 | Daot-Daot Doubt | _EC_ | L2 | 2 | 3 |
 | Arden Vey | _EB_ | L2 | 2 | 3 |
 | Erevan Weaver | _OR_ | L2 | 1 | 3 |
