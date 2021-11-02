@@ -38,7 +38,7 @@ Snive Silvyr reveals to Coil that he's been looking at the alignment of stars th
 
 Snive tells them the Blood Moon appears... tonight! And it is Coil's destiny to rescue his great-great aunt!
 
-As it's early in the day, the Snack Club have several hours to prepare. By now, the Snack Club should be well-versed in what this means. Four things, really: Gear, Items, Hirelings, and Research. **Daot-Daot Doubt** (_EC_) upgrades her armor and goes to a priest and ask for holy water. **Aranna Weaver** (_AJ_) does the same, (she plans to dip her arrows in holy water). **Jahura Gaus** (_SB_), whittles two stakes and buys some garlic. **Gary the Snail** (_HA_) makes a garlic-infused crab-cake. Fancy. **Arden Vey**, too, whittles a few stakes. Jahura hires a fighter, Barbara the Barbarian the Second. Gary hires Him the Him. The Snack Club are gearing up... but they do absolutely no further research. Oh well. That's another rumor table in my book gone to waste.
+As it's early in the day, the Snack Club have several hours to prepare. By now, the Snack Club should be well-versed in what this means. Four things, really: Gear, Items, Hirelings, and Research. **Daot-Daot Doubt** (_EC_) upgrades her armor and goes to a priest and ask for holy water. **Aranna Weaver** (_AJ_) does the same, (she plans to dip her arrows in holy water). **Jahura Gaus** (_SB_), whittles two stakes and buys some garlic. **Gary the Snail** (_HA_) makes a garlic-infused crab-cake. Fancy. **Arden Vey** (_EB_), too, whittles a few stakes. Jahura hires a fighter, Barbara the Barbarian the Second. Gary hires Him the Him. The Snack Club are gearing up... but they do absolutely no further research. Oh well. That's another rumor table in my book gone to waste.
 
 But.. But... Snive Silvyr teaches them _neutralize_, a spell they'll need for the coming adventure. And with that... The Snack Club are off to the Halls of the Blood King.
 
@@ -97,7 +97,7 @@ _/end session on the Year of the Leviathan, Month of the Panther, Day of the Eel
 * Petty Cash = 4,458gp
 * Tavern Income = 2,160gp
 
-**SUBTOTAL**: 14,001gp
+**SUBTOTAL**: 14,041gp
 
 **Hidden Cache in Great Forest b/w Mlurg Nar & Gnamph Nar**
 <br/> 610gp
