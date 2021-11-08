@@ -59,13 +59,13 @@ Meanwhile, the rest of the Snack Club (Aranna, Lane, Coil, and Arden) head upsta
 
 ## Lane Oppenheimer, Again
 
-The first wave of the Snack Club head into a room. There are four armored statues there. I ask them if they walk in. They do. The armored statues come to life and attack. At the beginning of the session, I reminded the Snack Club that D&D is not a game where the DM actively kills their players. In 99% of the cases, the players manage to do that themselves _really, really_ well. I also remind them that I often give them very clear hints and warnings... like when I said, "do you walk in?" So when when they clearly ignore my warnings and do the thing I ask them if they're sure about doing it, and do it anyway, it's really not my fault.
+The first wave of the Snack Club head into a room. There are four armored statues there. I ask them if they walk in. They do. The armored statues come to life and attack. At the beginning of the session, I reminded the Snack Club that D&D is not a game where the DM actively kills their players. In 99% of the cases, the players manage to do that themselves _really, really_ well. I also remind them that I often give them very clear hints and warnings... like when I said, "do you walk in?" So when they clearly ignore my warnings and do the thing I ask them if they're sure about doing, and do it anyway, it's really not my fault, is it?
 
 So here we are. They're in a room with four heavily-armored statues with long glaives. They start hacking at the Snack Club. Lane Weaver arrives and casts _control ice_ and turns the room into an ice rink. The statues are slipping and stumbling, but still manage to chop down a few times. One of them gets a hit on Gary the Snail. It does... 10 damage. Remember, when Gary the Snail brute forced himself into a trap and took 2 damage? Well, Gary the Snail has 11 HP total. So **Gary the Snail is dead**.
 
 Lane casts _control ice_ and freezes one of the armored statues, saving Arden Vey from a killing blow. Coil isn't doing well either. Daot-Daot bandages him up. Lane casts _vitality_ on Arden to bring him back to max HP. While all this is happening, Aranna, Coil, and Daot-Daot are firing arrows from the back. Jahura casts _levitate_ and fails.
 
-And then, Lane, in all of the battle chaos, Lane asks everyone if he should cast _control ice_ again. There's shouting and arguing and Lane just does it. It creates a chilling blast of frost that deals 3d10 of damage to everyone on the front-lines. This effectively freezes and shatters all the armored statues... but it also kills Arden Vey, Barbara the Barbarian the Second, and Him the Him. Lane says it's not his fault because he "asked everyone first".
+And then, Lane, in all of the battle chaos, Lane asks everyone if he should cast _control ice_ again. There's shouting and arguing and nobody is listening to Lane (except Daot-Daot who told him to not do it), so Lane casts _control ice_. It creates a chilling blast of frost that deals 3d10 of damage to everyone on the front-lines. This effectively freezes and shatters all the armored statues... but it also kills Arden Vey, Barbara the Barbarian the Second, and Him the Him. Lane says it's not his fault because he "asked everyone first".
 
 Remember when I said players manage to kill themselves without my help? There you go.
 
@@ -91,21 +91,21 @@ And then... the house begins to rumble and shake. Tiles from the ceiling are rai
 
 Jahura leads the way to the balcony. He casts _levitate_. It's only good enough for himself and one other. He brings Aranna down with him to the ground floor. Daot-Daot runs and is ready to climb down when the carnivorous plant from earlier (which was sleeping) seizes her with two vines. Coil and Lane are caught too. Coil starts cutting at the vines. Daot-Daot invokes Mog the Spider God. She grows two spider fangs and bites the plant, poisoning it. Seleana unsheathes her two short-swords and slashes at the plant. Daot-Daot munches on the plant again. The plant is dead.
 
-Daot-Daot prays to Mog again, gains the ability to climb walls like a spider and gets herself down. Jahura casts _levitate_ and create an air carpet, directs it up to the balcony. Lane, Seleana and Coil get on and fly down.
+Daot-Daot prays to Mog again, gains the ability to climb walls like a spider and gets herself down. Jahura casts _levitate_ and creates an air carpet, directs it up to the balcony. Lane, Seleana and Coil get on and fly down.
 
-As they run towards the gates to get out... Jahura decides to cast _levitate_ once more and throw another tree trunk at the house. It crashes into the front door, blocking access. But then Lane decides to add a _fireball_ as cherry on top. it succeeds in blowing up Jahura's barricade and now there's a huge gaping hole in front of the house. Twelve vampires from the multiverse come running out of the gaping hole. They too are running from the collapsing manor. Oops.
+As they run towards the gates to get out... Jahura decides to cast _levitate_ once more and throw another tree trunk at the house. It crashes into the front door, blocking access. But then Lane decides to add a _fireball_ as cherry on top. It succeeds in blowing up Jahura's barricade and now there's a huge gaping hole in front of the house. Twelve vampires from the multiverse come running out of the gaping hole. They too are running from the collapsing manor. Oops.
 
 Jahura yells at the Snack Club to hop on to his air carpet, and they fly up into the sky... and then the Snack Club start pouring all the holy water they saved up... peeling and pelting garlic at the vampires... and then, and then...
 
 Jahura remembers the L-shaped piece of metal, with the weird loop coming out of it. The one he found in the piano. He takes it out, and pulls on the loop. It's a sun ray pistol and it fires a hot beam of sunlight at the dozen vampires, incinerating them.
 
-The Snack Club fly out of there on Jahura's air carpet, cheering wildly.
+The Snack Club flies out of there on Jahura's air carpet, cheering wildly.
 
 ## After an All-Niter Fighting Vampires
 
 The Snack Club, victorious from murdering a dozen vampires and destroying their giant house TARDIS head back to town. In No-Ombrulsk, they deposit their treasure, an ivory-infused, platinum mirror worth 1,250gp, their gem-encrusted, gold-plated edition of Twilight for 1,500gp, and 2,000gp in "loose change" from their bag of holding. Coil sells two vials of living blood for 500gp.
 
-I show them the module's total treasure. There was a potential of 122,000gp in the manor. The Snack Club are surprisingly exhilarated and they're all cheering. I'm confused. They left over 100,000gp of treasure from this module and they're cheering. Listen, parents of the Snack Club who are reading this, maybe you should each have a conversation with your kid about what's acceptable as an accomplishment... because when you manage to loot only ~3,000gp out of 122,000gp in a game.... and have four out of nine guys KIA on the battlefield... that's a failure, not a success. LOL.
+I show them the module's total treasure. There was a potential of 122,000gp in the manor. The Snack Club are surprisingly exhilarated and they're all cheering. I'm confused. They left over 100,000gp of treasure from this module and they're cheering. Listen, parents of the Snack Club who are reading this, maybe you should each have a conversation with your kid about what's acceptable as an accomplishment... because when you manage to loot only ~3,000gp out of 122,000gp in a game.... and have four out of nine guys KIA on the battlefield... that's highly likely a failure in most people's books, and not a success. Maybe? LOL.
 
 Meanwhile, we meet **Erky Skora** (_EB_), an assassin who at one time worked for Ninguable of the Seven Eyes... and **Noname Weaver** (_HA_), yet another Weaver sibling, a no-good, do-nothing ruffian.
 
@@ -123,14 +123,17 @@ The Weaver siblings also finally name their magic weapons. Aranna names her cros
 
 ## A Trip to the East
 
-Finally - Gramme Shelton, the Seneschal of Willowby Hall informs the Weavers that Lady Szara, the noble they partied with has invited them to Sarheenhar. She wants them to see the spectacle that is the maiden voyage of her pet project: **an airship that will cross the desert!** Meanwhile, the voice of Ningauble of the Seven Eyes rattles Jahura's brain, informing Jahura he has changed his mind about the three rare magical ingredients. Ninguable really wants the medusa hair, and orders Jahura to come to his cave near Illthmar. Ninguable will teleport him to the Seer's Sanctum.
+Finally - Gramme Shelton, the Seneschal of Willowby Hall informs the Weavers that Lady Szara, the noble they partied with has invited them to Sarheenhar. She wants them to see the spectacle that is the maiden voyage of her pet project: **an airship that will cross the desert!** 
+
+Meanwhile, the voice of Ningauble of the Seven Eyes rattles Jahura's brain, informing Jahura he has changed his mind about the three rare magical ingredients. Ninguable really wants the medusa hair, and orders Jahura to come to his cave near Illthmar. Ninguable will teleport him to the Seer's Sanctum.
 
 Sarheenhar and Ninguable's cave are in close proximity to each other across the Inner Sea, so the Snack Club all pack up and head off on another adventure.
 
 The Snack Club on a whim decide that maybe they should buy their own ship with all the sea traveling they're doing. I do some math and rattle off some prices. A sloop? 5,000gp. A caravel? 7,500gp. A galleon? 12,500gp. The Snack Club decide it's not a smart purchase right now. So instead, they charter a 3-day journey to Sarheenhar at a cost of 9gp for each of the nine members of the Snack Club. 
 
 
-Final Math:
+**Final Math:**
+
 * Tavern Earnings: (550gp)
 * Willowby Hall Payroll: (255gp)
 * Ratner Swinburne, Archer: (120gp)
