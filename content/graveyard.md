@@ -84,8 +84,13 @@ Here, laid to rest, the careless many, the rash, the unwise... those who met the
 * **[Aust Booker, Knight](https://dragonsinthedark.com/tags/ser-aust-booker-knight/)** (L3-OR). _2021-10-17 (91d)_
 <br/>Crushed into bloody pulp by the WHSCK bronze golem.
 
+* **[Gary the Snail, Spy](https://dragonsinthedark.com/tags/gary-the-snail-juno-spy/)** (L3-HA). _2021-11-07 (42d)_
+<br/>Cleft in two by the glaive of an armored statue.
 
-#### Snack Club Death Count: 24
+* **[Arden Vey, Pickpocket](https://dragonsinthedark.com/tags/arden-vey-pickpocket/)** (L2-EB). _2021-11-07 (21d)_
+<br/>Frozen by Lane Weaver's _control ice_ spell.
+
+#### Snack Club Death Count: 26
 
 _May ye all rest in peace._
 
@@ -168,7 +173,13 @@ Here, laid to rest, hench-people and hirelings who lost their lives following ad
 * **Barbara the Barbarian** (Mgr-SB). _2021-10-10 (7d)_ 
 <br/>Murdered by Glavas Roh in uncontrollable Nightraker rage.
 
-#### Snack Club Hireling Death Count: 20
+* **Barbara the Barbarian II** (Mgr-SB). _2021-11-07 (7d)_ 
+<br/>Frozen to death by Lane's _control ice_ spell.
+
+* **Him the Him, Heavy Footman** (Mgr-HA). _2021-11-07 (7d)_ 
+<br/>Frozen to death by Lane's _control ice_ spell.
+
+#### Snack Club Hireling Death Count: 22
 
 _May ye all rest in peace._
 
