@@ -114,9 +114,9 @@ And with that, in the morning, the Snack Club board the Desert Angel... and airs
 
 ## Tavern Income & Expenses
 
-Meanwhile back in Ool Krut, Rawskull tallies up the profit and loss for the Snack Club's tavern: Dragons in the Dark. During the month of the Raven, Aranna, Noname, and Jahura put together a talent competition, and a cook-off. The cook-off makes the tavern an extra 320gp. The talent competition attracted so less-desirable folk that cost damage. Win some, lose some. Also, Coil had accidentally hired a minstrel named Hlalf last session.
+Meanwhile back in Ool Krut, Rawskull tallies up the profit and loss for the Snack Club's tavern: Dragons in the Dark. During the month of the Raven, Aranna, Noname, and Jahura put together a talent competition, and a cook-off. The cook-off makes the tavern an extra 320gp. The talent competition attracted some less-desirable folk that cost damage. Win some, lose some. Also, Coil had accidentally hired a minstrel named Hlalf last session.
 
-Altogether, base 250gp, minus 150gp (maintenance, security, staff), minus 200gp for Raw Skull and Freya, minus 0 (paid for) Hlalf the minstrel, +320gp for the cook-off, minus 20gp for the talent show fiasco.... and then +10PL for staff, +30PL for Hlalf, +17 for Raw Skull and Freya... and because Raw Skull fed a poor paladin this month, who subsequently blessed their ale, another +20PL, totally +77PL... and with a roll of 86PL, totally 163PL... droven total revenue at 2720gp, and profits of 2350gp. A very profitable month.
+Altogether, base 250gp, minus 150gp (maintenance, security, staff), minus 200gp for Raw Skull and Freya, minus 0 (paid for) Hlalf the minstrel, +320gp for the cook-off, minus 20gp for the talent show fiasco.... and then +10PL for staff, +30PL for Hlalf, +17 for Raw Skull and Freya... and because Raw Skull fed a poor paladin this month, who subsequently blessed their ale, another +20PL, totally +77PL... and with a roll of 86PL, totalling 163PL... driving total revenue of 2720gp, and profits of 2350gp. A very profitable month.
 
 #### Spoilers Ahead for Joseph Robert Lewis's Desert Angel Fiasco (OSR)
 
@@ -131,6 +131,8 @@ Later that night... as Jahura, Daot-Daot, Noname and Coil take first watch... th
 The two gliders land, and the two sky pirates pull out their daggers. One attacks Aranna. Another stabs Daot-Daot. Daot-Daot turns into a bear and claws at her opponent. Aranna steps back and fires an arrow. Jahura, dazed, gets up and casts _control fire_ again. He's wreathed in fire... runs towards the pirate in front fo Daot-Daot... but is a coward about it. Doesn't hug the guy burning him. Instead, he says, I stand next to him. I tell him it does nothing. Lane casts _control ice_ on Naveed and the ballista. It does major damage killing Naveed, destroying the ballista... and damaging the bow of the ship. The fight is short. They're not much of a match. After looting the bodies, Aranna kicks their corpses overboard into the desert.
 
 Captain Ava comes up and sees the damage. The Snack Club report on Naveed the traitor and the two sky-pirates. Ava sighs and asks if any one of them can cook. Daot-Daot volunteers for the remainder of the voyage.
+
+## Word of the Day: Massif
 
 The next day, they travel through the Dead Sun Massif. I had no idea what a "massif" was but assumed it was something like the grand canyon with a range of mountains. Googling it later, I realized I wasn't far off. It's defined as "A large mountain mass or compact group of connected mountains forming an independent portion of a range." Anyway, it's dangerous and everyone on deck is nervous.
 
@@ -229,7 +231,7 @@ Well, that's the last session for The Snack Club for 2021. We're going to take a
 
 One, don't waste city exploration time. Talk to NPCs. Buy them drinks. Make friends. Be curious. Find out what the NPCs are doing and what they want and see if you can help. Go shopping. Find what's available in a new city that's not available in your home town. Go dig through town records. There's SO MUCH you can do in the city. And yet, there was a lot of "I don't know what to do" when they were in Sarheenhar.
 
-Two, there's a overused platitude that says: when you're a hammer, everything looks like a nail. This was clearly the case with Jahura and Lane this session. They're both loaded up with spells and therefore, every problem must be solved with... spells. There were doors they could open with their hands, stairs they could climb with their feet, and clues they could find simply by looking around with their eyes. But no, they did everything with spells. It will catch up to them eventually.
+Two, there's an overused platitude that says: when you're a hammer, everything looks like a nail. This was clearly the case with Jahura and Lane this session. They're both loaded up with spells and therefore, every problem must be solved with... spells. There were doors they could open with their hands, stairs they could climb with their feet, and clues they could find simply by looking around with their eyes. But no, they did everything with spells. It will catch up to them eventually.
 
 Three, maybe stop talking when I'm giving clues and exposition. Because the Snack Club are clearly missing obvious clues I'm doling out. More importantly, TAKE NOTES and DRAW MAPS. We're twenty-one sessions in and the story is getting unwieldy like a fantasy series. Old NPCs and plot hooks from past sessions are going to start cropping up and if you're not taking notes, you're going to get punished. With a group of seven players, you should probably have two mappers instead of just relying on SB, especially when SB's maps seem to confuse you all instead of helping you.
 
